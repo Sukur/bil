@@ -21,7 +21,6 @@ FROM eclipse-temurin:21-jre-alpine
 WORKDIR /app
 RUN addgroup -S bil && adduser -S bil -G bil
 RUN mkdir -p data && chown bil:bil data
-VOLUME ["/app/data"]
 COPY --from=builder /workspace/build/libs/bil-*.jar app.jar
 RUN chown bil:bil app.jar
 USER bil
