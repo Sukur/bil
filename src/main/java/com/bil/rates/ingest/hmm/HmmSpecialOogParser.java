@@ -75,6 +75,10 @@ public class HmmSpecialOogParser implements RatesheetParser {
 
             // POD: derive LOCODE from name
             String pod = nameToLocode(podName);
+            if (pod == null) {
+                log.debug("HmmSpecial: no LOCODE for POD '{}' – skipping row {}", podName, i);
+                continue;
+            }
             BigDecimal ot20ig = CellReader.number(row, 4);
             BigDecimal ot40ig = CellReader.number(row, 5);
             BigDecimal fr20ig = CellReader.number(row, 6);
@@ -113,6 +117,10 @@ public class HmmSpecialOogParser implements RatesheetParser {
             case "ANR", "ANTWERP"        -> "BEANR";
             case "BRV", "BREMERHAVEN"    -> "DEBRV";
             case "BUSAN", "PUSAN"        -> "KRBSN";
+            case "KOBE"                  -> "JPKOB";
+            case "TOKYO", "YOKOHAMA"     -> "JPYOK";
+            case "OSAKA"                 -> "JPOSA";
+            case "NAGOYA"                -> "JPNGO";
             case "SINGAPORE"             -> "SGSIN";
             case "SHANGHAI"              -> "CNSHA";
             case "NINGBO"                -> "CNNGB";
@@ -126,9 +134,6 @@ public class HmmSpecialOogParser implements RatesheetParser {
             case "LAEMCHABANG"           -> "THLCH";
             case "HOCHIMINH", "HCM"      -> "VNSGN";
             case "KAOHSIUNG"             -> "TWKHH";
-            case "TOKYO", "YOKOHAMA"     -> "JPYOK";
-            case "OSAKA"                 -> "JPOSA";
-            case "NAGOYA"                -> "JPNGO";
             default -> s.length() == 5 ? s.toUpperCase() : null;
         };
     }

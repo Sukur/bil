@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, Table, Tag, Typography, Space, Avatar } from 'antd';
-import { GlobalOutlined } from '@ant-design/icons';
+
 
 const { Title, Text } = Typography;
 
@@ -56,4 +56,5 @@ const CarriersPage: React.FC = () => (
 );
 
 export default CarriersPage;
+
 

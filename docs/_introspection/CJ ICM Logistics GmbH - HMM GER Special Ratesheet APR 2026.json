@@ -1,0 +1,1809 @@
+{
+  "file": "CJ ICM Logistics GmbH - HMM GER Special Ratesheet APR 2026.xlsx",
+  "sheets": [
+    {
+      "name": "OOG",
+      "dimensions": "A1:AD82",
+      "max_row": 82,
+      "max_col": 30,
+      "merged_regions": [
+        "E43:L43",
+        "A47:P47",
+        "E3:L3",
+        "A39:N39",
+        "A7:D8",
+        "G8:H8",
+        "O39:P39",
+        "E8:F8",
+        "A1:N1",
+        "E6:P6",
+        "E4:L4",
+        "O1:P1",
+        "A48:P48",
+        "I22:J22",
+        "K22:L22",
+        "M22:N22",
+        "O22:P22",
+        "E7:P7",
+        "K8:L8",
+        "A45:P45",
+        "I8:J8",
+        "E21:P21",
+        "M8:N8",
+        "O8:P8",
+        "A46:P46",
+        "E41:L41",
+        "E22:F22",
+        "G22:H22"
+      ],
+      "rows_preview": [
+        {
+          "row": 1,
+          "cells": [
+            {
+              "row": 1,
+              "col": 1,
+              "value": "Rate Sheet for Special Equipment / Direct Ports only"
+            },
+            {
+              "row": 1,
+              "col": 15,
+              "value": "Hamburg, 20.3.2026"
+            }
+          ]
+        },
+        {
+          "row": 2,
+          "cells": [
+            {
+              "row": 2,
+              "col": 1,
+              "value": "HMM (Germany) GmbH & Co. KG"
+            },
+            {
+              "row": 2,
+              "col": 5,
+              "value": "FOR CUSTOMER:  "
+            },
+            {
+              "row": 2,
+              "col": 7,
+              "value": "CJ ICM Logistics GmbH"
+            }
+          ]
+        },
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 1,
+              "value": "as Agent of HMM Co.Ltd., Seoul/Korea"
+            },
+            {
+              "row": 3,
+              "col": 5,
+              "value": "RATE AGREEMENT/SERVICE CONTRACT: WGB2000001"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 1,
+              "value": "Herrengraben 3,  D-20459 Hamburg, Germany"
+            },
+            {
+              "row": 4,
+              "col": 5,
+              "value": "VALIDITY AS PER RATING DATE (RDA): 01.04.2026 until 30.04.2026"
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 1,
+              "value": "FAR EAST"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "row": 7,
+              "col": 1,
+              "value": "Remarks:\n20'FR /OT OOG  not acceptable on MSC operated vessels (FE5/FE6-services)\nRates via POL Antwerp to be checked case by case "
+            },
+            {
+              "row": 7,
+              "col": 5,
+              "value": "Currency: USD"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 5,
+              "value": "OT ig"
+            },
+            {
+              "row": 8,
+              "col": 7,
+              "value": "FR ig"
+            },
+            {
+              "row": 8,
+              "col": 9,
+              "value": "OT oh"
+            },
+            {
+              "row": 8,
+              "col": 11,
+              "value": "FR oh"
+            },
+            {
+              "row": 8,
+              "col": 13,
+              "value": "FR ow both sides"
+            },
+            {
+              "row": 8,
+              "col": 15,
+              "value": "FR ow/oh"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 1,
+              "value": "POD:"
+            },
+            {
+              "row": 9,
+              "col": 2,
+              "value": "Country:"
+            },
+            {
+              "row": 9,
+              "col": 3,
+              "value": "POL"
+            },
+            {
+              "row": 9,
+              "col": 4,
+              "value": "Service(s)"
+            },
+            {
+              "row": 9,
+              "col": 5,
+              "value": "20'"
+            },
+            {
+              "row": 9,
+              "col": 6,
+              "value": "40'"
+            },
+            {
+              "row": 9,
+              "col": 7,
+              "value": "20'"
+            },
+            {
+              "row": 9,
+              "col": 8,
+              "value": "40'"
+            },
+            {
+              "row": 9,
+              "col": 9,
+              "value": "20'"
+            },
+            {
+              "row": 9,
+              "col": 10,
+              "value": "40'"
+            },
+            {
+              "row": 9,
+              "col": 11,
+              "value": "20'"
+            },
+            {
+              "row": 9,
+              "col": 12,
+              "value": "40'"
+            },
+            {
+              "row": 9,
+              "col": 13,
+              "value": "20'"
+            },
+            {
+              "row": 9,
+              "col": 14,
+              "value": "40'"
+            },
+            {
+              "row": 9,
+              "col": 15,
+              "value": "20'"
+            },
+            {
+              "row": 9,
+              "col": 16,
+              "value": "40'"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 1,
+              "value": "BUSAN"
+            },
+            {
+              "row": 10,
+              "col": 2,
+              "value": "SOUTH KOREA"
+            },
+            {
+              "row": 10,
+              "col": 3,
+              "value": "EX RTM/HAM"
+            },
+            {
+              "row": 10,
+              "col": 4,
+              "value": "FE3, FE6"
+            },
+            {
+              "row": 10,
+              "col": 5,
+              "value": 800
+            },
+            {
+              "row": 10,
+              "col": 6,
+              "value": 700
+            },
+            {
+              "row": 10,
+              "col": 7,
+              "value": 800
+            },
+            {
+              "row": 10,
+              "col": 8,
+              "value": 700
+            },
+            {
+              "row": 10,
+              "col": 9,
+              "value": 1000
+            },
+            {
+              "row": 10,
+              "col": 10,
+              "value": 1000
+            },
+            {
+              "row": 10,
+              "col": 11,
+              "value": 1000
+            },
+            {
+              "row": 10,
+              "col": 12,
+              "value": 1000
+            },
+            {
+              "row": 10,
+              "col": 13,
+              "value": 1250
+            },
+            {
+              "row": 10,
+              "col": 14,
+              "value": 1250
+            },
+            {
+              "row": 10,
+              "col": 15,
+              "value": 1600
+            },
+            {
+              "row": 10,
+              "col": 16,
+              "value": 1500
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 1,
+              "value": "SINGAPORE"
+            },
+            {
+              "row": 11,
+              "col": 2,
+              "value": "SINGAPORE"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "EX RTM/HAM"
+            },
+            {
+              "row": 11,
+              "col": 4,
+              "value": "FP1, FE3, FE4, FE5, FE6"
+            },
+            {
+              "row": 11,
+              "col": 5,
+              "value": 800
+            },
+            {
+              "row": 11,
+              "col": 6,
+              "value": 700
+            },
+            {
+              "row": 11,
+              "col": 7,
+              "value": 800
+            },
+            {
+              "row": 11,
+              "col": 8,
+              "value": 700
+            },
+            {
+              "row": 11,
+              "col": 9,
+              "value": 1000
+            },
+            {
+              "row": 11,
+              "col": 10,
+              "value": 1000
+            },
+            {
+              "row": 11,
+              "col": 11,
+              "value": 1000
+            },
+            {
+              "row": 11,
+              "col": 12,
+              "value": 1000
+            },
+            {
+              "row": 11,
+              "col": 13,
+              "value": 1250
+            },
+            {
+              "row": 11,
+              "col": 14,
+              "value": 1250
+            },
+            {
+              "row": 11,
+              "col": 15,
+              "value": 1600
+            },
+            {
+              "row": 11,
+              "col": 16,
+              "value": 1500
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 1,
+              "value": "SHANGHAI"
+            },
+            {
+              "row": 12,
+              "col": 2,
+              "value": "CHINA"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "EX RTM"
+            },
+            {
+              "row": 12,
+              "col": 4,
+              "value": "FE3, FE4, FE5"
+            },
+            {
+              "row": 12,
+              "col": 5,
+              "value": 800
+            },
+            {
+              "row": 12,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 12,
+              "col": 7,
+              "value": 800
+            },
+            {
+              "row": 12,
+              "col": 8,
+              "value": 700
+            },
+            {
+              "row": 12,
+              "col": 9,
+              "value": 1000
+            },
+            {
+              "row": 12,
+              "col": 10,
+              "value": 1000
+            },
+            {
+              "row": 12,
+              "col": 11,
+              "value": 1000
+            },
+            {
+              "row": 12,
+              "col": 12,
+              "value": 1000
+            },
+            {
+              "row": 12,
+              "col": 13,
+              "value": 1250
+            },
+            {
+              "row": 12,
+              "col": 14,
+              "value": 1250
+            },
+            {
+              "row": 12,
+              "col": 15,
+              "value": 1600
+            },
+            {
+              "row": 12,
+              "col": 16,
+              "value": 1500
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "row": 13,
+              "col": 1,
+              "value": "SHANGHAI"
+            },
+            {
+              "row": 13,
+              "col": 2,
+              "value": "CHINA"
+            },
+            {
+              "row": 13,
+              "col": 3,
+              "value": "EX HAM"
+            },
+            {
+              "row": 13,
+              "col": 4,
+              "value": "FE3, FE4, FE5"
+            },
+            {
+              "row": 13,
+              "col": 5,
+              "value": 800
+            },
+            {
+              "row": 13,
+              "col": 6,
+              "value": 500
+            },
+            {
+              "row": 13,
+              "col": 7,
+              "value": 800
+            },
+            {
+              "row": 13,
+              "col": 8,
+              "value": 700
+            },
+            {
+              "row": 13,
+              "col": 9,
+              "value": 1000
+            },
+            {
+              "row": 13,
+              "col": 10,
+              "value": 1000
+            },
+            {
+              "row": 13,
+              "col": 11,
+              "value": 1000
+            },
+            {
+              "row": 13,
+              "col": 12,
+              "value": 1000
+            },
+            {
+              "row": 13,
+              "col": 13,
+              "value": 1250
+            },
+            {
+              "row": 13,
+              "col": 14,
+              "value": 1250
+            },
+            {
+              "row": 13,
+              "col": 15,
+              "value": 1600
+            },
+            {
+              "row": 13,
+              "col": 16,
+              "value": 1500
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 1,
+              "value": "NINGBO"
+            },
+            {
+              "row": 14,
+              "col": 2,
+              "value": "CHINA"
+            },
+            {
+              "row": 14,
+              "col": 3,
+              "value": "EX RTM/HAM"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "FE4, FE5"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": 800
+            },
+            {
+              "row": 14,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 14,
+              "col": 7,
+              "value": 800
+            },
+            {
+              "row": 14,
+              "col": 8,
+              "value": 700
+            },
+            {
+              "row": 14,
+              "col": 9,
+              "value": 1000
+            },
+            {
+              "row": 14,
+              "col": 10,
+              "value": 1000
+            },
+            {
+              "row": 14,
+              "col": 11,
+              "value": 1000
+            },
+            {
+              "row": 14,
+              "col": 12,
+              "value": 1000
+            },
+            {
+              "row": 14,
+              "col": 13,
+              "value": 1250
+            },
+            {
+              "row": 14,
+              "col": 14,
+              "value": 1250
+            },
+            {
+              "row": 14,
+              "col": 15,
+              "value": 1600
+            },
+            {
+              "row": 14,
+              "col": 16,
+              "value": 1500
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 1,
+              "value": "QINGDAO"
+            },
+            {
+              "row": 15,
+              "col": 2,
+              "value": "CHINA"
+            },
+            {
+              "row": 15,
+              "col": 3,
+              "value": "EX RTM/HAM"
+            },
+            {
+              "row": 15,
+              "col": 4,
+              "value": "FE3, FE5"
+            },
+            {
+              "row": 15,
+              "col": 5,
+              "value": 800
+            },
+            {
+              "row": 15,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 15,
+              "col": 7,
+              "value": 800
+            },
+            {
+              "row": 15,
+              "col": 8,
+              "value": 700
+            },
+            {
+              "row": 15,
+              "col": 9,
+              "value": 1000
+            },
+            {
+              "row": 15,
+              "col": 10,
+              "value": 1000
+            },
+            {
+              "row": 15,
+              "col": 11,
+              "value": 1000
+            },
+            {
+              "row": 15,
+              "col": 12,
+              "value": 1000
+            },
+            {
+              "row": 15,
+              "col": 13,
+              "value": 1250
+            },
+            {
+              "row": 15,
+              "col": 14,
+              "value": 1250
+            },
+            {
+              "row": 15,
+              "col": 15,
+              "value": 1600
+            },
+            {
+              "row": 15,
+              "col": 16,
+              "value": 1500
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 1,
+              "value": "YANTIAN"
+            },
+            {
+              "row": 16,
+              "col": 2,
+              "value": "CHINA"
+            },
+            {
+              "row": 16,
+              "col": 3,
+              "value": "EX RTM"
+            },
+            {
+              "row": 16,
+              "col": 4,
+              "value": "FE3, FE4, FE5"
+            },
+            {
+              "row": 16,
+              "col": 5,
+              "value": 800
+            },
+            {
+              "row": 16,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 16,
+              "col": 7,
+              "value": 800
+            },
+            {
+              "row": 16,
+              "col": 8,
+              "value": 700
+            },
+            {
+              "row": 16,
+              "col": 9,
+              "value": 1000
+            },
+            {
+              "row": 16,
+              "col": 10,
+              "value": 1000
+            },
+            {
+              "row": 16,
+              "col": 11,
+              "value": 1000
+            },
+            {
+              "row": 16,
+              "col": 12,
+              "value": 1000
+            },
+            {
+              "row": 16,
+              "col": 13,
+              "value": 1250
+            },
+            {
+              "row": 16,
+              "col": 14,
+              "value": 1250
+            },
+            {
+              "row": 16,
+              "col": 15,
+              "value": 1600
+            },
+            {
+              "row": 16,
+              "col": 16,
+              "value": 1500
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 1,
+              "value": "YANTIAN"
+            },
+            {
+              "row": 17,
+              "col": 2,
+              "value": "CHINA"
+            },
+            {
+              "row": 17,
+              "col": 3,
+              "value": "EX HAM"
+            },
+            {
+              "row": 17,
+              "col": 4,
+              "value": "FE3, FE4"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": 800
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": 500
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": 800
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": 700
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": 1000
+            },
+            {
+              "row": 17,
+              "col": 10,
+              "value": 1000
+            },
+            {
+              "row": 17,
+              "col": 11,
+              "value": 1000
+            },
+            {
+              "row": 17,
+              "col": 12,
+              "value": 1000
+            },
+            {
+              "row": 17,
+              "col": 13,
+              "value": 1250
+            },
+            {
+              "row": 17,
+              "col": 14,
+              "value": 1250
+            },
+            {
+              "row": 17,
+              "col": 15,
+              "value": 1600
+            },
+            {
+              "row": 17,
+              "col": 16,
+              "value": 1500
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 1,
+              "value": "KOBE"
+            },
+            {
+              "row": 18,
+              "col": 2,
+              "value": "JAPAN"
+            },
+            {
+              "row": 18,
+              "col": 3,
+              "value": "EX RTM/HAM"
+            },
+            {
+              "row": 18,
+              "col": 4,
+              "value": "FP1"
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": 1200
+            },
+            {
+              "row": 18,
+              "col": 6,
+              "value": 1100
+            },
+            {
+              "row": 18,
+              "col": 7,
+              "value": 1300
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": 1200
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": 1350
+            },
+            {
+              "row": 18,
+              "col": 10,
+              "value": 1300
+            },
+            {
+              "row": 18,
+              "col": 11,
+              "value": 1500
+            },
+            {
+              "row": 18,
+              "col": 12,
+              "value": 1500
+            },
+            {
+              "row": 18,
+              "col": 13,
+              "value": 1700
+            },
+            {
+              "row": 18,
+              "col": 14,
+              "value": 1700
+            },
+            {
+              "row": 18,
+              "col": 15,
+              "value": 2000
+            },
+            {
+              "row": 18,
+              "col": 16,
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 1,
+              "value": "NAGOYA"
+            },
+            {
+              "row": 19,
+              "col": 2,
+              "value": "JAPAN"
+            },
+            {
+              "row": 19,
+              "col": 3,
+              "value": "EX RTM/HAM"
+            },
+            {
+              "row": 19,
+              "col": 4,
+              "value": "FP1"
+            },
+            {
+              "row": 19,
+              "col": 5,
+              "value": 1200
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": 1100
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": 1300
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": 1200
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": 1350
+            },
+            {
+              "row": 19,
+              "col": 10,
+              "value": 1300
+            },
+            {
+              "row": 19,
+              "col": 11,
+              "value": 1500
+            },
+            {
+              "row": 19,
+              "col": 12,
+              "value": 1500
+            },
+            {
+              "row": 19,
+              "col": 13,
+              "value": 1700
+            },
+            {
+              "row": 19,
+              "col": 14,
+              "value": 1700
+            },
+            {
+              "row": 19,
+              "col": 15,
+              "value": 2000
+            },
+            {
+              "row": 19,
+              "col": 16,
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 1,
+              "value": "TOKYO"
+            },
+            {
+              "row": 20,
+              "col": 2,
+              "value": "JAPAN"
+            },
+            {
+              "row": 20,
+              "col": 3,
+              "value": "EX RTM/HAM"
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": "FP1"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": 1200
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": 1100
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": 1300
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": 1200
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": 1350
+            },
+            {
+              "row": 20,
+              "col": 10,
+              "value": 1300
+            },
+            {
+              "row": 20,
+              "col": 11,
+              "value": 1500
+            },
+            {
+              "row": 20,
+              "col": 12,
+              "value": 1500
+            },
+            {
+              "row": 20,
+              "col": 13,
+              "value": 1700
+            },
+            {
+              "row": 20,
+              "col": 14,
+              "value": 1700
+            },
+            {
+              "row": 20,
+              "col": 15,
+              "value": 2000
+            },
+            {
+              "row": 20,
+              "col": 16,
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 1,
+              "value": "INDIA / PAKISTAN"
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": "Currency: USD"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 5,
+              "value": "OT ig"
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": "FR ig"
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": "OT oh"
+            },
+            {
+              "row": 22,
+              "col": 11,
+              "value": "FR oh"
+            },
+            {
+              "row": 22,
+              "col": 13,
+              "value": "FR ow both sides"
+            },
+            {
+              "row": 22,
+              "col": 15,
+              "value": "FR ow/oh"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 1,
+              "value": "POD:"
+            },
+            {
+              "row": 23,
+              "col": 2,
+              "value": "Country:"
+            },
+            {
+              "row": 23,
+              "col": 3,
+              "value": "POL"
+            },
+            {
+              "row": 23,
+              "col": 4,
+              "value": "Service(s)"
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": "20'"
+            },
+            {
+              "row": 23,
+              "col": 6,
+              "value": "40'"
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": "20'"
+            },
+            {
+              "row": 23,
+              "col": 8,
+              "value": "40'"
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": "20'"
+            },
+            {
+              "row": 23,
+              "col": 10,
+              "value": "40'"
+            },
+            {
+              "row": 23,
+              "col": 11,
+              "value": "20'"
+            },
+            {
+              "row": 23,
+              "col": 12,
+              "value": "40'"
+            },
+            {
+              "row": 23,
+              "col": 13,
+              "value": "20'"
+            },
+            {
+              "row": 23,
+              "col": 14,
+              "value": "40'"
+            },
+            {
+              "row": 23,
+              "col": 15,
+              "value": "20'"
+            },
+            {
+              "row": 23,
+              "col": 16,
+              "value": "40'"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 1,
+              "value": "NHAVA SHEVA"
+            },
+            {
+              "row": 24,
+              "col": 2,
+              "value": "INDIA"
+            },
+            {
+              "row": 24,
+              "col": 3,
+              "value": "EX RTM/HAM/ANR"
+            },
+            {
+              "row": 24,
+              "col": 4,
+              "value": "INX"
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": 1100
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": 1150
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": 1100
+            },
+            {
+              "row": 24,
+              "col": 8,
+              "value": 1150
+            },
+            {
+              "row": 24,
+              "col": 9,
+              "value": 1500
+            },
+            {
+              "row": 24,
+              "col": 10,
+              "value": 1400
+            },
+            {
+              "row": 24,
+              "col": 11,
+              "value": 1500
+            },
+            {
+              "row": 24,
+              "col": 12,
+              "value": 1400
+            },
+            {
+              "row": 24,
+              "col": 13,
+              "value": 1900
+            },
+            {
+              "row": 24,
+              "col": 14,
+              "value": 1800
+            },
+            {
+              "row": 24,
+              "col": 15,
+              "value": 2400
+            },
+            {
+              "row": 24,
+              "col": 16,
+              "value": 2300
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 1,
+              "value": "MUNDRA"
+            },
+            {
+              "row": 25,
+              "col": 2,
+              "value": "INDIA"
+            },
+            {
+              "row": 25,
+              "col": 3,
+              "value": "EX RTM/HAM/ANR"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": "INX"
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": 1100
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": 1150
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": 1100
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": 1150
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": 1500
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": 1400
+            },
+            {
+              "row": 25,
+              "col": 11,
+              "value": 1500
+            },
+            {
+              "row": 25,
+              "col": 12,
+              "value": 1400
+            },
+            {
+              "row": 25,
+              "col": 13,
+              "value": 1900
+            },
+            {
+              "row": 25,
+              "col": 14,
+              "value": 1800
+            },
+            {
+              "row": 25,
+              "col": 15,
+              "value": 2400
+            },
+            {
+              "row": 25,
+              "col": 16,
+              "value": 2300
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 1,
+              "value": "KARACHI"
+            },
+            {
+              "row": 26,
+              "col": 2,
+              "value": "PAKISTAN"
+            },
+            {
+              "row": 26,
+              "col": 3,
+              "value": "EX RTM/HAM/ANR"
+            },
+            {
+              "row": 26,
+              "col": 4,
+              "value": "INX"
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": 1100
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": 1150
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": 1100
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": 1150
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": 1500
+            },
+            {
+              "row": 26,
+              "col": 10,
+              "value": 1400
+            },
+            {
+              "row": 26,
+              "col": 11,
+              "value": 1500
+            },
+            {
+              "row": 26,
+              "col": 12,
+              "value": 1400
+            },
+            {
+              "row": 26,
+              "col": 13,
+              "value": 1900
+            },
+            {
+              "row": 26,
+              "col": 14,
+              "value": 1800
+            },
+            {
+              "row": 26,
+              "col": 15,
+              "value": 2400
+            },
+            {
+              "row": 26,
+              "col": 16,
+              "value": 2300
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 1,
+              "value": "HAZIRA"
+            },
+            {
+              "row": 27,
+              "col": 2,
+              "value": "INDIA"
+            },
+            {
+              "row": 27,
+              "col": 3,
+              "value": "EX RTM/HAM/ANR"
+            },
+            {
+              "row": 27,
+              "col": 4,
+              "value": "INX"
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": 1200
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": 1350
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": 1200
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": 1350
+            },
+            {
+              "row": 27,
+              "col": 9,
+              "value": 1600
+            },
+            {
+              "row": 27,
+              "col": 10,
+              "value": 1600
+            },
+            {
+              "row": 27,
+              "col": 11,
+              "value": 1600
+            },
+            {
+              "row": 27,
+              "col": 12,
+              "value": 1600
+            },
+            {
+              "row": 27,
+              "col": 13,
+              "value": 2000
+            },
+            {
+              "row": 27,
+              "col": 14,
+              "value": 2000
+            },
+            {
+              "row": 27,
+              "col": 15,
+              "value": 2500
+            },
+            {
+              "row": 27,
+              "col": 16,
+              "value": 2500
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 1,
+              "value": "Included surcharges (V.A.T.O.S.):"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": "Excluded surcharges (V.A.T.O.S.):"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 1,
+              "value": "AMS Aden Gulf Emergency Surcharge"
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": "KLS  Korean Low Sulphur Surcharge: USD 3,00/TEU - applicable for destinations in Korea only"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 1,
+              "value": "BUC Bunker Charge"
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": "EES  EU ETS Surcharge Q2/2026: EUR 25,00/TEU to Asia, EUR 35,00/TEU to India & Pakistan"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 1,
+              "value": "ECC Environmental Compliance Charge"
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": "EFL Emergency Fuel Surcharge, currently USD 75,00/TEU, to be reviewed bi-weekly"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 1,
+              "value": "STF Suez Transit Fee"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 1,
+              "value": "THL THC in Loading Port"
+            },
+            {
+              "row": 34,
+              "col": 5,
+              "value": "DOC Fee: EUR 30/BL (web/wisetech), EUR 40/BL (Dakosy, EDI), EUR 50/BL (GT Nexus, Inttra)"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 1,
+              "value": "TSL Terminal Security charges (ISPS) in Loading Port"
+            },
+            {
+              "row": 35,
+              "col": 5,
+              "value": "AM1 (CHINA) Filing: USD 35/BL"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 5,
+              "value": "AFR (Japan) Filing: USD 35/BL"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 16,
+              "value": "Page 1/2"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 1,
+              "value": "Rate Sheet for Special Equipment / Direct Ports only"
+            },
+            {
+              "row": 39,
+              "col": 15,
+              "value": "Hamburg, 20.3.2026"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 1,
+              "value": "HMM (Germany) GmbH & Co. KG"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 2
+    }
+  ]
+}

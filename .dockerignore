@@ -1,0 +1,28 @@
+# Build artifacts
+build/
+.gradle/
+
+# Frontend build cache (built inside Docker)
+frontend/node_modules/
+frontend/dist/
+
+# Spring Boot static output (built inside Docker)
+src/main/resources/static/
+
+# H2 local database
+data/
+
+# IDE & OS
+.idea/
+*.iml
+.DS_Store
+*.class
+
+# Git
+.git/
+.gitignore
+
+# Docs & tools
+docs/
+tools/
+

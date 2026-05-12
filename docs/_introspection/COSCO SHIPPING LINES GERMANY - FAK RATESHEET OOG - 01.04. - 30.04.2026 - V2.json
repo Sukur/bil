@@ -1,0 +1,6839 @@
+{
+  "file": "COSCO SHIPPING LINES GERMANY - FAK RATESHEET OOG - 01.04. - 30.04.2026 - V2.xlsx",
+  "sheets": [
+    {
+      "name": " FE - OOG ",
+      "dimensions": "A1:CL434",
+      "max_row": 434,
+      "max_col": 90,
+      "merged_regions": [
+        "K49:L49",
+        "E71:F71",
+        "K33:L33",
+        "G71:H71",
+        "C91:L91",
+        "M14:M16",
+        "I16:J16",
+        "C41:C42",
+        "I71:J71",
+        "G18:H18",
+        "I18:J18",
+        "K52:L52",
+        "G9:N12",
+        "C43:C44",
+        "G68:H68",
+        "C66:C67",
+        "E49:F49",
+        "E36:F36",
+        "I52:J52",
+        "C73:C77",
+        "J3:N3",
+        "C69:C70",
+        "D34:D35",
+        "I30:J30",
+        "G59:H59",
+        "K30:L30",
+        "C112:N112",
+        "I15:J15",
+        "K15:L15",
+        "C45:C46",
+        "G8:N8",
+        "C17:C25",
+        "C47:C48",
+        "C31:C32",
+        "E40:F40",
+        "G49:H49",
+        "C60:C61",
+        "B93:N93",
+        "G33:H33",
+        "I33:J33",
+        "D37:D38",
+        "B109:M109",
+        "E16:F16",
+        "G16:H16",
+        "C34:C35",
+        "J2:N2",
+        "B14:B16",
+        "I59:J59",
+        "N14:N16",
+        "E18:F18"
+      ],
+      "rows_preview": [
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 10,
+              "value": "COSCO Shipping Lines ( Germany ) GmbH"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 10,
+              "value": "As agent only, for and on behalf of COSCO Shipping Lines CO.,LTD."
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 2,
+              "value": "OOG / AWKWARD CARGO - NORTH WEST CONTINENT  /  FAR EAST EASTBOUND  "
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 2,
+              "value": "VALIDITY"
+            },
+            {
+              "row": 8,
+              "col": 3,
+              "value": "01.04.2026 - 30.04.2026"
+            },
+            {
+              "row": 8,
+              "col": 4,
+              "value": "BASIS OF CALCULATION"
+            },
+            {
+              "row": 8,
+              "col": 7,
+              "value": "REMARKS / TRADE NEWS"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 2,
+              "value": "COMMODITY"
+            },
+            {
+              "row": 9,
+              "col": 3,
+              "value": "Freight all Kind, Non Hazardous"
+            },
+            {
+              "row": 9,
+              "col": 4,
+              "value": "CARGO RECEIVE DATE"
+            },
+            {
+              "row": 9,
+              "col": 7,
+              "value": "EFS VATOS implemented effective 20.03.2026"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 2,
+              "value": "CURRENCY"
+            },
+            {
+              "row": 10,
+              "col": 3,
+              "value": "USD"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "TERMS & CONDITONS"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 2,
+              "value": "FILING REF"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 2,
+              "value": "POL"
+            },
+            {
+              "row": 14,
+              "col": 3,
+              "value": "AREA"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": "20'OT/ FR "
+            },
+            {
+              "row": 14,
+              "col": 6,
+              "value": "40'OT/OQ/FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 7,
+              "value": "20'OT/ FR "
+            },
+            {
+              "row": 14,
+              "col": 8,
+              "value": "40'OT/OQ/FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 9,
+              "value": "20'FR"
+            },
+            {
+              "row": 14,
+              "col": 10,
+              "value": "40'FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 11,
+              "value": "20'FR "
+            },
+            {
+              "row": 14,
+              "col": 12,
+              "value": "40'FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 13,
+              "value": "TERM"
+            },
+            {
+              "row": 14,
+              "col": 14,
+              "value": "REMARK / VIA"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 5,
+              "value": "IN GAUGE "
+            },
+            {
+              "row": 15,
+              "col": 7,
+              "value": "OH"
+            },
+            {
+              "row": 15,
+              "col": 9,
+              "value": "OW"
+            },
+            {
+              "row": 15,
+              "col": 11,
+              "value": "OWOH"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 5,
+              "value": "Filing No. 00032343-841   ↓"
+            },
+            {
+              "row": 16,
+              "col": 7,
+              "value": "Filing No. 00032343-842 ↓"
+            },
+            {
+              "row": 16,
+              "col": 9,
+              "value": "Filing No. 00032343-843 ↓"
+            },
+            {
+              "row": 16,
+              "col": 11,
+              "value": "Filing No. 00032343-844 ↓"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 3,
+              "value": "China"
+            },
+            {
+              "row": 17,
+              "col": 4,
+              "value": "Nansha"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": 350
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": 650
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": 1050
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": 1350
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": 1650
+            },
+            {
+              "row": 17,
+              "col": 10,
+              "value": 1850
+            },
+            {
+              "row": 17,
+              "col": 11,
+              "value": 2350
+            },
+            {
+              "row": 17,
+              "col": 12,
+              "value": 2650
+            },
+            {
+              "row": 17,
+              "col": 13,
+              "value": "GI/CY"
+            },
+            {
+              "row": 17,
+              "col": 14,
+              "value": "PKG"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 5,
+              "value": "Filing No. 00032343-00004   ↓"
+            },
+            {
+              "row": 18,
+              "col": 7,
+              "value": "Filing No. 00032343-00006 ↓"
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": "Filing No. 00032343-00008 ↓"
+            },
+            {
+              "row": 18,
+              "col": 11,
+              "value": "Filing No. 00032343-00010 ↓"
+            },
+            {
+              "row": 18,
+              "col": 13,
+              "value": "TERM"
+            },
+            {
+              "row": 18,
+              "col": 14,
+              "value": "REMARK / VIA"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 4,
+              "value": "Dalian"
+            },
+            {
+              "row": 19,
+              "col": 5,
+              "value": 250
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": 750
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": 850
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": 1050
+            },
+            {
+              "row": 19,
+              "col": 10,
+              "value": 1150
+            },
+            {
+              "row": 19,
+              "col": 11,
+              "value": 1550
+            },
+            {
+              "row": 19,
+              "col": 12,
+              "value": 1650
+            },
+            {
+              "row": 19,
+              "col": 13,
+              "value": "GI/CY"
+            },
+            {
+              "row": 19,
+              "col": 14,
+              "value": "Direct only"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 4,
+              "value": "Tianjin/Xingang "
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": 250
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": 750
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": 850
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": 1050
+            },
+            {
+              "row": 20,
+              "col": 10,
+              "value": 1150
+            },
+            {
+              "row": 20,
+              "col": 11,
+              "value": 1550
+            },
+            {
+              "row": 20,
+              "col": 12,
+              "value": 1650
+            },
+            {
+              "row": 20,
+              "col": 13,
+              "value": "GI/CY"
+            },
+            {
+              "row": 20,
+              "col": 14,
+              "value": "Direct only"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 4,
+              "value": "Qingdao "
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": 250
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": 750
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": 850
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": 1050
+            },
+            {
+              "row": 21,
+              "col": 10,
+              "value": 1150
+            },
+            {
+              "row": 21,
+              "col": 11,
+              "value": 1550
+            },
+            {
+              "row": 21,
+              "col": 12,
+              "value": 1650
+            },
+            {
+              "row": 21,
+              "col": 13,
+              "value": "GI/CY"
+            },
+            {
+              "row": 21,
+              "col": 14,
+              "value": "Direct only"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 2,
+              "value": "HAMBURG "
+            },
+            {
+              "row": 22,
+              "col": 4,
+              "value": "Shanghai "
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": 250
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": 750
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": 850
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": 1050
+            },
+            {
+              "row": 22,
+              "col": 10,
+              "value": 1150
+            },
+            {
+              "row": 22,
+              "col": 11,
+              "value": 1550
+            },
+            {
+              "row": 22,
+              "col": 12,
+              "value": 1650
+            },
+            {
+              "row": 22,
+              "col": 13,
+              "value": "GI/CY"
+            },
+            {
+              "row": 22,
+              "col": 14,
+              "value": "Direct only"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 2,
+              "value": "WILHELMSHAVEN"
+            },
+            {
+              "row": 23,
+              "col": 4,
+              "value": "Ningbo"
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": 250
+            },
+            {
+              "row": 23,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": 750
+            },
+            {
+              "row": 23,
+              "col": 8,
+              "value": 850
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": 1050
+            },
+            {
+              "row": 23,
+              "col": 10,
+              "value": 1150
+            },
+            {
+              "row": 23,
+              "col": 11,
+              "value": 1550
+            },
+            {
+              "row": 23,
+              "col": 12,
+              "value": 1650
+            },
+            {
+              "row": 23,
+              "col": 13,
+              "value": "GI/CY"
+            },
+            {
+              "row": 23,
+              "col": 14,
+              "value": "Direct only"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 2,
+              "value": "ANTWERP"
+            },
+            {
+              "row": 24,
+              "col": 4,
+              "value": "Xiamen "
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": 250
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": 750
+            },
+            {
+              "row": 24,
+              "col": 8,
+              "value": 850
+            },
+            {
+              "row": 24,
+              "col": 9,
+              "value": 1050
+            },
+            {
+              "row": 24,
+              "col": 10,
+              "value": 1150
+            },
+            {
+              "row": 24,
+              "col": 11,
+              "value": 1550
+            },
+            {
+              "row": 24,
+              "col": 12,
+              "value": 1650
+            },
+            {
+              "row": 24,
+              "col": 13,
+              "value": "GI/CY"
+            },
+            {
+              "row": 24,
+              "col": 14,
+              "value": "Direct only"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": "Yantian "
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": 250
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": 750
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": 850
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": 1050
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": 1150
+            },
+            {
+              "row": 25,
+              "col": 11,
+              "value": 1550
+            },
+            {
+              "row": 25,
+              "col": 12,
+              "value": 1650
+            },
+            {
+              "row": 25,
+              "col": 13,
+              "value": "GI/CY"
+            },
+            {
+              "row": 25,
+              "col": 14,
+              "value": "Direct only"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 2,
+              "value": "ZEEBRUGGE"
+            },
+            {
+              "row": 26,
+              "col": 3,
+              "value": "Taiwan "
+            },
+            {
+              "row": 26,
+              "col": 4,
+              "value": "Kaohsiung "
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": 250
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": 750
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": 850
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": 1050
+            },
+            {
+              "row": 26,
+              "col": 10,
+              "value": 1150
+            },
+            {
+              "row": 26,
+              "col": 11,
+              "value": 1550
+            },
+            {
+              "row": 26,
+              "col": 12,
+              "value": 1650
+            },
+            {
+              "row": 26,
+              "col": 13,
+              "value": "GI/CY"
+            },
+            {
+              "row": 26,
+              "col": 14,
+              "value": "Direct only"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 4,
+              "value": "Taipei Port "
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": 250
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": 750
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": 850
+            },
+            {
+              "row": 27,
+              "col": 9,
+              "value": 1050
+            },
+            {
+              "row": 27,
+              "col": 10,
+              "value": 1150
+            },
+            {
+              "row": 27,
+              "col": 11,
+              "value": 1550
+            },
+            {
+              "row": 27,
+              "col": 12,
+              "value": 1650
+            },
+            {
+              "row": 27,
+              "col": 13,
+              "value": "GI/CY"
+            },
+            {
+              "row": 27,
+              "col": 14,
+              "value": "Direct only"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 3,
+              "value": "Korea"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": "Pusan"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": 650
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": 950
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": 1650
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": 1850
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": 2050
+            },
+            {
+              "row": 28,
+              "col": 10,
+              "value": 2350
+            },
+            {
+              "row": 28,
+              "col": 11,
+              "value": 2850
+            },
+            {
+              "row": 28,
+              "col": 12,
+              "value": 3650
+            },
+            {
+              "row": 28,
+              "col": 13,
+              "value": "GI/CY"
+            },
+            {
+              "row": 28,
+              "col": 14,
+              "value": "SHA"
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 3,
+              "value": "Malaysia"
+            },
+            {
+              "row": 29,
+              "col": 4,
+              "value": "Port Kelang "
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": 250
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": 750
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": 850
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": 1050
+            },
+            {
+              "row": 29,
+              "col": 10,
+              "value": 1150
+            },
+            {
+              "row": 29,
+              "col": 11,
+              "value": 1550
+            },
+            {
+              "row": 29,
+              "col": 12,
+              "value": 1650
+            },
+            {
+              "row": 29,
+              "col": 13,
+              "value": "GI/CY"
+            },
+            {
+              "row": 29,
+              "col": 14,
+              "value": "Direct only"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 3,
+              "value": "AREA"
+            },
+            {
+              "row": 30,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": "Filing No. 00032343-00005 ↓"
+            },
+            {
+              "row": 30,
+              "col": 7,
+              "value": "Filing No. 00032343-00007 ↓"
+            },
+            {
+              "row": 30,
+              "col": 9,
+              "value": "Filing No. 00032343-00009 ↓"
+            },
+            {
+              "row": 30,
+              "col": 11,
+              "value": "Filing No. 00032343-00011 ↓"
+            },
+            {
+              "row": 30,
+              "col": 13,
+              "value": "TERM"
+            },
+            {
+              "row": 30,
+              "col": 14,
+              "value": "REMARK / VIA"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 3,
+              "value": "Singapore "
+            },
+            {
+              "row": 31,
+              "col": 4,
+              "value": "Singapore "
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": 250
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 31,
+              "col": 13,
+              "value": "GI/CY"
+            },
+            {
+              "row": 31,
+              "col": 14,
+              "value": "Direct only"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 7,
+              "value": 750
+            },
+            {
+              "row": 32,
+              "col": 8,
+              "value": 850
+            },
+            {
+              "row": 32,
+              "col": 9,
+              "value": 1050
+            },
+            {
+              "row": 32,
+              "col": 10,
+              "value": 1150
+            },
+            {
+              "row": 32,
+              "col": 11,
+              "value": 1550
+            },
+            {
+              "row": 32,
+              "col": 12,
+              "value": 1650
+            },
+            {
+              "row": 32,
+              "col": 13,
+              "value": "GI/ HOOK"
+            },
+            {
+              "row": 32,
+              "col": 14,
+              "value": "Direct only"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 2,
+              "value": "HAMBURG "
+            },
+            {
+              "row": 33,
+              "col": 3,
+              "value": "AREA"
+            },
+            {
+              "row": 33,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 33,
+              "col": 5,
+              "value": "Filing No. 00032343-00968 ↓"
+            },
+            {
+              "row": 33,
+              "col": 7,
+              "value": "Filing No. 00032343-00969 ↓"
+            },
+            {
+              "row": 33,
+              "col": 9,
+              "value": "Filing No. 00032343-00970 ↓"
+            },
+            {
+              "row": 33,
+              "col": 11,
+              "value": "Filing No. 00032343-00971 ↓"
+            },
+            {
+              "row": 33,
+              "col": 13,
+              "value": "TERM"
+            },
+            {
+              "row": 33,
+              "col": 14,
+              "value": "REMARK / VIA"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 34,
+              "col": 3,
+              "value": "Hong Kong"
+            },
+            {
+              "row": 34,
+              "col": 4,
+              "value": "Hong Kong"
+            },
+            {
+              "row": 34,
+              "col": 5,
+              "value": 350
+            },
+            {
+              "row": 34,
+              "col": 6,
+              "value": 450
+            },
+            {
+              "row": 34,
+              "col": 13,
+              "value": "GI/CY"
+            },
+            {
+              "row": 34,
+              "col": 14,
+              "value": "Direct only"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 2,
+              "value": "ZEEBRUGGE"
+            },
+            {
+              "row": 35,
+              "col": 7,
+              "value": 1750
+            },
+            {
+              "row": 35,
+              "col": 8,
+              "value": 1850
+            },
+            {
+              "row": 35,
+              "col": 9,
+              "value": 2250
+            },
+            {
+              "row": 35,
+              "col": 10,
+              "value": 2350
+            },
+            {
+              "row": 35,
+              "col": 11,
+              "value": 2850
+            },
+            {
+              "row": 35,
+              "col": 12,
+              "value": 3050
+            },
+            {
+              "row": 35,
+              "col": 13,
+              "value": "GI/HK"
+            },
+            {
+              "row": 35,
+              "col": 14,
+              "value": "Direct only"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 2,
+              "value": "HAMBURG "
+            },
+            {
+              "row": 36,
+              "col": 3,
+              "value": "AREA"
+            },
+            {
+              "row": 36,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 36,
+              "col": 5,
+              "value": "Filing No. 00032343-00981 ↓"
+            },
+            {
+              "row": 36,
+              "col": 7,
+              "value": "Filing No. 00032343-00982 ↓"
+            },
+            {
+              "row": 36,
+              "col": 9,
+              "value": "Filing No. 00032343-00983 ↓"
+            },
+            {
+              "row": 36,
+              "col": 11,
+              "value": "Filing No. 00032343-00984 ↓"
+            },
+            {
+              "row": 36,
+              "col": 13,
+              "value": "TERM"
+            },
+            {
+              "row": 36,
+              "col": 14,
+              "value": "REMARK / VIA"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 37,
+              "col": 3,
+              "value": "Hong Kong"
+            },
+            {
+              "row": 37,
+              "col": 4,
+              "value": "Hong Kong"
+            },
+            {
+              "row": 37,
+              "col": 5,
+              "value": 450
+            },
+            {
+              "row": 37,
+              "col": 6,
+              "value": 850
+            },
+            {
+              "row": 37,
+              "col": 13,
+              "value": "GI/CY"
+            },
+            {
+              "row": 37,
+              "col": 14,
+              "value": "PKG"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 2,
+              "value": "ANTWERP"
+            },
+            {
+              "row": 38,
+              "col": 7,
+              "value": 2650
+            },
+            {
+              "row": 38,
+              "col": 8,
+              "value": 2850
+            },
+            {
+              "row": 38,
+              "col": 9,
+              "value": 3050
+            },
+            {
+              "row": 38,
+              "col": 10,
+              "value": 3650
+            },
+            {
+              "row": 38,
+              "col": 11,
+              "value": 3850
+            },
+            {
+              "row": 38,
+              "col": 12,
+              "value": 4350
+            },
+            {
+              "row": 38,
+              "col": 13,
+              "value": "GI/HK"
+            },
+            {
+              "row": 38,
+              "col": 14,
+              "value": "PKG"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 2,
+              "value": "POL"
+            },
+            {
+              "row": 40,
+              "col": 3,
+              "value": "AREA"
+            },
+            {
+              "row": 40,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 40,
+              "col": 5,
+              "value": "Filing No. 00032343-00013   ↓"
+            },
+            {
+              "row": 40,
+              "col": 7,
+              "value": "Filing No. 00032343-00019 ↓"
+            },
+            {
+              "row": 40,
+              "col": 9,
+              "value": "Filing No. 00032343-00025 ↓"
+            },
+            {
+              "row": 40,
+              "col": 11,
+              "value": "Filing No. 00032343-00028 ↓"
+            },
+            {
+              "row": 40,
+              "col": 13,
+              "value": "TERM"
+            },
+            {
+              "row": 40,
+              "col": 14,
+              "value": "REMARK / VIA"
+            },
+            {
+              "row": 40,
+              "col": 15,
+              "value": "WEIGHT RESTRICTION"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 8
+    },
+    {
+      "name": " ME-IPBC - OOG",
+      "dimensions": "A1:CB455",
+      "max_row": 455,
+      "max_col": 80,
+      "merged_regions": [
+        "C65:N65",
+        "F16:G16",
+        "I46:M46",
+        "B123:N123",
+        "C95:N95",
+        "B5:N5",
+        "C60:N60",
+        "B110:N110",
+        "F15:G15",
+        "C71:N71",
+        "B113:N113",
+        "C32:C36",
+        "B100:N100",
+        "B109:N109",
+        "C91:N91",
+        "G9:N12",
+        "B115:N115",
+        "D47:H47",
+        "B102:N102",
+        "J31:K31",
+        "L31:M31",
+        "C77:N77",
+        "D49:M49",
+        "C86:N86",
+        "J21:K21",
+        "B101:N101",
+        "J3:N3",
+        "L21:M21",
+        "C58:N58",
+        "H15:I15",
+        "C85:N85",
+        "B128:N128",
+        "C94:N94",
+        "L16:M16",
+        "C84:N84",
+        "C75:N75",
+        "C133:N133",
+        "C59:N59",
+        "G8:N8",
+        "B114:N114",
+        "I47:M47",
+        "B106:N106",
+        "C61:N61",
+        "C70:N70",
+        "F31:G31",
+        "B130:N130",
+        "B117:N117",
+        "C89:N89",
+        "B119:N119",
+        "B14:B16"
+      ],
+      "rows_preview": [
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 10,
+              "value": "COSCO Shipping Lines ( Germany ) GmbH"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 10,
+              "value": "As agent only, for and on behalf of COSCO Shipping Lines CO.,LTD."
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 2,
+              "value": "SPECIAL / AWKWARD CARGO / OOG EXPORT - NORTH WEST CONTINENT - IPBC / MIDDLE EAST"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 2,
+              "value": "VALIDITY"
+            },
+            {
+              "row": 8,
+              "col": 3,
+              "value": "01.04.2026 - 30.04.2026"
+            },
+            {
+              "row": 8,
+              "col": 4,
+              "value": "BASIS OF CALCULATION"
+            },
+            {
+              "row": 8,
+              "col": 7,
+              "value": "REMARKS / TRADE NEWS"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 2,
+              "value": "COMMODITY"
+            },
+            {
+              "row": 9,
+              "col": 3,
+              "value": "Freight all Kind, Non Hazardous"
+            },
+            {
+              "row": 9,
+              "col": 4,
+              "value": "CARGO RECEIVE DATE"
+            },
+            {
+              "row": 9,
+              "col": 7,
+              "value": "• No bookings accepted for OOG or special cargo to Middle East destinations – area temporarily suspended.\n• Partner vessels do not call Karachi directly; only the designated COSCO/OOCL vessels qualify for direct routing. Please check vessel in advance to avoide add. costs.\n• NEW EFS surcharge VATOS"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 2,
+              "value": "CURRENCY"
+            },
+            {
+              "row": 10,
+              "col": 3,
+              "value": "USD"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "TERMS & CONDITONS"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 2,
+              "value": "FILING REF"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 2,
+              "value": "POL"
+            },
+            {
+              "row": 14,
+              "col": 3,
+              "value": "AREA / SERVICE"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": "TERM"
+            },
+            {
+              "row": 14,
+              "col": 6,
+              "value": "20'OT/ FR "
+            },
+            {
+              "row": 14,
+              "col": 7,
+              "value": "40'OT/OQ/FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 8,
+              "value": "20'OT/ FR "
+            },
+            {
+              "row": 14,
+              "col": 9,
+              "value": "40'OT/OQ/FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 10,
+              "value": "20'FR"
+            },
+            {
+              "row": 14,
+              "col": 11,
+              "value": "40'FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 12,
+              "value": "20'FR "
+            },
+            {
+              "row": 14,
+              "col": 13,
+              "value": "40'FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 14,
+              "value": "REMARK / VIA"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 6,
+              "value": "IN GAUGE"
+            },
+            {
+              "row": 15,
+              "col": 8,
+              "value": "OH"
+            },
+            {
+              "row": 15,
+              "col": 10,
+              "value": "OW"
+            },
+            {
+              "row": 15,
+              "col": 12,
+              "value": "OW/OH"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 6,
+              "value": "Filing No.: 00032343-00602  ↓"
+            },
+            {
+              "row": 16,
+              "col": 8,
+              "value": "Filing No.: 00032343-00604 ↓"
+            },
+            {
+              "row": 16,
+              "col": 10,
+              "value": "Filing No.: 00032343-00606  ↓"
+            },
+            {
+              "row": 16,
+              "col": 12,
+              "value": "Filing No.: 00032343-00608 ↓"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 2,
+              "value": "HAMBURG\nWILHELMSHAVEN\nROTTERDAM\nANTWERP"
+            },
+            {
+              "row": 17,
+              "col": 3,
+              "value": "IPBC \nEPIC3"
+            },
+            {
+              "row": 17,
+              "col": 4,
+              "value": "Nhava Sheva"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": 850
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": 1000
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": 1250
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": 1500
+            },
+            {
+              "row": 17,
+              "col": 10,
+              "value": 1450
+            },
+            {
+              "row": 17,
+              "col": 11,
+              "value": 1700
+            },
+            {
+              "row": 17,
+              "col": 12,
+              "value": 1950
+            },
+            {
+              "row": 17,
+              "col": 13,
+              "value": 2200
+            },
+            {
+              "row": 17,
+              "col": 14,
+              "value": "Direct"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 4,
+              "value": "Mundra"
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 18,
+              "col": 6,
+              "value": 850
+            },
+            {
+              "row": 18,
+              "col": 7,
+              "value": 1000
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": 1250
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": 1500
+            },
+            {
+              "row": 18,
+              "col": 10,
+              "value": 1450
+            },
+            {
+              "row": 18,
+              "col": 11,
+              "value": 1700
+            },
+            {
+              "row": 18,
+              "col": 12,
+              "value": 1950
+            },
+            {
+              "row": 18,
+              "col": 13,
+              "value": 2200
+            },
+            {
+              "row": 18,
+              "col": 14,
+              "value": "Direct"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 4,
+              "value": "Karachi"
+            },
+            {
+              "row": 19,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": 850
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": 1000
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": 1250
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": 1500
+            },
+            {
+              "row": 19,
+              "col": 10,
+              "value": 1450
+            },
+            {
+              "row": 19,
+              "col": 11,
+              "value": 1700
+            },
+            {
+              "row": 19,
+              "col": 12,
+              "value": 1950
+            },
+            {
+              "row": 19,
+              "col": 13,
+              "value": 2200
+            },
+            {
+              "row": 19,
+              "col": 14,
+              "value": "Direct"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 4,
+              "value": "Colombo"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": 850
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": 1000
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": 1250
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": 1500
+            },
+            {
+              "row": 20,
+              "col": 10,
+              "value": 1450
+            },
+            {
+              "row": 20,
+              "col": 11,
+              "value": 1700
+            },
+            {
+              "row": 20,
+              "col": 12,
+              "value": 1950
+            },
+            {
+              "row": 20,
+              "col": 13,
+              "value": 2200
+            },
+            {
+              "row": 20,
+              "col": 14,
+              "value": "Direct"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 3,
+              "value": "AREA / SERVICE"
+            },
+            {
+              "row": 21,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": "TERM"
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": "Filing No.: 00032343-00603 ↓"
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": "Filing No.: 00032343-00605  ↓"
+            },
+            {
+              "row": 21,
+              "col": 10,
+              "value": "Filing No.: 00032343-00607  ↓"
+            },
+            {
+              "row": 21,
+              "col": 12,
+              "value": "Filing No.: 00032343-00609  ↓"
+            },
+            {
+              "row": 21,
+              "col": 14,
+              "value": "REMARK / VIA"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 3,
+              "value": "MIDDLE EAST \nEPIC3"
+            },
+            {
+              "row": 22,
+              "col": 4,
+              "value": "Jebel Ali "
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": 850
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": 1000
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": 1250
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": 1500
+            },
+            {
+              "row": 22,
+              "col": 10,
+              "value": 1450
+            },
+            {
+              "row": 22,
+              "col": 11,
+              "value": 1700
+            },
+            {
+              "row": 22,
+              "col": 12,
+              "value": 1950
+            },
+            {
+              "row": 22,
+              "col": 13,
+              "value": 2200
+            },
+            {
+              "row": 22,
+              "col": 14,
+              "value": "Direct"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 4,
+              "value": "Abu Dhabi"
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 23,
+              "col": 6,
+              "value": 850
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": 1000
+            },
+            {
+              "row": 23,
+              "col": 8,
+              "value": 1250
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": 1500
+            },
+            {
+              "row": 23,
+              "col": 10,
+              "value": 1450
+            },
+            {
+              "row": 23,
+              "col": 11,
+              "value": 1700
+            },
+            {
+              "row": 23,
+              "col": 12,
+              "value": 1950
+            },
+            {
+              "row": 23,
+              "col": 13,
+              "value": 2200
+            },
+            {
+              "row": 23,
+              "col": 14,
+              "value": "Direct"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 3,
+              "value": "AREA / SERVICE"
+            },
+            {
+              "row": 24,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": "TERM"
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": "Filing No.: ON REQUEST ONLY"
+            },
+            {
+              "row": 24,
+              "col": 8,
+              "value": "Filing No.: ON REQUEST ONLY"
+            },
+            {
+              "row": 24,
+              "col": 10,
+              "value": "Filing No.: ON REQUEST ONLY"
+            },
+            {
+              "row": 24,
+              "col": 12,
+              "value": "Filing No.: ON REQUEST ONLY"
+            },
+            {
+              "row": 24,
+              "col": 14,
+              "value": "REMARK / VIA"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 3,
+              "value": "MIDDLE EAST \nEPIC3"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": "Dammam"
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": 1000
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": 1200
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": 1800
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": 2100
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": 2200
+            },
+            {
+              "row": 25,
+              "col": 11,
+              "value": 2500
+            },
+            {
+              "row": 25,
+              "col": 12,
+              "value": 2900
+            },
+            {
+              "row": 25,
+              "col": 13,
+              "value": 3200
+            },
+            {
+              "row": 25,
+              "col": 14,
+              "value": "Jebel Ali"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 4,
+              "value": "Bahrain"
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": 1000
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": 1200
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": 1800
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": 2100
+            },
+            {
+              "row": 26,
+              "col": 10,
+              "value": 2200
+            },
+            {
+              "row": 26,
+              "col": 11,
+              "value": 2500
+            },
+            {
+              "row": 26,
+              "col": 12,
+              "value": 2900
+            },
+            {
+              "row": 26,
+              "col": 13,
+              "value": 3200
+            },
+            {
+              "row": 26,
+              "col": 14,
+              "value": "Jebel Ali"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 4,
+              "value": "Shuaiba"
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": 1000
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": 1200
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": 1800
+            },
+            {
+              "row": 27,
+              "col": 9,
+              "value": 2100
+            },
+            {
+              "row": 27,
+              "col": 10,
+              "value": 2200
+            },
+            {
+              "row": 27,
+              "col": 11,
+              "value": 2500
+            },
+            {
+              "row": 27,
+              "col": 12,
+              "value": 2900
+            },
+            {
+              "row": 27,
+              "col": 13,
+              "value": 3200
+            },
+            {
+              "row": 27,
+              "col": 14,
+              "value": "Jebel Ali"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 4,
+              "value": "Shuwaikh"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": 1000
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": 1200
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": 1800
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": 2100
+            },
+            {
+              "row": 28,
+              "col": 10,
+              "value": 2200
+            },
+            {
+              "row": 28,
+              "col": 11,
+              "value": 2500
+            },
+            {
+              "row": 28,
+              "col": 12,
+              "value": 2900
+            },
+            {
+              "row": 28,
+              "col": 13,
+              "value": 3200
+            },
+            {
+              "row": 28,
+              "col": 14,
+              "value": "Jebel Ali"
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 4,
+              "value": "Sohar"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": 1000
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": 1200
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": 1800
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": 2100
+            },
+            {
+              "row": 29,
+              "col": 10,
+              "value": 2200
+            },
+            {
+              "row": 29,
+              "col": 11,
+              "value": 2500
+            },
+            {
+              "row": 29,
+              "col": 12,
+              "value": 2900
+            },
+            {
+              "row": 29,
+              "col": 13,
+              "value": 3200
+            },
+            {
+              "row": 29,
+              "col": 14,
+              "value": "Jebel Ali"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 4,
+              "value": "Sharjah"
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 30,
+              "col": 6,
+              "value": 1000
+            },
+            {
+              "row": 30,
+              "col": 7,
+              "value": 1200
+            },
+            {
+              "row": 30,
+              "col": 8,
+              "value": 1800
+            },
+            {
+              "row": 30,
+              "col": 9,
+              "value": 2100
+            },
+            {
+              "row": 30,
+              "col": 10,
+              "value": 2200
+            },
+            {
+              "row": 30,
+              "col": 11,
+              "value": 2500
+            },
+            {
+              "row": 30,
+              "col": 12,
+              "value": 2900
+            },
+            {
+              "row": 30,
+              "col": 13,
+              "value": 3200
+            },
+            {
+              "row": 30,
+              "col": 14,
+              "value": "Jebel Ali"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 3,
+              "value": "AREA / SERVICE"
+            },
+            {
+              "row": 31,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": "TERM"
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": "Filing No.: ON REQUEST ONLY"
+            },
+            {
+              "row": 31,
+              "col": 8,
+              "value": "Filing No.: ON REQUEST ONLY"
+            },
+            {
+              "row": 31,
+              "col": 10,
+              "value": "Filing No.: ON REQUEST ONLY"
+            },
+            {
+              "row": 31,
+              "col": 12,
+              "value": "Filing No.: ON REQUEST ONLY"
+            },
+            {
+              "row": 31,
+              "col": 14,
+              "value": "REMARK / VIA"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 3,
+              "value": "IPBC\nAEU6 / AEU7\nAEU5 / AEU9\nAEU1"
+            },
+            {
+              "row": 32,
+              "col": 4,
+              "value": "Visakhapatnam"
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 32,
+              "col": 6,
+              "value": 1000
+            },
+            {
+              "row": 32,
+              "col": 7,
+              "value": 1200
+            },
+            {
+              "row": 32,
+              "col": 8,
+              "value": 1800
+            },
+            {
+              "row": 32,
+              "col": 9,
+              "value": 2100
+            },
+            {
+              "row": 32,
+              "col": 10,
+              "value": 2200
+            },
+            {
+              "row": 32,
+              "col": 11,
+              "value": 2500
+            },
+            {
+              "row": 32,
+              "col": 12,
+              "value": 2900
+            },
+            {
+              "row": 32,
+              "col": 13,
+              "value": 3200
+            },
+            {
+              "row": 32,
+              "col": 14,
+              "value": "Port Klang"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 4,
+              "value": "Chennai"
+            },
+            {
+              "row": 33,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 33,
+              "col": 6,
+              "value": 1000
+            },
+            {
+              "row": 33,
+              "col": 7,
+              "value": 1200
+            },
+            {
+              "row": 33,
+              "col": 8,
+              "value": 1800
+            },
+            {
+              "row": 33,
+              "col": 9,
+              "value": 2100
+            },
+            {
+              "row": 33,
+              "col": 10,
+              "value": 2200
+            },
+            {
+              "row": 33,
+              "col": 11,
+              "value": 2500
+            },
+            {
+              "row": 33,
+              "col": 12,
+              "value": 2900
+            },
+            {
+              "row": 33,
+              "col": 13,
+              "value": 3200
+            },
+            {
+              "row": 33,
+              "col": 14,
+              "value": "Port Klang"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 4,
+              "value": "Kattupalli"
+            },
+            {
+              "row": 34,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 34,
+              "col": 6,
+              "value": 1000
+            },
+            {
+              "row": 34,
+              "col": 7,
+              "value": 1200
+            },
+            {
+              "row": 34,
+              "col": 8,
+              "value": 1800
+            },
+            {
+              "row": 34,
+              "col": 9,
+              "value": 2100
+            },
+            {
+              "row": 34,
+              "col": 10,
+              "value": 2200
+            },
+            {
+              "row": 34,
+              "col": 11,
+              "value": 2500
+            },
+            {
+              "row": 34,
+              "col": 12,
+              "value": 2900
+            },
+            {
+              "row": 34,
+              "col": 13,
+              "value": 3200
+            },
+            {
+              "row": 34,
+              "col": 14,
+              "value": "Port Klang"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 4,
+              "value": "Karachi"
+            },
+            {
+              "row": 35,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 35,
+              "col": 6,
+              "value": 1000
+            },
+            {
+              "row": 35,
+              "col": 7,
+              "value": 1200
+            },
+            {
+              "row": 35,
+              "col": 8,
+              "value": 1800
+            },
+            {
+              "row": 35,
+              "col": 9,
+              "value": 2100
+            },
+            {
+              "row": 35,
+              "col": 10,
+              "value": 2200
+            },
+            {
+              "row": 35,
+              "col": 11,
+              "value": 2500
+            },
+            {
+              "row": 35,
+              "col": 12,
+              "value": 2900
+            },
+            {
+              "row": 35,
+              "col": 13,
+              "value": 3200
+            },
+            {
+              "row": 35,
+              "col": 14,
+              "value": "Singapore"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 4,
+              "value": "Colombo"
+            },
+            {
+              "row": 36,
+              "col": 5,
+              "value": "CYCY"
+            },
+            {
+              "row": 36,
+              "col": 6,
+              "value": 1000
+            },
+            {
+              "row": 36,
+              "col": 7,
+              "value": 1200
+            },
+            {
+              "row": 36,
+              "col": 8,
+              "value": 1800
+            },
+            {
+              "row": 36,
+              "col": 9,
+              "value": 2100
+            },
+            {
+              "row": 36,
+              "col": 10,
+              "value": 2200
+            },
+            {
+              "row": 36,
+              "col": 11,
+              "value": 2500
+            },
+            {
+              "row": 36,
+              "col": 12,
+              "value": 2900
+            },
+            {
+              "row": 36,
+              "col": 13,
+              "value": 3200
+            },
+            {
+              "row": 36,
+              "col": 14,
+              "value": "Singapore"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 4,
+              "value": "Cargo Limit\n(in gauge)"
+            },
+            {
+              "row": 38,
+              "col": 5,
+              "value": "max. length\n(cm)"
+            },
+            {
+              "row": 38,
+              "col": 6,
+              "value": "max. width\n(cm)"
+            },
+            {
+              "row": 38,
+              "col": 7,
+              "value": "max. height\n(cm)"
+            },
+            {
+              "row": 38,
+              "col": 8,
+              "value": "max. payload\n(MT)"
+            },
+            {
+              "row": 38,
+              "col": 9,
+              "value": "Cargo Limit\n(OOG)"
+            },
+            {
+              "row": 38,
+              "col": 10,
+              "value": "max. length\n(cm)"
+            },
+            {
+              "row": 38,
+              "col": 11,
+              "value": "max. width\n(cm)"
+            },
+            {
+              "row": 38,
+              "col": 12,
+              "value": "max. height\n(cm)"
+            },
+            {
+              "row": 38,
+              "col": 13,
+              "value": "max. payload\n(MT)"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 4,
+              "value": "20OT"
+            },
+            {
+              "row": 39,
+              "col": 5,
+              "value": 590
+            },
+            {
+              "row": 39,
+              "col": 6,
+              "value": 234
+            },
+            {
+              "row": 39,
+              "col": 7,
+              "value": 230
+            },
+            {
+              "row": 39,
+              "col": 8,
+              "value": 28
+            },
+            {
+              "row": 39,
+              "col": 9,
+              "value": "20OT"
+            },
+            {
+              "row": 39,
+              "col": 10,
+              "value": 540
+            },
+            {
+              "row": 39,
+              "col": 11,
+              "value": 225
+            },
+            {
+              "row": 39,
+              "col": 12,
+              "value": "390#"
+            },
+            {
+              "row": 39,
+              "col": 13,
+              "value": 28
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 4,
+              "value": "20OC"
+            },
+            {
+              "row": 40,
+              "col": 5,
+              "value": 590
+            },
+            {
+              "row": 40,
+              "col": 6,
+              "value": 234
+            },
+            {
+              "row": 40,
+              "col": 7,
+              "value": 260
+            },
+            {
+              "row": 40,
+              "col": 8,
+              "value": 28
+            },
+            {
+              "row": 40,
+              "col": 9,
+              "value": "20OC"
+            },
+            {
+              "row": 40,
+              "col": 10,
+              "value": 540
+            },
+            {
+              "row": 40,
+              "col": 11,
+              "value": 225
+            },
+            {
+              "row": 40,
+              "col": 12,
+              "value": 420
+            },
+            {
+              "row": 40,
+              "col": 13,
+              "value": 28
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 8
+    },
+    {
+      "name": "SA East Coast-OOG",
+      "dimensions": "A1:CJ392",
+      "max_row": 392,
+      "max_col": 88,
+      "merged_regions": [
+        "K16:L16",
+        "C34:G34",
+        "I15:J15",
+        "D9:F12",
+        "C33:G33",
+        "K15:L15",
+        "B14:B15",
+        "H34:L34",
+        "B38:M38",
+        "I16:J16",
+        "C54:M54",
+        "D8:F8",
+        "B6:M6",
+        "I3:M3",
+        "M14:M15",
+        "G8:M8",
+        "E15:F15",
+        "B51:M51",
+        "C17:C20",
+        "G15:H15",
+        "H32:L32",
+        "C35:L35",
+        "D14:D15",
+        "I4:M4",
+        "E16:F16",
+        "C32:G32",
+        "G16:H16",
+        "G9:M12",
+        "H33:L33",
+        "B52:M52",
+        "C14:C15",
+        "C36:L36"
+      ],
+      "rows_preview": [
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 9,
+              "value": "COSCO Shipping Lines ( Germany ) GmbH"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 9,
+              "value": "As agent only, for and on behalf of COSCO Shipping Lines CO.,LTD."
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 2,
+              "value": "OOG - NORTHWEST CONTINENT /  ESE SOUTHBOUND"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 2,
+              "value": "VALIDITY"
+            },
+            {
+              "row": 8,
+              "col": 3,
+              "value": "01.04.2026 - 30.04.2026"
+            },
+            {
+              "row": 8,
+              "col": 4,
+              "value": "BASIS OF CALCULATION"
+            },
+            {
+              "row": 8,
+              "col": 7,
+              "value": "REMARKS / TRADE NEWS"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 2,
+              "value": "COMMODITY"
+            },
+            {
+              "row": 9,
+              "col": 3,
+              "value": "Freight all Kind, Non Hazardous"
+            },
+            {
+              "row": 9,
+              "col": 4,
+              "value": "LTS - LONGTERM SCHEDULE DATE"
+            },
+            {
+              "row": 9,
+              "col": 7,
+              "value": "N/A\n"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 2,
+              "value": "CURRENCY"
+            },
+            {
+              "row": 10,
+              "col": 3,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "TERMS & CONDITONS"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 2,
+              "value": "FILING REF"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 2,
+              "value": "POL"
+            },
+            {
+              "row": 14,
+              "col": 3,
+              "value": "AREA"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": "20'OT/ FR "
+            },
+            {
+              "row": 14,
+              "col": 6,
+              "value": "40'OT/OQ/FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 7,
+              "value": "20'OT/ FR "
+            },
+            {
+              "row": 14,
+              "col": 8,
+              "value": "40'OT/OQ/FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 9,
+              "value": "20'FR"
+            },
+            {
+              "row": 14,
+              "col": 10,
+              "value": "40'FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 11,
+              "value": "20'FR "
+            },
+            {
+              "row": 14,
+              "col": 12,
+              "value": "40'FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 13,
+              "value": "TERM"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 5,
+              "value": "IN GAUGE "
+            },
+            {
+              "row": 15,
+              "col": 7,
+              "value": "OH "
+            },
+            {
+              "row": 15,
+              "col": 9,
+              "value": "OW"
+            },
+            {
+              "row": 15,
+              "col": 11,
+              "value": "OWOH"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 3,
+              "value": "ESE direct service only"
+            },
+            {
+              "row": 16,
+              "col": 4,
+              "value": "ESE direct service only"
+            },
+            {
+              "row": 16,
+              "col": 5,
+              "value": "Filing No. 00032343-00681 ↓"
+            },
+            {
+              "row": 16,
+              "col": 7,
+              "value": "Filing No. 00032343-00682 ↓"
+            },
+            {
+              "row": 16,
+              "col": 9,
+              "value": "Filing No. 00032343-00683 ↓"
+            },
+            {
+              "row": 16,
+              "col": 11,
+              "value": "Filing No. 00032343-00684 ↓"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 3,
+              "value": "Brazil"
+            },
+            {
+              "row": 17,
+              "col": 4,
+              "value": "Santos"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": "€1000"
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": "€1500"
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": "€ 1650"
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": "€ 2300"
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": "€ 2300"
+            },
+            {
+              "row": 17,
+              "col": 10,
+              "value": "€ 3100"
+            },
+            {
+              "row": 17,
+              "col": 11,
+              "value": "€ 3400"
+            },
+            {
+              "row": 17,
+              "col": 12,
+              "value": "€ 3750"
+            },
+            {
+              "row": 17,
+              "col": 13,
+              "value": "GI/CY"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 18,
+              "col": 4,
+              "value": "Paranagua"
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": "€1000"
+            },
+            {
+              "row": 18,
+              "col": 6,
+              "value": "€1500"
+            },
+            {
+              "row": 18,
+              "col": 7,
+              "value": "€ 1650"
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": "€ 2300"
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": "€ 2300"
+            },
+            {
+              "row": 18,
+              "col": 10,
+              "value": "€ 3100"
+            },
+            {
+              "row": 18,
+              "col": 11,
+              "value": "€ 3400"
+            },
+            {
+              "row": 18,
+              "col": 12,
+              "value": "€ 3750"
+            },
+            {
+              "row": 18,
+              "col": 13,
+              "value": "GI/CY"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 2,
+              "value": "ANTWERP"
+            },
+            {
+              "row": 19,
+              "col": 4,
+              "value": "Rio de Janeiro "
+            },
+            {
+              "row": 19,
+              "col": 5,
+              "value": "€1000"
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": "€1500"
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": "€ 1650"
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": "€ 2300"
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": "€ 2300"
+            },
+            {
+              "row": 19,
+              "col": 10,
+              "value": "€ 3100"
+            },
+            {
+              "row": 19,
+              "col": 11,
+              "value": "€ 3400"
+            },
+            {
+              "row": 19,
+              "col": 12,
+              "value": "€ 3750"
+            },
+            {
+              "row": 19,
+              "col": 13,
+              "value": "GI/CY"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": "Itajai***"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": "€1000"
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": "€1600"
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": "€ 1650"
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": "€ 2300"
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": "€ 2300"
+            },
+            {
+              "row": 20,
+              "col": 10,
+              "value": "€ 3100"
+            },
+            {
+              "row": 20,
+              "col": 11,
+              "value": "€ 3400"
+            },
+            {
+              "row": 20,
+              "col": 12,
+              "value": "€ 3750"
+            },
+            {
+              "row": 20,
+              "col": 13,
+              "value": "GI/CY"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 2,
+              "value": "FELIXSTOWE"
+            },
+            {
+              "row": 21,
+              "col": 3,
+              "value": "Uruguay"
+            },
+            {
+              "row": 21,
+              "col": 4,
+              "value": "Montevideo "
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": "€1000"
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": "€1500"
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": "€ 1650"
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": "€ 2300"
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": "€ 2300"
+            },
+            {
+              "row": 21,
+              "col": 10,
+              "value": "€ 3100"
+            },
+            {
+              "row": 21,
+              "col": 11,
+              "value": "€ 3400"
+            },
+            {
+              "row": 21,
+              "col": 12,
+              "value": "€ 3750"
+            },
+            {
+              "row": 21,
+              "col": 13,
+              "value": "GI/CY"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 3,
+              "value": "Argentina"
+            },
+            {
+              "row": 22,
+              "col": 4,
+              "value": "Buenos Aires"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": "€1000"
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": "€1500"
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": "€ 1650"
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": "€ 2300"
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": "€ 2300"
+            },
+            {
+              "row": 22,
+              "col": 10,
+              "value": "€ 3100"
+            },
+            {
+              "row": 22,
+              "col": 11,
+              "value": "€ 3400"
+            },
+            {
+              "row": 22,
+              "col": 12,
+              "value": "€ 3750"
+            },
+            {
+              "row": 22,
+              "col": 13,
+              "value": "GI/CY"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 3,
+              "value": "Cargo Limit\n(in gauge)"
+            },
+            {
+              "row": 24,
+              "col": 4,
+              "value": "max. length\n(cm)"
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": "max. width\n(cm)"
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": "max. height\n(cm)"
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": "max. payload\n(MT)"
+            },
+            {
+              "row": 24,
+              "col": 8,
+              "value": "Cargo Limit\n(OOG)"
+            },
+            {
+              "row": 24,
+              "col": 9,
+              "value": "max. length\n(cm)"
+            },
+            {
+              "row": 24,
+              "col": 10,
+              "value": "max. width\n(cm)"
+            },
+            {
+              "row": 24,
+              "col": 11,
+              "value": "max. height\n(cm)"
+            },
+            {
+              "row": 24,
+              "col": 12,
+              "value": "max. payload\n(MT)"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 3,
+              "value": "20OT"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": 590
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": 234
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": 230
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": 28
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": "20OT"
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": 540
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": 225
+            },
+            {
+              "row": 25,
+              "col": 11,
+              "value": "390#"
+            },
+            {
+              "row": 25,
+              "col": 12,
+              "value": 28
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 3,
+              "value": "20OC"
+            },
+            {
+              "row": 26,
+              "col": 4,
+              "value": 590
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": 234
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": 260
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": 28
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": "20OC"
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": 540
+            },
+            {
+              "row": 26,
+              "col": 10,
+              "value": 225
+            },
+            {
+              "row": 26,
+              "col": 11,
+              "value": 420
+            },
+            {
+              "row": 26,
+              "col": 12,
+              "value": 28
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 3,
+              "value": "40OT"
+            },
+            {
+              "row": 27,
+              "col": 4,
+              "value": 1200
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": 234
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": "230*"
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": 26.5
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": "40OT"
+            },
+            {
+              "row": 27,
+              "col": 9,
+              "value": 1160
+            },
+            {
+              "row": 27,
+              "col": 10,
+              "value": 225
+            },
+            {
+              "row": 27,
+              "col": 11,
+              "value": "390#"
+            },
+            {
+              "row": 27,
+              "col": 12,
+              "value": 26.5
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 3,
+              "value": "40OQ"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": 1200
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": 234
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": "260*"
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": 26.5
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": "40OQ"
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": 1160
+            },
+            {
+              "row": 28,
+              "col": 10,
+              "value": 225
+            },
+            {
+              "row": 28,
+              "col": 11,
+              "value": 420
+            },
+            {
+              "row": 28,
+              "col": 12,
+              "value": 26.5
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 3,
+              "value": "20FR"
+            },
+            {
+              "row": 29,
+              "col": 4,
+              "value": 550
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": 243
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": 221
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": "28,0**"
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": "20FR"
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": 550
+            },
+            {
+              "row": 29,
+              "col": 10,
+              "value": 420
+            },
+            {
+              "row": 29,
+              "col": 11,
+              "value": "390#"
+            },
+            {
+              "row": 29,
+              "col": 12,
+              "value": "28,0##"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 3,
+              "value": "40FR"
+            },
+            {
+              "row": 30,
+              "col": 4,
+              "value": 1150
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": 243
+            },
+            {
+              "row": 30,
+              "col": 6,
+              "value": 195
+            },
+            {
+              "row": 30,
+              "col": 7,
+              "value": "28,0***"
+            },
+            {
+              "row": 30,
+              "col": 8,
+              "value": "40FR"
+            },
+            {
+              "row": 30,
+              "col": 9,
+              "value": 1150
+            },
+            {
+              "row": 30,
+              "col": 10,
+              "value": 420
+            },
+            {
+              "row": 30,
+              "col": 11,
+              "value": "390#"
+            },
+            {
+              "row": 30,
+              "col": 12,
+              "value": "34,0###"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 3,
+              "value": "40FQ"
+            },
+            {
+              "row": 31,
+              "col": 4,
+              "value": 1150
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": 243
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": 225
+            },
+            {
+              "row": 31,
+              "col": 7,
+              "value": "28,0***"
+            },
+            {
+              "row": 31,
+              "col": 8,
+              "value": "40FQ"
+            },
+            {
+              "row": 31,
+              "col": 9,
+              "value": 1150
+            },
+            {
+              "row": 31,
+              "col": 10,
+              "value": 420
+            },
+            {
+              "row": 31,
+              "col": 11,
+              "value": 420
+            },
+            {
+              "row": 31,
+              "col": 12,
+              "value": "34,0###"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 3,
+              "value": "For 40FR/FQ IG, above rates apply to cargo weight within 28t only - Others on request only"
+            },
+            {
+              "row": 32,
+              "col": 8,
+              "value": "# 395cm height for OT/FR on request."
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 3,
+              "value": "** 31MT for 20FR on request."
+            },
+            {
+              "row": 33,
+              "col": 8,
+              "value": "## up to 31MT for 20FR on request."
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 3,
+              "value": "*** 40MT for 40FR on request."
+            },
+            {
+              "row": 34,
+              "col": 8,
+              "value": "### up to 40MT for 40FR on request."
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 3,
+              "value": "SHIPMENTS OUT OF THE DIMS LIMITATION MUST BE REQUESTED SEPARATELY"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 3,
+              "value": "In case a  HQFR/HQOT is used, these are priced same as normal FR/OT and overheight is charged as applied for standard FR/OT dimensions"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 2,
+              "value": "TERMS & GENERAL CONDITONS"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 2,
+              "value": "Remark:"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 2,
+              "value": "1. Above rates are on basis GIAI,  INCL FAF,THC,BUC,CAF,PCS,HCS, subject to ISPS (SSL, PSF + CAS), DTHC, ETS,PSS (if applicable),and any other surcharges "
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 8
+    },
+    {
+      "name": "SA Westcoast - OOG",
+      "dimensions": "A1:CK392",
+      "max_row": 392,
+      "max_col": 89,
+      "merged_regions": [
+        "K16:L16",
+        "C34:G34",
+        "H35:L35",
+        "I15:J15",
+        "K15:L15",
+        "C33:G33",
+        "D9:F12",
+        "B14:B15",
+        "H34:L34",
+        "C37:L37",
+        "C35:G35",
+        "I16:J16",
+        "C54:M54",
+        "D8:F8",
+        "B6:M6",
+        "I3:M3",
+        "M14:M15",
+        "G8:M8",
+        "E15:F15",
+        "B51:M51",
+        "G15:H15",
+        "D14:D15",
+        "I4:M4",
+        "E16:F16",
+        "G16:H16",
+        "G9:M12",
+        "H33:L33",
+        "B52:M52",
+        "C14:C15",
+        "C36:L36",
+        "B39:M39"
+      ],
+      "rows_preview": [
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 9,
+              "value": "COSCO Shipping Lines ( Germany ) GmbH"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 9,
+              "value": "As agent only, for and on behalf of COSCO Shipping Lines CO.,LTD."
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 2,
+              "value": "OOG - NORTHWEST CONTINENT /  EWX SOUTHBOUND"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 2,
+              "value": "VALIDITY"
+            },
+            {
+              "row": 8,
+              "col": 3,
+              "value": "01.04.2026 - 30.04.2026"
+            },
+            {
+              "row": 8,
+              "col": 4,
+              "value": "BASIS OF CALCULATION"
+            },
+            {
+              "row": 8,
+              "col": 7,
+              "value": "REMARKS / TRADE NEWS"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 2,
+              "value": "COMMODITY"
+            },
+            {
+              "row": 9,
+              "col": 3,
+              "value": "Freight all Kind, Non Hazardous"
+            },
+            {
+              "row": 9,
+              "col": 4,
+              "value": "LTS - LONGTERM SCHEDULE DATE"
+            },
+            {
+              "row": 9,
+              "col": 7,
+              "value": "N/A\n"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 2,
+              "value": "CURRENCY"
+            },
+            {
+              "row": 10,
+              "col": 3,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "TERMS & CONDITONS"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 2,
+              "value": "FILING REF"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 2,
+              "value": "POL"
+            },
+            {
+              "row": 14,
+              "col": 3,
+              "value": "AREA"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": "20'OT/ FR "
+            },
+            {
+              "row": 14,
+              "col": 6,
+              "value": "40'OT/OQ/FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 7,
+              "value": "20'OT/ FR "
+            },
+            {
+              "row": 14,
+              "col": 8,
+              "value": "40'OT/OQ/FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 9,
+              "value": "20'FR"
+            },
+            {
+              "row": 14,
+              "col": 10,
+              "value": "40'FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 11,
+              "value": "20'FR "
+            },
+            {
+              "row": 14,
+              "col": 12,
+              "value": "40'FR/FQ "
+            },
+            {
+              "row": 14,
+              "col": 13,
+              "value": "TERM"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 5,
+              "value": "IN GAUGE "
+            },
+            {
+              "row": 15,
+              "col": 7,
+              "value": "OH "
+            },
+            {
+              "row": 15,
+              "col": 9,
+              "value": "OW "
+            },
+            {
+              "row": 15,
+              "col": 11,
+              "value": "OWOH"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 3,
+              "value": "EWX direct service only"
+            },
+            {
+              "row": 16,
+              "col": 4,
+              "value": "EWX direct service only"
+            },
+            {
+              "row": 16,
+              "col": 5,
+              "value": "Filing No. 00032343-00623 ↓"
+            },
+            {
+              "row": 16,
+              "col": 7,
+              "value": "Filing No. 00032343-00635 ↓"
+            },
+            {
+              "row": 16,
+              "col": 9,
+              "value": "Filing No. 00032343-00599 ↓"
+            },
+            {
+              "row": 16,
+              "col": 11,
+              "value": "Filing No. 00032343-00634 ↓"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 3,
+              "value": "Peru"
+            },
+            {
+              "row": 17,
+              "col": 4,
+              "value": "Callao"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": 2300
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": 1950
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": 2990
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": 2600
+            },
+            {
+              "row": 17,
+              "col": 10,
+              "value": 4100
+            },
+            {
+              "row": 17,
+              "col": 11,
+              "value": 3200
+            },
+            {
+              "row": 17,
+              "col": 12,
+              "value": 5300
+            },
+            {
+              "row": 17,
+              "col": 13,
+              "value": "GI/CY"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 2,
+              "value": "HAMBURG "
+            },
+            {
+              "row": 18,
+              "col": 3,
+              "value": "Dominican Republic "
+            },
+            {
+              "row": 18,
+              "col": 4,
+              "value": "Caucedo"
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 18,
+              "col": 6,
+              "value": 2300
+            },
+            {
+              "row": 18,
+              "col": 7,
+              "value": 1950
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": 2990
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": 2600
+            },
+            {
+              "row": 18,
+              "col": 10,
+              "value": 4100
+            },
+            {
+              "row": 18,
+              "col": 11,
+              "value": 3200
+            },
+            {
+              "row": 18,
+              "col": 12,
+              "value": 5300
+            },
+            {
+              "row": 18,
+              "col": 13,
+              "value": "GI/CY"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 2,
+              "value": "ROTTERDAM "
+            },
+            {
+              "row": 19,
+              "col": 3,
+              "value": "Colombia"
+            },
+            {
+              "row": 19,
+              "col": 4,
+              "value": "Cartagena"
+            },
+            {
+              "row": 19,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": 2300
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": 1950
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": 2990
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": 2600
+            },
+            {
+              "row": 19,
+              "col": 10,
+              "value": 4100
+            },
+            {
+              "row": 19,
+              "col": 11,
+              "value": 3200
+            },
+            {
+              "row": 19,
+              "col": 12,
+              "value": 5300
+            },
+            {
+              "row": 19,
+              "col": 13,
+              "value": "GI/CY"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 3,
+              "value": "Colombia"
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": "Buenaventura"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": 2300
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": 1950
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": 2990
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": 2600
+            },
+            {
+              "row": 20,
+              "col": 10,
+              "value": 4100
+            },
+            {
+              "row": 20,
+              "col": 11,
+              "value": 3200
+            },
+            {
+              "row": 20,
+              "col": 12,
+              "value": 5300
+            },
+            {
+              "row": 20,
+              "col": 13,
+              "value": "GI/CY"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 2,
+              "value": "ANTWERP"
+            },
+            {
+              "row": 21,
+              "col": 3,
+              "value": "Panama"
+            },
+            {
+              "row": 21,
+              "col": 4,
+              "value": "Manzanillo"
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": 2300
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": 1950
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": 2990
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": 2600
+            },
+            {
+              "row": 21,
+              "col": 10,
+              "value": 4100
+            },
+            {
+              "row": 21,
+              "col": 11,
+              "value": 3200
+            },
+            {
+              "row": 21,
+              "col": 12,
+              "value": 5300
+            },
+            {
+              "row": 21,
+              "col": 13,
+              "value": "GI/CY"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 2,
+              "value": "LONDON GATEWAY "
+            },
+            {
+              "row": 22,
+              "col": 3,
+              "value": "Chile"
+            },
+            {
+              "row": 22,
+              "col": 4,
+              "value": "San Antonio"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": 2300
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": 1950
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": 2990
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": 2600
+            },
+            {
+              "row": 22,
+              "col": 10,
+              "value": 4100
+            },
+            {
+              "row": 22,
+              "col": 11,
+              "value": 3200
+            },
+            {
+              "row": 22,
+              "col": 12,
+              "value": 5300
+            },
+            {
+              "row": 22,
+              "col": 13,
+              "value": "GI/CY"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 3,
+              "value": "Ecuador"
+            },
+            {
+              "row": 23,
+              "col": 4,
+              "value": "Posorja"
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 23,
+              "col": 6,
+              "value": 2300
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": 1950
+            },
+            {
+              "row": 23,
+              "col": 8,
+              "value": 2990
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": 2600
+            },
+            {
+              "row": 23,
+              "col": 10,
+              "value": 4100
+            },
+            {
+              "row": 23,
+              "col": 11,
+              "value": 3200
+            },
+            {
+              "row": 23,
+              "col": 12,
+              "value": 5300
+            },
+            {
+              "row": 23,
+              "col": 13,
+              "value": "GI/CY"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 3,
+              "value": "Cargo Limit\n(in gauge)"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": "max. length\n(cm)"
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": "max. width\n(cm)"
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": "max. height\n(cm)"
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": "max. payload\n(MT)"
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": "Cargo Limit\n(OOG)"
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": "max. length\n(cm)"
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": "max. width\n(cm)"
+            },
+            {
+              "row": 25,
+              "col": 11,
+              "value": "max. height\n(cm)"
+            },
+            {
+              "row": 25,
+              "col": 12,
+              "value": "max. payload\n(MT)"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 3,
+              "value": "20OT"
+            },
+            {
+              "row": 26,
+              "col": 4,
+              "value": 590
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": 234
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": 230
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": 28
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": "20OT"
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": 540
+            },
+            {
+              "row": 26,
+              "col": 10,
+              "value": 225
+            },
+            {
+              "row": 26,
+              "col": 11,
+              "value": "390#"
+            },
+            {
+              "row": 26,
+              "col": 12,
+              "value": 28
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 3,
+              "value": "20OC"
+            },
+            {
+              "row": 27,
+              "col": 4,
+              "value": 590
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": 234
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": 260
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": 28
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": "20OC"
+            },
+            {
+              "row": 27,
+              "col": 9,
+              "value": 540
+            },
+            {
+              "row": 27,
+              "col": 10,
+              "value": 225
+            },
+            {
+              "row": 27,
+              "col": 11,
+              "value": 420
+            },
+            {
+              "row": 27,
+              "col": 12,
+              "value": 28
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 3,
+              "value": "40OT"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": 1200
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": 234
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": "230*"
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": 26.5
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": "40OT"
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": 1160
+            },
+            {
+              "row": 28,
+              "col": 10,
+              "value": 225
+            },
+            {
+              "row": 28,
+              "col": 11,
+              "value": "390#"
+            },
+            {
+              "row": 28,
+              "col": 12,
+              "value": 26.5
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 3,
+              "value": "40OQ"
+            },
+            {
+              "row": 29,
+              "col": 4,
+              "value": 1200
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": 234
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": "260*"
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": 26.5
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": "40OQ"
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": 1160
+            },
+            {
+              "row": 29,
+              "col": 10,
+              "value": 225
+            },
+            {
+              "row": 29,
+              "col": 11,
+              "value": 420
+            },
+            {
+              "row": 29,
+              "col": 12,
+              "value": 26.5
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 3,
+              "value": "20FR"
+            },
+            {
+              "row": 30,
+              "col": 4,
+              "value": 550
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": 243
+            },
+            {
+              "row": 30,
+              "col": 6,
+              "value": 221
+            },
+            {
+              "row": 30,
+              "col": 7,
+              "value": "28,0**"
+            },
+            {
+              "row": 30,
+              "col": 8,
+              "value": "20FR"
+            },
+            {
+              "row": 30,
+              "col": 9,
+              "value": 550
+            },
+            {
+              "row": 30,
+              "col": 10,
+              "value": 420
+            },
+            {
+              "row": 30,
+              "col": 11,
+              "value": "390#"
+            },
+            {
+              "row": 30,
+              "col": 12,
+              "value": "28,0##"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 3,
+              "value": "40FR"
+            },
+            {
+              "row": 31,
+              "col": 4,
+              "value": 1150
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": 243
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": 195
+            },
+            {
+              "row": 31,
+              "col": 7,
+              "value": "28,0***"
+            },
+            {
+              "row": 31,
+              "col": 8,
+              "value": "40FR"
+            },
+            {
+              "row": 31,
+              "col": 9,
+              "value": 1150
+            },
+            {
+              "row": 31,
+              "col": 10,
+              "value": 420
+            },
+            {
+              "row": 31,
+              "col": 11,
+              "value": "390#"
+            },
+            {
+              "row": 31,
+              "col": 12,
+              "value": "34,0###"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 3,
+              "value": "40FQ"
+            },
+            {
+              "row": 32,
+              "col": 4,
+              "value": 1150
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": 243
+            },
+            {
+              "row": 32,
+              "col": 6,
+              "value": 225
+            },
+            {
+              "row": 32,
+              "col": 7,
+              "value": "28,0***"
+            },
+            {
+              "row": 32,
+              "col": 8,
+              "value": "40FQ"
+            },
+            {
+              "row": 32,
+              "col": 9,
+              "value": 1150
+            },
+            {
+              "row": 32,
+              "col": 10,
+              "value": 420
+            },
+            {
+              "row": 32,
+              "col": 11,
+              "value": 420
+            },
+            {
+              "row": 32,
+              "col": 12,
+              "value": "34,0###"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 3,
+              "value": "For 40FR/FQ IG, above rates apply to cargo weight within 28t only - Others on request only"
+            },
+            {
+              "row": 33,
+              "col": 8,
+              "value": "# 395cm height for OT/FR on request."
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 3,
+              "value": "** 31MT for 20FR on request."
+            },
+            {
+              "row": 34,
+              "col": 8,
+              "value": "## up to 31MT for 20FR on request."
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 3,
+              "value": "*** 40MT for 40FR on request."
+            },
+            {
+              "row": 35,
+              "col": 8,
+              "value": "### up to 40MT for 40FR on request."
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 3,
+              "value": "SHIPMENTS OUT OF THE DIMS LIMITATION MUST BE REQUESTED SEPARATELY"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 3,
+              "value": "In case a  HQFR/HQOT is used, these are priced same as normal FR/OT and overheight is charged as applied for standard FR/OT dimensions"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 2,
+              "value": "TERMS & GENERAL CONDITONS"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 2,
+              "value": "Remark:"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 8
+    },
+    {
+      "name": "OCEANIA - OOG",
+      "dimensions": "A1:CL372",
+      "max_row": 372,
+      "max_col": 90,
+      "merged_regions": [
+        "K16:L16",
+        "C54:N54",
+        "E24:F24",
+        "K24:L24",
+        "I15:J15",
+        "C17:C21",
+        "K15:L15",
+        "D9:F12",
+        "E23:F23",
+        "B30:N30",
+        "G23:H23",
+        "C22:C24",
+        "B6:N6",
+        "M14:M16",
+        "B51:N51",
+        "D14:D16",
+        "G8:N8",
+        "K29:L29",
+        "I16:J16",
+        "B32:N32",
+        "D8:F8",
+        "B22:B24",
+        "J4:N4",
+        "D22:D24",
+        "G9:N12",
+        "G24:H24",
+        "E15:F15",
+        "B25:B29",
+        "I24:J24",
+        "G15:H15",
+        "C14:C16",
+        "B52:N52",
+        "I23:J23",
+        "K23:L23",
+        "N22:N24",
+        "C39:G39",
+        "G29:H29",
+        "I29:J29",
+        "E16:F16",
+        "J3:N3",
+        "M22:M24",
+        "B17:B21",
+        "G16:H16",
+        "C25:C29",
+        "B14:B16",
+        "N14:N16"
+      ],
+      "rows_preview": [
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 10,
+              "value": "COSCO Shipping Lines ( Germany ) GmbH"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 10,
+              "value": "As agent only, for and on behalf of COSCO Shipping Lines CO.,LTD."
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 2,
+              "value": "OOG / AWKWARD CARGO - NORTH WEST CONTINENT  /  OCEANIA "
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 2,
+              "value": "VALIDITY"
+            },
+            {
+              "row": 8,
+              "col": 3,
+              "value": "01.04.2026 - 30.04.2026"
+            },
+            {
+              "row": 8,
+              "col": 4,
+              "value": "BASIS OF CALCULATION"
+            },
+            {
+              "row": 8,
+              "col": 7,
+              "value": "REMARKS / TRADE NEWS"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 2,
+              "value": "COMMODITY"
+            },
+            {
+              "row": 9,
+              "col": 3,
+              "value": "Freight all Kind, Non Hazardous"
+            },
+            {
+              "row": 9,
+              "col": 4,
+              "value": "LTS - LONGTERM SCHEDULE DATE"
+            },
+            {
+              "row": 9,
+              "col": 7,
+              "value": "N/A\n"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 2,
+              "value": "CURRENCY"
+            },
+            {
+              "row": 10,
+              "col": 3,
+              "value": "USD"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "TERMS & CONDITONS"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 2,
+              "value": "FILING REF"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "see below"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 2,
+              "value": "POL"
+            },
+            {
+              "row": 14,
+              "col": 3,
+              "value": "AREA"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": "20'OT/ FR "
+            },
+            {
+              "row": 14,
+              "col": 6,
+              "value": "40'OT/OQ/FR/FQ"
+            },
+            {
+              "row": 14,
+              "col": 7,
+              "value": "20'OT/ FR "
+            },
+            {
+              "row": 14,
+              "col": 8,
+              "value": "40'OT/OQ/FR/FQ"
+            },
+            {
+              "row": 14,
+              "col": 9,
+              "value": "20'FR "
+            },
+            {
+              "row": 14,
+              "col": 10,
+              "value": "40'FR/FQ"
+            },
+            {
+              "row": 14,
+              "col": 11,
+              "value": "20'FR "
+            },
+            {
+              "row": 14,
+              "col": 12,
+              "value": "40'FR/FQ"
+            },
+            {
+              "row": 14,
+              "col": 13,
+              "value": "TERM"
+            },
+            {
+              "row": 14,
+              "col": 14,
+              "value": "T/S ONLY VIA"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 5,
+              "value": "IN GAUGE (CY/CY)"
+            },
+            {
+              "row": 15,
+              "col": 7,
+              "value": "  OH (OH<= 1.8m) "
+            },
+            {
+              "row": 15,
+              "col": 9,
+              "value": "OW （OW<=1m each side）"
+            },
+            {
+              "row": 15,
+              "col": 11,
+              "value": "OW/OH (OH <=1.8m - OW<=1m each side)"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 5,
+              "value": "00032343-00851"
+            },
+            {
+              "row": 16,
+              "col": 7,
+              "value": "00032343-00915"
+            },
+            {
+              "row": 16,
+              "col": 9,
+              "value": "00032343-00916"
+            },
+            {
+              "row": 16,
+              "col": 11,
+              "value": "00032343-00837"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 2,
+              "value": "Antwerp\nHamburg \nRotterdam\nWilhelmshaven\nZeebrugge"
+            },
+            {
+              "row": 17,
+              "col": 3,
+              "value": "Australia "
+            },
+            {
+              "row": 17,
+              "col": 4,
+              "value": "Adelaide"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": 1000
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": 2000
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": 2800
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": 4000
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": 4500
+            },
+            {
+              "row": 17,
+              "col": 10,
+              "value": 6500
+            },
+            {
+              "row": 17,
+              "col": 11,
+              "value": 6000
+            },
+            {
+              "row": 17,
+              "col": 12,
+              "value": 8000
+            },
+            {
+              "row": 17,
+              "col": 13,
+              "value": "CY/HK"
+            },
+            {
+              "row": 17,
+              "col": 14,
+              "value": "SIN/PKG "
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 4,
+              "value": "Brisbane "
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": 1000
+            },
+            {
+              "row": 18,
+              "col": 6,
+              "value": 2000
+            },
+            {
+              "row": 18,
+              "col": 7,
+              "value": 2800
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": 4000
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": 4500
+            },
+            {
+              "row": 18,
+              "col": 10,
+              "value": 6500
+            },
+            {
+              "row": 18,
+              "col": 11,
+              "value": 6000
+            },
+            {
+              "row": 18,
+              "col": 12,
+              "value": 8000
+            },
+            {
+              "row": 18,
+              "col": 13,
+              "value": "CY/HK"
+            },
+            {
+              "row": 18,
+              "col": 14,
+              "value": "SIN/PKG "
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 4,
+              "value": "Fremantle"
+            },
+            {
+              "row": 19,
+              "col": 5,
+              "value": 1000
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": 2000
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": 2800
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": 4000
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": 4500
+            },
+            {
+              "row": 19,
+              "col": 10,
+              "value": 6500
+            },
+            {
+              "row": 19,
+              "col": 11,
+              "value": 6000
+            },
+            {
+              "row": 19,
+              "col": 12,
+              "value": 8000
+            },
+            {
+              "row": 19,
+              "col": 13,
+              "value": "CY/HK"
+            },
+            {
+              "row": 19,
+              "col": 14,
+              "value": "SIN/PKG "
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 4,
+              "value": "Melbourne "
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": 1000
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": 2000
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": 2800
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": 4000
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": 4500
+            },
+            {
+              "row": 20,
+              "col": 10,
+              "value": 6500
+            },
+            {
+              "row": 20,
+              "col": 11,
+              "value": 6000
+            },
+            {
+              "row": 20,
+              "col": 12,
+              "value": 8000
+            },
+            {
+              "row": 20,
+              "col": 13,
+              "value": "CY/HK"
+            },
+            {
+              "row": 20,
+              "col": 14,
+              "value": "SIN/PKG "
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 4,
+              "value": "Sydney "
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": 1000
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": 2000
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": 2800
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": 4000
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": 4500
+            },
+            {
+              "row": 21,
+              "col": 10,
+              "value": 6500
+            },
+            {
+              "row": 21,
+              "col": 11,
+              "value": 6000
+            },
+            {
+              "row": 21,
+              "col": 12,
+              "value": 8000
+            },
+            {
+              "row": 21,
+              "col": 13,
+              "value": "CY/HK"
+            },
+            {
+              "row": 21,
+              "col": 14,
+              "value": "SIN/PKG "
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 2,
+              "value": "POL"
+            },
+            {
+              "row": 22,
+              "col": 3,
+              "value": "AREA"
+            },
+            {
+              "row": 22,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": "20'OT/FR "
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": "40'OT/OQ/FR/FQ"
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": "20'OT/FR "
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": "40'OT/OQ/FR/FQ"
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": "20'FR "
+            },
+            {
+              "row": 22,
+              "col": 10,
+              "value": "40'FR/FQ"
+            },
+            {
+              "row": 22,
+              "col": 11,
+              "value": "20'FR "
+            },
+            {
+              "row": 22,
+              "col": 12,
+              "value": "40'FR/FQ"
+            },
+            {
+              "row": 22,
+              "col": 13,
+              "value": "TERM"
+            },
+            {
+              "row": 22,
+              "col": 14,
+              "value": "T/S ONLY VIA"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 5,
+              "value": "IN GAUGE (CY/CY)"
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": "  OH (OH<=1.65m) "
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": "OW (OW<=0.35m each side)"
+            },
+            {
+              "row": 23,
+              "col": 11,
+              "value": "OW/OH (OH <=1.65 - OW<=0.35m each side)"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 5,
+              "value": "00032343-00864"
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": "00032343-00917"
+            },
+            {
+              "row": 24,
+              "col": 9,
+              "value": "00032343-00918"
+            },
+            {
+              "row": 24,
+              "col": 11,
+              "value": "0032343-00919"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 2,
+              "value": "Antwerp\nHamburg \nRotterdam\nWilhelmshaven\nZeebrugge"
+            },
+            {
+              "row": 25,
+              "col": 3,
+              "value": "New Zealand"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": "Auckland"
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": 1300
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": 2600
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": 4500
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": 6000
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": 6500
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": 9000
+            },
+            {
+              "row": 25,
+              "col": 11,
+              "value": 9000
+            },
+            {
+              "row": 25,
+              "col": 12,
+              "value": 12000
+            },
+            {
+              "row": 25,
+              "col": 13,
+              "value": "CY/HK"
+            },
+            {
+              "row": 25,
+              "col": 14,
+              "value": "SIN/PKG "
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 4,
+              "value": "Lyttelton"
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": 1300
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": 2600
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": 4500
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": 6000
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": 6500
+            },
+            {
+              "row": 26,
+              "col": 10,
+              "value": 9000
+            },
+            {
+              "row": 26,
+              "col": 11,
+              "value": 9000
+            },
+            {
+              "row": 26,
+              "col": 12,
+              "value": 12000
+            },
+            {
+              "row": 26,
+              "col": 13,
+              "value": "CY/HK"
+            },
+            {
+              "row": 26,
+              "col": 14,
+              "value": "SIN/PKG "
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 4,
+              "value": "Napier "
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": 1300
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": 2600
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": 4500
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": 6000
+            },
+            {
+              "row": 27,
+              "col": 9,
+              "value": 6500
+            },
+            {
+              "row": 27,
+              "col": 10,
+              "value": 9000
+            },
+            {
+              "row": 27,
+              "col": 11,
+              "value": 9000
+            },
+            {
+              "row": 27,
+              "col": 12,
+              "value": 12000
+            },
+            {
+              "row": 27,
+              "col": 13,
+              "value": "CY/HK"
+            },
+            {
+              "row": 27,
+              "col": 14,
+              "value": "SIN/PKG "
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 4,
+              "value": "Tauranga"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": 1300
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": 2600
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": 4500
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": 6000
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": 6500
+            },
+            {
+              "row": 28,
+              "col": 10,
+              "value": 9000
+            },
+            {
+              "row": 28,
+              "col": 11,
+              "value": 9000
+            },
+            {
+              "row": 28,
+              "col": 12,
+              "value": 12000
+            },
+            {
+              "row": 28,
+              "col": 13,
+              "value": "CY/HK"
+            },
+            {
+              "row": 28,
+              "col": 14,
+              "value": "SIN/PKG "
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 4,
+              "value": "Wellington"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": 1300
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": 2600
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": "on request only "
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": "on request only "
+            },
+            {
+              "row": 29,
+              "col": 11,
+              "value": "on request only "
+            },
+            {
+              "row": 29,
+              "col": 13,
+              "value": "CY/HK"
+            },
+            {
+              "row": 29,
+              "col": 14,
+              "value": "SIN/PKG "
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 2,
+              "value": "Cargo weight within 30t"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 2,
+              "value": "TERMS & GENERAL CONDITONS"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 2,
+              "value": "FREIGHT TERMS"
+            },
+            {
+              "row": 33,
+              "col": 3,
+              "value": ": Prepaid"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 2,
+              "value": "CURRENCY "
+            },
+            {
+              "row": 34,
+              "col": 3,
+              "value": ": USD "
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 2,
+              "value": "FREIGHT BASIS"
+            },
+            {
+              "row": 35,
+              "col": 3,
+              "value": ": inclusive AGS, BUC, FAF, SUZ "
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 2,
+              "value": "AGS"
+            },
+            {
+              "row": 36,
+              "col": 3,
+              "value": ": included"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 2,
+              "value": "BUC"
+            },
+            {
+              "row": 37,
+              "col": 3,
+              "value": ": included"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 2,
+              "value": "EFS"
+            },
+            {
+              "row": 38,
+              "col": 3,
+              "value": ": Emergency Fuel Surcharge - USD 50,- per TEU - VATOS"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 2,
+              "value": "ETS"
+            },
+            {
+              "row": 39,
+              "col": 3,
+              "value": ": Carbon Emissions Trading System Surcharge EUR 25,- per TEU - sub to changes -  vatos"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 2,
+              "value": "FAF"
+            },
+            {
+              "row": 40,
+              "col": 3,
+              "value": ": included"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 8
+    }
+  ]
+}

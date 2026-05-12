@@ -1,0 +1,6661 @@
+{
+  "file": "COSCO SHIPPING LINES - IET SB RATE SHEETS - 01.04.2026 - 30.04.2026.xlsx",
+  "sheets": [
+    {
+      "name": "IET VIP Southbound Main ports",
+      "dimensions": "A1:AQ349",
+      "max_row": 349,
+      "max_col": 43,
+      "merged_regions": [
+        "O18:O19",
+        "H31:H41",
+        "B42:B52",
+        "B18:B19",
+        "D12:M12",
+        "C20:C21",
+        "C42:C43",
+        "B7:R7",
+        "C15:M15",
+        "C17:R17",
+        "I18:N18",
+        "C45:C46",
+        "C58:C63",
+        "Q18:Q19",
+        "B66:R66",
+        "O45:O46",
+        "D14:M14",
+        "O36:O39",
+        "O29:O30",
+        "B99:J99",
+        "C56:C57",
+        "O56:O57",
+        "C25:C30",
+        "B101:C101",
+        "C31:C32",
+        "O25:O28",
+        "B53:B63",
+        "O40:O41",
+        "B67:R67",
+        "O62:O63",
+        "O31:O32",
+        "C23:C24",
+        "C47:C52",
+        "O47:O50",
+        "D18:D19",
+        "R18:R19",
+        "O51:O52",
+        "B20:B30",
+        "E18:G18",
+        "C36:C41",
+        "P18:P19",
+        "O58:O61",
+        "D13:M13",
+        "O23:O24",
+        "D11:M11",
+        "H18:H19",
+        "C53:C54",
+        "B9:R9",
+        "H53:H63",
+        "B31:B41"
+      ],
+      "rows_preview": [
+        {
+          "row": 2,
+          "cells": [
+            {
+              "row": 2,
+              "col": 17,
+              "value": "Company:"
+            }
+          ]
+        },
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 17,
+              "value": "COSCO SHIPPING Lines (Germany) GmbH       "
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 17,
+              "value": "Am Sandtorkai 60"
+            }
+          ]
+        },
+        {
+          "row": 5,
+          "cells": [
+            {
+              "row": 5,
+              "col": 17,
+              "value": "20457 Hamburg, Germany"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "row": 7,
+              "col": 2,
+              "value": "Cosco Shipping Lines (Germany) GmbH acts as agent for and on behalf of Diamond Line GmbH only"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 2,
+              "value": "VIP FAK - INTRA EUROPE - SOUTHBOUND - MAIN PORTS"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "VALIDITY"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "01.04.2026 - 30.04.2026"
+            },
+            {
+              "row": 11,
+              "col": 4,
+              "value": "ATD (sailing date - this also applies for carrier haulage or inland CY)"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 2,
+              "value": "COMMODITY"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "Freight all Kind, Non Hazardous"
+            },
+            {
+              "row": 12,
+              "col": 4,
+              "value": "Rates are valid for GERMAN cargo only "
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "row": 13,
+              "col": 2,
+              "value": "CURRENCY"
+            },
+            {
+              "row": 13,
+              "col": 3,
+              "value": "EUR"
+            },
+            {
+              "row": 13,
+              "col": 4,
+              "value": "Ocean freight: PREPAID only "
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 2,
+              "value": "TERMS & CONDITONS"
+            },
+            {
+              "row": 14,
+              "col": 3,
+              "value": "please see below"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "no plastic scrap / waste shipments"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 2,
+              "value": "Agreement Number"
+            },
+            {
+              "row": 15,
+              "col": 3,
+              "value": "AF: 00032343 + RI (5 digits)  = Agreement-Number:  00032343-xxxxx -> Please see column \"O\"."
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 2,
+              "value": "CARRIER"
+            },
+            {
+              "row": 17,
+              "col": 3,
+              "value": "                                                                                                                                                        Diamond Lines GmbH"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 2,
+              "value": "POL"
+            },
+            {
+              "row": 18,
+              "col": 3,
+              "value": "COUNTRY"
+            },
+            {
+              "row": 18,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": "Ocean freight rate"
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": "Surcharges"
+            },
+            {
+              "row": 18,
+              "col": 15,
+              "value": "Agreement \nNumber"
+            },
+            {
+              "row": 18,
+              "col": 16,
+              "value": "DIRECT OR T/S"
+            },
+            {
+              "row": 18,
+              "col": 17,
+              "value": "TERM"
+            },
+            {
+              "row": 18,
+              "col": 18,
+              "value": "Service restriction"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 5,
+              "value": "20´DC\nin EUR"
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": "40´DC\nin EUR"
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": "40´HC\nin EUR"
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": "THC at origin"
+            },
+            {
+              "row": 19,
+              "col": 10,
+              "value": "SSL in EUR \nper UNIT"
+            },
+            {
+              "row": 19,
+              "col": 11,
+              "value": "FAF in EUR \nper TEU"
+            },
+            {
+              "row": 19,
+              "col": 12,
+              "value": "ETS in EUR \nper TEU"
+            },
+            {
+              "row": 19,
+              "col": 13,
+              "value": "EBS in EUR per TEU"
+            },
+            {
+              "row": 19,
+              "col": 14,
+              "value": "further surcharges"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 20,
+              "col": 3,
+              "value": "Egypt\n**ACI requirements \nat the time of booking**"
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": "El-Dekheila (Alexandria)"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": 425
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": 525
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": 525
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": "+"
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 20,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 20,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 20,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 20,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 20,
+              "col": 15,
+              "value": "00032343-00847"
+            },
+            {
+              "row": 20,
+              "col": 16,
+              "value": "direct"
+            },
+            {
+              "row": 20,
+              "col": 17,
+              "value": "CY/FO"
+            },
+            {
+              "row": 20,
+              "col": 18,
+              "value": "NET2 direct service"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 4,
+              "value": "Damietta"
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": 475
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": 625
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": 625
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 21,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 21,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 21,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 21,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 21,
+              "col": 15,
+              "value": "00032343-00875"
+            },
+            {
+              "row": 21,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 21,
+              "col": 17,
+              "value": "CY/FO"
+            },
+            {
+              "row": 21,
+              "col": 18,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 3,
+              "value": "Greece"
+            },
+            {
+              "row": 22,
+              "col": 4,
+              "value": "Piraeus"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": 550
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": 625
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": 625
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 22,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 22,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 22,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 22,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 22,
+              "col": 15,
+              "value": "00032343-00849"
+            },
+            {
+              "row": 22,
+              "col": 16,
+              "value": "direct"
+            },
+            {
+              "row": 22,
+              "col": 17,
+              "value": "CY/FO"
+            },
+            {
+              "row": 22,
+              "col": 18,
+              "value": "NET(1) / NET2 direct service"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 3,
+              "value": "Israel"
+            },
+            {
+              "row": 23,
+              "col": 4,
+              "value": "Haifa"
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": 1100
+            },
+            {
+              "row": 23,
+              "col": 6,
+              "value": 1375
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": 1375
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 23,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 23,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 23,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 23,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 23,
+              "col": 14,
+              "value": "incl. ECC, WRS, EIS"
+            },
+            {
+              "row": 23,
+              "col": 15,
+              "value": "00032343-00876"
+            },
+            {
+              "row": 23,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 23,
+              "col": 17,
+              "value": "CY/LO"
+            },
+            {
+              "row": 23,
+              "col": 18,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 4,
+              "value": "Ashdod"
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": 1100
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": 1375
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": 1375
+            },
+            {
+              "row": 24,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 24,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 24,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 24,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 24,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 24,
+              "col": 14,
+              "value": "incl. ECC, WRS, EIS"
+            },
+            {
+              "row": 24,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 24,
+              "col": 17,
+              "value": "CY/LO"
+            },
+            {
+              "row": 24,
+              "col": 18,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 3,
+              "value": "Turkey"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": "Aliaga"
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": 150
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": 175
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": 175
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 25,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 25,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 25,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 25,
+              "col": 15,
+              "value": "00032343-00850"
+            },
+            {
+              "row": 25,
+              "col": 16,
+              "value": "direct"
+            },
+            {
+              "row": 25,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 25,
+              "col": 18,
+              "value": "NET(1) direct service"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 4,
+              "value": "Yarimca"
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": 150
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": 175
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": 175
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 26,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 26,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 26,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 26,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 26,
+              "col": 16,
+              "value": "direct"
+            },
+            {
+              "row": 26,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 26,
+              "col": 18,
+              "value": "NET(1) direct service"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 4,
+              "value": "Gemlik"
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": 150
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": 175
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": 175
+            },
+            {
+              "row": 27,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 27,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 27,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 27,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 27,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 27,
+              "col": 16,
+              "value": "direct"
+            },
+            {
+              "row": 27,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 27,
+              "col": 18,
+              "value": "NET(1) direct service"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 4,
+              "value": "Kumport"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": 150
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": 175
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": 175
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 28,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 28,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 28,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 28,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 28,
+              "col": 16,
+              "value": "direct"
+            },
+            {
+              "row": 28,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 28,
+              "col": 18,
+              "value": "NET(1) direct service"
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 4,
+              "value": "Iskenderun"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": 325
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": 375
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": 375
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 29,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 29,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 29,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 29,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 29,
+              "col": 15,
+              "value": "00032343-00848"
+            },
+            {
+              "row": 29,
+              "col": 16,
+              "value": "direct"
+            },
+            {
+              "row": 29,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 29,
+              "col": 18,
+              "value": "NET2 direct service"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 4,
+              "value": "Mersin"
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": 325
+            },
+            {
+              "row": 30,
+              "col": 6,
+              "value": 375
+            },
+            {
+              "row": 30,
+              "col": 7,
+              "value": 375
+            },
+            {
+              "row": 30,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 30,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 30,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 30,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 30,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 30,
+              "col": 14,
+              "value": "*TAC, ESG"
+            },
+            {
+              "row": 30,
+              "col": 16,
+              "value": "direct"
+            },
+            {
+              "row": 30,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 30,
+              "col": 18,
+              "value": "NET2 direct service"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 2,
+              "value": "BREMERHAVEN"
+            },
+            {
+              "row": 31,
+              "col": 3,
+              "value": "Egypt\n**ACI requirements \nat the time of booking**"
+            },
+            {
+              "row": 31,
+              "col": 4,
+              "value": "El-Dekheila (Alexandria)"
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": "no service"
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": "no service"
+            },
+            {
+              "row": 31,
+              "col": 7,
+              "value": "no service"
+            },
+            {
+              "row": 31,
+              "col": 8,
+              "value": "+"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 4,
+              "value": "Damietta"
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": "no service"
+            },
+            {
+              "row": 32,
+              "col": 6,
+              "value": "no service"
+            },
+            {
+              "row": 32,
+              "col": 7,
+              "value": "no service"
+            },
+            {
+              "row": 32,
+              "col": 18,
+              "value": "NET(1) via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 3,
+              "value": "Greece"
+            },
+            {
+              "row": 33,
+              "col": 4,
+              "value": "Piraeus"
+            },
+            {
+              "row": 33,
+              "col": 5,
+              "value": 550
+            },
+            {
+              "row": 33,
+              "col": 6,
+              "value": 625
+            },
+            {
+              "row": 33,
+              "col": 7,
+              "value": 625
+            },
+            {
+              "row": 33,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 33,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 33,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 33,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 33,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 33,
+              "col": 15,
+              "value": "00032343-00849"
+            },
+            {
+              "row": 33,
+              "col": 16,
+              "value": "direct"
+            },
+            {
+              "row": 33,
+              "col": 17,
+              "value": "CY/FO"
+            },
+            {
+              "row": 33,
+              "col": 18,
+              "value": "NET(1) direct service"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 3,
+              "value": "Israel"
+            },
+            {
+              "row": 34,
+              "col": 4,
+              "value": "Haifa"
+            },
+            {
+              "row": 34,
+              "col": 5,
+              "value": 1100
+            },
+            {
+              "row": 34,
+              "col": 6,
+              "value": 1375
+            },
+            {
+              "row": 34,
+              "col": 7,
+              "value": 1375
+            },
+            {
+              "row": 34,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 34,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 34,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 34,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 34,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 34,
+              "col": 14,
+              "value": "incl. ECC, WRS, EIS"
+            },
+            {
+              "row": 34,
+              "col": 15,
+              "value": "00032343-00876"
+            },
+            {
+              "row": 34,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 34,
+              "col": 17,
+              "value": "CY/LO"
+            },
+            {
+              "row": 34,
+              "col": 18,
+              "value": "NET(1) via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 4,
+              "value": "Ashdod"
+            },
+            {
+              "row": 35,
+              "col": 5,
+              "value": 1100
+            },
+            {
+              "row": 35,
+              "col": 6,
+              "value": 1375
+            },
+            {
+              "row": 35,
+              "col": 7,
+              "value": 1375
+            },
+            {
+              "row": 35,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 35,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 35,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 35,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 35,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 35,
+              "col": 14,
+              "value": "incl. ECC, WRS, EIS"
+            },
+            {
+              "row": 35,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 35,
+              "col": 17,
+              "value": "CY/LO"
+            },
+            {
+              "row": 35,
+              "col": 18,
+              "value": "NET(1) via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 3,
+              "value": "Turkey"
+            },
+            {
+              "row": 36,
+              "col": 4,
+              "value": "Aliaga"
+            },
+            {
+              "row": 36,
+              "col": 5,
+              "value": 150
+            },
+            {
+              "row": 36,
+              "col": 6,
+              "value": 175
+            },
+            {
+              "row": 36,
+              "col": 7,
+              "value": 175
+            },
+            {
+              "row": 36,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 36,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 36,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 36,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 36,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 36,
+              "col": 15,
+              "value": "00032343-00850"
+            },
+            {
+              "row": 36,
+              "col": 16,
+              "value": "direct"
+            },
+            {
+              "row": 36,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 36,
+              "col": 18,
+              "value": "NET(1) direct service"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 4,
+              "value": "Yarimca"
+            },
+            {
+              "row": 37,
+              "col": 5,
+              "value": 150
+            },
+            {
+              "row": 37,
+              "col": 6,
+              "value": 175
+            },
+            {
+              "row": 37,
+              "col": 7,
+              "value": 175
+            },
+            {
+              "row": 37,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 37,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 37,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 37,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 37,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 37,
+              "col": 16,
+              "value": "direct"
+            },
+            {
+              "row": 37,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 37,
+              "col": 18,
+              "value": "NET(1) direct service"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 4,
+              "value": "Gemlik"
+            },
+            {
+              "row": 38,
+              "col": 5,
+              "value": 150
+            },
+            {
+              "row": 38,
+              "col": 6,
+              "value": 175
+            },
+            {
+              "row": 38,
+              "col": 7,
+              "value": 175
+            },
+            {
+              "row": 38,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 38,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 38,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 38,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 38,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 38,
+              "col": 16,
+              "value": "direct"
+            },
+            {
+              "row": 38,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 38,
+              "col": 18,
+              "value": "NET(1) direct service"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 4,
+              "value": "Kumport"
+            },
+            {
+              "row": 39,
+              "col": 5,
+              "value": 150
+            },
+            {
+              "row": 39,
+              "col": 6,
+              "value": 175
+            },
+            {
+              "row": 39,
+              "col": 7,
+              "value": 175
+            },
+            {
+              "row": 39,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 39,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 39,
+              "col": 11,
+              "value": 0
+            },
+            {
+              "row": 39,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 39,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 39,
+              "col": 16,
+              "value": "direct"
+            },
+            {
+              "row": 39,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 39,
+              "col": 18,
+              "value": "NET(1) direct service"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 4,
+              "value": "Iskenderun"
+            },
+            {
+              "row": 40,
+              "col": 5,
+              "value": "no service"
+            },
+            {
+              "row": 40,
+              "col": 6,
+              "value": "no service"
+            },
+            {
+              "row": 40,
+              "col": 7,
+              "value": "no service"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 11
+    },
+    {
+      "name": "IET VIP Southbound out ports",
+      "dimensions": "A1:AZ311",
+      "max_row": 311,
+      "max_col": 52,
+      "merged_regions": [
+        "D11:I11",
+        "O18:O19",
+        "H20:H34",
+        "D13:I13",
+        "B18:B19",
+        "B7:R7",
+        "C17:R17",
+        "I18:N18",
+        "Q18:Q19",
+        "B39:R39",
+        "D12:I12",
+        "C15:I15",
+        "D14:I14",
+        "D18:D19",
+        "R18:R19",
+        "B38:R38",
+        "E18:G18",
+        "B37:R37",
+        "P18:P19",
+        "H18:H19",
+        "B9:R9",
+        "B20:B34",
+        "C18:C19",
+        "B36:R36"
+      ],
+      "rows_preview": [
+        {
+          "row": 2,
+          "cells": [
+            {
+              "row": 2,
+              "col": 17,
+              "value": "Company:"
+            }
+          ]
+        },
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 17,
+              "value": "COSCO SHIPPING Lines (Germany) GmbH       "
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 17,
+              "value": "Am Sandtorkai 60"
+            }
+          ]
+        },
+        {
+          "row": 5,
+          "cells": [
+            {
+              "row": 5,
+              "col": 17,
+              "value": "20457 Hamburg, Germany"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "row": 7,
+              "col": 2,
+              "value": "Cosco Shipping Lines (Germany) GmbH acts as agent for and on behalf of Diamond Line GmbH only"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 2,
+              "value": "FAK - INTRA EUROPE - SOUTHBOUND - OUT PORTS"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "VALIDITY"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "01.04.2026 - 30.04.2026"
+            },
+            {
+              "row": 11,
+              "col": 4,
+              "value": "ATD (sailing date - this also applies for carrier haulage or inland CY)"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 2,
+              "value": "COMMODITY"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "Freight all Kind, Non Hazardous"
+            },
+            {
+              "row": 12,
+              "col": 4,
+              "value": "Rates are valid for GERMAN cargo only "
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "row": 13,
+              "col": 2,
+              "value": "CURRENCY"
+            },
+            {
+              "row": 13,
+              "col": 3,
+              "value": "EUR"
+            },
+            {
+              "row": 13,
+              "col": 4,
+              "value": "Ocean freight: PREPAID only "
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 2,
+              "value": "TERMS & CONDITONS"
+            },
+            {
+              "row": 14,
+              "col": 3,
+              "value": "please see below"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "no plastic scrap / waste shipments"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 2,
+              "value": "Agreement Number"
+            },
+            {
+              "row": 15,
+              "col": 3,
+              "value": "AF: 00032343 + RI (5 digits)  = Agreement-Number:  00032343-xxxxx -> Please see column \"O\"."
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 2,
+              "value": "CARRIER"
+            },
+            {
+              "row": 17,
+              "col": 3,
+              "value": "                                                                                                                                                        Diamond Lines GmbH"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 2,
+              "value": "POL"
+            },
+            {
+              "row": 18,
+              "col": 3,
+              "value": "COUNTRY"
+            },
+            {
+              "row": 18,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": "Ocean freight rate"
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": "Surcharges"
+            },
+            {
+              "row": 18,
+              "col": 15,
+              "value": "Agreement \nNumber"
+            },
+            {
+              "row": 18,
+              "col": 16,
+              "value": "DIRECT OR T/S"
+            },
+            {
+              "row": 18,
+              "col": 17,
+              "value": "TERM"
+            },
+            {
+              "row": 18,
+              "col": 18,
+              "value": "Service restriction"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 5,
+              "value": "20´DC\nin EUR"
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": "40´DC\nin EUR"
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": "40´HC\nin EUR"
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": "THC at origin"
+            },
+            {
+              "row": 19,
+              "col": 10,
+              "value": "SSL in EUR \nper UNIT"
+            },
+            {
+              "row": 19,
+              "col": 11,
+              "value": "FAF in EUR \nper TEU"
+            },
+            {
+              "row": 19,
+              "col": 12,
+              "value": "ETS in EUR \nper TEU"
+            },
+            {
+              "row": 19,
+              "col": 13,
+              "value": "EBS in EUR per TEU"
+            },
+            {
+              "row": 19,
+              "col": 14,
+              "value": "further surcharges"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 2,
+              "value": "HAMBURG\nBREMERHAVEN\nROTTERDAM\nANTWERP"
+            },
+            {
+              "row": 20,
+              "col": 3,
+              "value": "BG"
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": "Varna"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": 775
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": 1350
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": 1350
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": "+"
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 20,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 20,
+              "col": 11,
+              "value": 107
+            },
+            {
+              "row": 20,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 20,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 20,
+              "col": 15,
+              "value": "00032343-00944"
+            },
+            {
+              "row": 20,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 20,
+              "col": 17,
+              "value": "CY/FO"
+            },
+            {
+              "row": 20,
+              "col": 18,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 3,
+              "value": "CY"
+            },
+            {
+              "row": 21,
+              "col": 4,
+              "value": "Limassol"
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": 925
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": 1500
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": 1500
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 21,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 21,
+              "col": 11,
+              "value": 107
+            },
+            {
+              "row": 21,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 21,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 21,
+              "col": 15,
+              "value": "00032343-00945"
+            },
+            {
+              "row": 21,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 21,
+              "col": 17,
+              "value": "CY/FO"
+            },
+            {
+              "row": 21,
+              "col": 18,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 3,
+              "value": "DZ"
+            },
+            {
+              "row": 22,
+              "col": 4,
+              "value": "Alger (no DG allowed)"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": 3300
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": 4175
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": 4175
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 22,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 22,
+              "col": 11,
+              "value": 107
+            },
+            {
+              "row": 22,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 22,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 22,
+              "col": 15,
+              "value": "00032343-00957"
+            },
+            {
+              "row": 22,
+              "col": 16,
+              "value": "double T/S via GRPIR/ESVLC\n(port congestion in ESVLC)"
+            },
+            {
+              "row": 22,
+              "col": 17,
+              "value": "CY/FO"
+            },
+            {
+              "row": 22,
+              "col": 18,
+              "value": "double T/S via GRPIR/ESVLC\n(port congestion in ESVLC)"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 3,
+              "value": "EG"
+            },
+            {
+              "row": 23,
+              "col": 4,
+              "value": "Port Said West"
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": 900
+            },
+            {
+              "row": 23,
+              "col": 6,
+              "value": 1225
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": 1225
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 23,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 23,
+              "col": 11,
+              "value": 107
+            },
+            {
+              "row": 23,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 23,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 23,
+              "col": 15,
+              "value": "00032343-00946"
+            },
+            {
+              "row": 23,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 23,
+              "col": 17,
+              "value": "CY/FO"
+            },
+            {
+              "row": 23,
+              "col": 18,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 3,
+              "value": "ES"
+            },
+            {
+              "row": 24,
+              "col": 4,
+              "value": "Algeciras"
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": 775
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": 1200
+            },
+            {
+              "row": 24,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 24,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 24,
+              "col": 11,
+              "value": 107
+            },
+            {
+              "row": 24,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 24,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 24,
+              "col": 15,
+              "value": "00032343-00947"
+            },
+            {
+              "row": 24,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 24,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 24,
+              "col": 18,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 3,
+              "value": "GE"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": "Poti"
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": 1025
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": 1750
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": 1750
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 25,
+              "col": 11,
+              "value": 107
+            },
+            {
+              "row": 25,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 25,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 25,
+              "col": 15,
+              "value": "00032343-00948"
+            },
+            {
+              "row": 25,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 25,
+              "col": 17,
+              "value": "CY/FO"
+            },
+            {
+              "row": 25,
+              "col": 18,
+              "value": "NET(1) / NET2 via TRIST"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 3,
+              "value": "GR"
+            },
+            {
+              "row": 26,
+              "col": 4,
+              "value": "Thessaloniki"
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": 775
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": 1300
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": 1300
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 26,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 26,
+              "col": 11,
+              "value": 107
+            },
+            {
+              "row": 26,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 26,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 26,
+              "col": 15,
+              "value": "00032343-00949"
+            },
+            {
+              "row": 26,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 26,
+              "col": 17,
+              "value": "CY/FO"
+            },
+            {
+              "row": 26,
+              "col": 18,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 3,
+              "value": "LB"
+            },
+            {
+              "row": 27,
+              "col": 4,
+              "value": "Beirut"
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": 925
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": 1500
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": 1500
+            },
+            {
+              "row": 27,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 27,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 27,
+              "col": 11,
+              "value": 107
+            },
+            {
+              "row": 27,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 27,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 27,
+              "col": 15,
+              "value": "00032343-00950"
+            },
+            {
+              "row": 27,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 27,
+              "col": 17,
+              "value": "CY/FO"
+            },
+            {
+              "row": 27,
+              "col": 18,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 3,
+              "value": "MA"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": "Casablanca"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": 1025
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": 1575
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": 1575
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 28,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 28,
+              "col": 11,
+              "value": 107
+            },
+            {
+              "row": 28,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 28,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 28,
+              "col": 14,
+              "value": "* + ORS EUR 100/TEU"
+            },
+            {
+              "row": 28,
+              "col": 15,
+              "value": "00032343-00951"
+            },
+            {
+              "row": 28,
+              "col": 16,
+              "value": "T/S via GRPIR only"
+            },
+            {
+              "row": 28,
+              "col": 17,
+              "value": "CY/FO"
+            },
+            {
+              "row": 28,
+              "col": 18,
+              "value": "NET(1) / NET2 via ESALG"
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 3,
+              "value": "MT"
+            },
+            {
+              "row": 29,
+              "col": 4,
+              "value": "Malta"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": 900
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": 1450
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": 1450
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 29,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 29,
+              "col": 11,
+              "value": 107
+            },
+            {
+              "row": 29,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 29,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 29,
+              "col": 15,
+              "value": "00032343-00952"
+            },
+            {
+              "row": 29,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 29,
+              "col": 17,
+              "value": "CY/FO"
+            },
+            {
+              "row": 29,
+              "col": 18,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 3,
+              "value": "RO"
+            },
+            {
+              "row": 30,
+              "col": 4,
+              "value": "Constanza"
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": 925
+            },
+            {
+              "row": 30,
+              "col": 6,
+              "value": 1500
+            },
+            {
+              "row": 30,
+              "col": 7,
+              "value": 1500
+            },
+            {
+              "row": 30,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 30,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 30,
+              "col": 11,
+              "value": 107
+            },
+            {
+              "row": 30,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 30,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 30,
+              "col": 15,
+              "value": "00032343-00953"
+            },
+            {
+              "row": 30,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 30,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 30,
+              "col": 18,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 3,
+              "value": "SL"
+            },
+            {
+              "row": 31,
+              "col": 4,
+              "value": "Koper"
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": 900
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": 1375
+            },
+            {
+              "row": 31,
+              "col": 7,
+              "value": 1375
+            },
+            {
+              "row": 31,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 31,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 31,
+              "col": 11,
+              "value": 107
+            },
+            {
+              "row": 31,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 31,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 31,
+              "col": 15,
+              "value": "00032343-00954"
+            },
+            {
+              "row": 31,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 31,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 31,
+              "col": 18,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 3,
+              "value": "TN"
+            },
+            {
+              "row": 32,
+              "col": 4,
+              "value": "Tunis"
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": 1850
+            },
+            {
+              "row": 32,
+              "col": 6,
+              "value": 2575
+            },
+            {
+              "row": 32,
+              "col": 7,
+              "value": 2575
+            },
+            {
+              "row": 32,
+              "col": 9,
+              "value": "DE: EUR 285/unit\nNL: EUR 255/unit\nBE: EUR 248/unit"
+            },
+            {
+              "row": 32,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 32,
+              "col": 11,
+              "value": 107
+            },
+            {
+              "row": 32,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 32,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 32,
+              "col": 15,
+              "value": "00032343-00958"
+            },
+            {
+              "row": 32,
+              "col": 16,
+              "value": "double T/S via GRPIR/ITSAL"
+            },
+            {
+              "row": 32,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 32,
+              "col": 18,
+              "value": "double T/S via GRPIR/ITSAL"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 3,
+              "value": "TR"
+            },
+            {
+              "row": 33,
+              "col": 4,
+              "value": "Derince"
+            },
+            {
+              "row": 33,
+              "col": 5,
+              "value": 775
+            },
+            {
+              "row": 33,
+              "col": 6,
+              "value": 1000
+            },
+            {
+              "row": 33,
+              "col": 7,
+              "value": 1000
+            },
+            {
+              "row": 33,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 33,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 33,
+              "col": 11,
+              "value": 107
+            },
+            {
+              "row": 33,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 33,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 33,
+              "col": 15,
+              "value": "00032343-00955"
+            },
+            {
+              "row": 33,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 33,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 33,
+              "col": 18,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 3,
+              "value": "TR"
+            },
+            {
+              "row": 34,
+              "col": 4,
+              "value": "Izmir Alsancak (IZM01)"
+            },
+            {
+              "row": 34,
+              "col": 5,
+              "value": 875
+            },
+            {
+              "row": 34,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 34,
+              "col": 7,
+              "value": 1200
+            },
+            {
+              "row": 34,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 34,
+              "col": 10,
+              "value": 15
+            },
+            {
+              "row": 34,
+              "col": 11,
+              "value": 107
+            },
+            {
+              "row": 34,
+              "col": 12,
+              "value": 74
+            },
+            {
+              "row": 34,
+              "col": 13,
+              "value": 75
+            },
+            {
+              "row": 34,
+              "col": 15,
+              "value": "00032343-00956"
+            },
+            {
+              "row": 34,
+              "col": 16,
+              "value": "T/S"
+            },
+            {
+              "row": 34,
+              "col": 17,
+              "value": "CY/CY"
+            },
+            {
+              "row": 34,
+              "col": 18,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 2,
+              "value": "TERMS & CONDITONS"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 2,
+              "value": "ALL RATES  AND SURCHARGES ARE VATOS AND SUBJECT TO CHANGES DURING THE VALIDITY PERIOD - VALID FOR CARRIERS OWN EQUIPMENT ONLY"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 2,
+              "value": "ALL ABOVE RATES ARE SUBJECT TO ANY OTHER SURCHARGES WHICH ARE VALID AT TIME OF SHIPMENT "
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 2,
+              "value": "PRESPECIFIED ROUTING MAY CHANGE AT ANY TIME AND WITHOUT PRIOR NOTICE"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 11
+    },
+    {
+      "name": "IET REEFER Southbound",
+      "dimensions": "A1:AD163",
+      "max_row": 163,
+      "max_col": 30,
+      "merged_regions": [
+        "C62:C67",
+        "O18:O19",
+        "D11:F11",
+        "D13:F13",
+        "N66:N67",
+        "C78:C83",
+        "C42:C43",
+        "B18:B19",
+        "N18:N19",
+        "C30:C35",
+        "N50:N51",
+        "G20:G35",
+        "B68:B83",
+        "B88:P88",
+        "C26:C27",
+        "N62:N65",
+        "B36:B51",
+        "B87:P87",
+        "N46:N49",
+        "C56:C57",
+        "C21:C22",
+        "B20:B35",
+        "D12:F12",
+        "C15:F15",
+        "C58:C59",
+        "C40:C41",
+        "B9:P9",
+        "G18:G19",
+        "C46:C51",
+        "D14:F14",
+        "N82:N83",
+        "D18:D19",
+        "G52:G67",
+        "H18:M18",
+        "N78:N81",
+        "N34:N35",
+        "C72:C73",
+        "B85:P85",
+        "G36:G51",
+        "P18:P19",
+        "C53:C54",
+        "B7:P7",
+        "C17:P17",
+        "B52:B67",
+        "C69:C70",
+        "E18:F18",
+        "C74:C75",
+        "C37:C38",
+        "C24:C25",
+        "C18:C19"
+      ],
+      "rows_preview": [
+        {
+          "row": 2,
+          "cells": [
+            {
+              "row": 2,
+              "col": 15,
+              "value": "Company:"
+            }
+          ]
+        },
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 15,
+              "value": "COSCO SHIPPING Lines (Germany) GmbH       "
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 15,
+              "value": "Am Sandtorkai 60"
+            }
+          ]
+        },
+        {
+          "row": 5,
+          "cells": [
+            {
+              "row": 5,
+              "col": 15,
+              "value": "20457 Hamburg, Germany"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "row": 7,
+              "col": 2,
+              "value": "Cosco Shipping Lines (Germany) GmbH acts as agent for and on behalf of Diamond Line GmbH only"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 2,
+              "value": "REEFER FAK - INTRA EUROPE - SOUTHBOUND"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "VALIDITY"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "01.04.2026 - 30.04.2026"
+            },
+            {
+              "row": 11,
+              "col": 4,
+              "value": "ATD (sailing date - this also applies for carrier haulage or inland CY)"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 2,
+              "value": "COMMODITY"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "Foodstuff (harmless)"
+            },
+            {
+              "row": 12,
+              "col": 4,
+              "value": "Rates are valid for GERMAN cargo only "
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "row": 13,
+              "col": 2,
+              "value": "CURRENCY"
+            },
+            {
+              "row": 13,
+              "col": 3,
+              "value": "EUR"
+            },
+            {
+              "row": 13,
+              "col": 4,
+              "value": "Ocean freight: PREPAID only "
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 2,
+              "value": "TERMS & CONDITONS"
+            },
+            {
+              "row": 14,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 2,
+              "value": "Agreement Number"
+            },
+            {
+              "row": 15,
+              "col": 3,
+              "value": "AF: 00032343 + RI (5 digits)  = Agreement-Number: 00032343-xxxxx -> Please see column \"N\"."
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 2,
+              "value": "CARRIER"
+            },
+            {
+              "row": 17,
+              "col": 3,
+              "value": "                                                                                                                                                        Diamond Lines GmbH"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 2,
+              "value": "POL"
+            },
+            {
+              "row": 18,
+              "col": 3,
+              "value": "COUNTRY"
+            },
+            {
+              "row": 18,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": "Ocean freight rate"
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": "Surcharges"
+            },
+            {
+              "row": 18,
+              "col": 14,
+              "value": "Agreement \nNumber"
+            },
+            {
+              "row": 18,
+              "col": 15,
+              "value": "TERM"
+            },
+            {
+              "row": 18,
+              "col": 16,
+              "value": "Service restriction"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 5,
+              "value": "20´Reefer\nin EUR"
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": "40´HC Reefer\nin EUR"
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": "THC at origin"
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": "SSL in EUR \nper UNIT"
+            },
+            {
+              "row": 19,
+              "col": 10,
+              "value": "FAF in EUR \nper TEU"
+            },
+            {
+              "row": 19,
+              "col": 11,
+              "value": "ETS in EUR \nper TEU"
+            },
+            {
+              "row": 19,
+              "col": 12,
+              "value": "EBS in EUR \nper TEU"
+            },
+            {
+              "row": 19,
+              "col": 13,
+              "value": "further \nsurcharges*"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 20,
+              "col": 3,
+              "value": "CY"
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": "Limassol"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": 1550
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": 1800
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": "+"
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 20,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 20,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 20,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 20,
+              "col": 14,
+              "value": "00032343-00929"
+            },
+            {
+              "row": 20,
+              "col": 15,
+              "value": "CY/FO"
+            },
+            {
+              "row": 20,
+              "col": 16,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 3,
+              "value": "EG\n**ACI requirements \nat the time of booking**"
+            },
+            {
+              "row": 21,
+              "col": 4,
+              "value": "El-Dekheila (Alexandria)"
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": 950
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": 1150
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 21,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 21,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 21,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 21,
+              "col": 14,
+              "value": "00032343-00930"
+            },
+            {
+              "row": 21,
+              "col": 15,
+              "value": "CY/FO"
+            },
+            {
+              "row": 21,
+              "col": 16,
+              "value": "NET2 direct service"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 4,
+              "value": "Damietta,Dumyat"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": 1150
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": 1350
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 22,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 22,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 22,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 22,
+              "col": 14,
+              "value": "on request"
+            },
+            {
+              "row": 22,
+              "col": 15,
+              "value": "CY/FO"
+            },
+            {
+              "row": 22,
+              "col": 16,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 3,
+              "value": "GE"
+            },
+            {
+              "row": 23,
+              "col": 4,
+              "value": "Poti"
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": 1650
+            },
+            {
+              "row": 23,
+              "col": 6,
+              "value": 2200
+            },
+            {
+              "row": 23,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 23,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 23,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 23,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 23,
+              "col": 14,
+              "value": "on request"
+            },
+            {
+              "row": 23,
+              "col": 15,
+              "value": "CY/FO"
+            },
+            {
+              "row": 23,
+              "col": 16,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 3,
+              "value": "GR"
+            },
+            {
+              "row": 24,
+              "col": 4,
+              "value": "Piraeus"
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": 1150
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": 1350
+            },
+            {
+              "row": 24,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 24,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 24,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 24,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 24,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 24,
+              "col": 14,
+              "value": "00032343-00928"
+            },
+            {
+              "row": 24,
+              "col": 15,
+              "value": "CY/FO"
+            },
+            {
+              "row": 24,
+              "col": 16,
+              "value": "NET(1) / NET2 direct service"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 4,
+              "value": "Thessaloniki"
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": 1350
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": 1550
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 25,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 25,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 25,
+              "col": 14,
+              "value": "on request"
+            },
+            {
+              "row": 25,
+              "col": 15,
+              "value": "CY/FO"
+            },
+            {
+              "row": 25,
+              "col": 16,
+              "value": "NET(1) / NET2 direct service"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 3,
+              "value": "IL"
+            },
+            {
+              "row": 26,
+              "col": 4,
+              "value": "Haifa"
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": 2250
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 26,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 26,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 26,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 26,
+              "col": 13,
+              "value": "*ECC, WRS"
+            },
+            {
+              "row": 26,
+              "col": 14,
+              "value": "on request"
+            },
+            {
+              "row": 26,
+              "col": 15,
+              "value": "CY/LO"
+            },
+            {
+              "row": 26,
+              "col": 16,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 4,
+              "value": "Ashdod"
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": 2250
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 27,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 27,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 27,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 27,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 27,
+              "col": 13,
+              "value": "*ECC, WRS"
+            },
+            {
+              "row": 27,
+              "col": 14,
+              "value": "on request"
+            },
+            {
+              "row": 27,
+              "col": 15,
+              "value": "CY/LO"
+            },
+            {
+              "row": 27,
+              "col": 16,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 3,
+              "value": "LB"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": "Beirut"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": 1550
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": 2000
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 28,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 28,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 28,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 28,
+              "col": 14,
+              "value": "on request"
+            },
+            {
+              "row": 28,
+              "col": 15,
+              "value": "CY/FO"
+            },
+            {
+              "row": 28,
+              "col": 16,
+              "value": "NET(1) / NET2 via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 3,
+              "value": "MA"
+            },
+            {
+              "row": 29,
+              "col": 4,
+              "value": "Casablanca"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": 2100
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 29,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 29,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 29,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 29,
+              "col": 13,
+              "value": "*ORS"
+            },
+            {
+              "row": 29,
+              "col": 14,
+              "value": "on request"
+            },
+            {
+              "row": 29,
+              "col": 15,
+              "value": "CY/FO"
+            },
+            {
+              "row": 29,
+              "col": 16,
+              "value": "NET(1) / NET2 via ESALG"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 3,
+              "value": "TR"
+            },
+            {
+              "row": 30,
+              "col": 4,
+              "value": "Aliaga"
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": 1150
+            },
+            {
+              "row": 30,
+              "col": 6,
+              "value": 1450
+            },
+            {
+              "row": 30,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 30,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 30,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 30,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 30,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 30,
+              "col": 14,
+              "value": "00032343-00932"
+            },
+            {
+              "row": 30,
+              "col": 15,
+              "value": "CY/CY"
+            },
+            {
+              "row": 30,
+              "col": 16,
+              "value": "NET(1) direct service"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 4,
+              "value": "Yarimca"
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": 1150
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": 1450
+            },
+            {
+              "row": 31,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 31,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 31,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 31,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 31,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 31,
+              "col": 15,
+              "value": "CY/CY"
+            },
+            {
+              "row": 31,
+              "col": 16,
+              "value": "NET(1) direct service"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 4,
+              "value": "Gemlik"
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": 1150
+            },
+            {
+              "row": 32,
+              "col": 6,
+              "value": 1450
+            },
+            {
+              "row": 32,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 32,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 32,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 32,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 32,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 32,
+              "col": 15,
+              "value": "CY/CY"
+            },
+            {
+              "row": 32,
+              "col": 16,
+              "value": "NET(1) direct service"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 4,
+              "value": "Kumport"
+            },
+            {
+              "row": 33,
+              "col": 5,
+              "value": 1150
+            },
+            {
+              "row": 33,
+              "col": 6,
+              "value": 1450
+            },
+            {
+              "row": 33,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 33,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 33,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 33,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 33,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 33,
+              "col": 15,
+              "value": "CY/CY"
+            },
+            {
+              "row": 33,
+              "col": 16,
+              "value": "NET(1) direct service"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 4,
+              "value": "Iskenderun"
+            },
+            {
+              "row": 34,
+              "col": 5,
+              "value": 1300
+            },
+            {
+              "row": 34,
+              "col": 6,
+              "value": 1450
+            },
+            {
+              "row": 34,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 34,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 34,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 34,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 34,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 34,
+              "col": 14,
+              "value": "00032343-00933"
+            },
+            {
+              "row": 34,
+              "col": 15,
+              "value": "CY/CY"
+            },
+            {
+              "row": 34,
+              "col": 16,
+              "value": "NET2 direct service"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 4,
+              "value": "Mersin"
+            },
+            {
+              "row": 35,
+              "col": 5,
+              "value": 1300
+            },
+            {
+              "row": 35,
+              "col": 6,
+              "value": 1450
+            },
+            {
+              "row": 35,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 35,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 35,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 35,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 35,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 35,
+              "col": 13,
+              "value": "*TAC, ESG"
+            },
+            {
+              "row": 35,
+              "col": 15,
+              "value": "CY/CY"
+            },
+            {
+              "row": 35,
+              "col": 16,
+              "value": "NET2 direct service"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 2,
+              "value": "BREMERHAVEN"
+            },
+            {
+              "row": 36,
+              "col": 3,
+              "value": "CY"
+            },
+            {
+              "row": 36,
+              "col": 4,
+              "value": "Limassol"
+            },
+            {
+              "row": 36,
+              "col": 5,
+              "value": 1550
+            },
+            {
+              "row": 36,
+              "col": 6,
+              "value": 1800
+            },
+            {
+              "row": 36,
+              "col": 7,
+              "value": "+"
+            },
+            {
+              "row": 36,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 36,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 36,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 36,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 36,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 36,
+              "col": 14,
+              "value": "00032343-00929"
+            },
+            {
+              "row": 36,
+              "col": 15,
+              "value": "CY/FO"
+            },
+            {
+              "row": 36,
+              "col": 16,
+              "value": "NET(1) via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 3,
+              "value": "EG\n**ACI requirements \nat the time of booking**"
+            },
+            {
+              "row": 37,
+              "col": 4,
+              "value": "El-Dekheila (Alexandria)"
+            },
+            {
+              "row": 37,
+              "col": 5,
+              "value": "no service"
+            },
+            {
+              "row": 37,
+              "col": 6,
+              "value": "no service"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 4,
+              "value": "Damietta,Dumyat"
+            },
+            {
+              "row": 38,
+              "col": 5,
+              "value": 1150
+            },
+            {
+              "row": 38,
+              "col": 6,
+              "value": 1350
+            },
+            {
+              "row": 38,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 38,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 38,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 38,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 38,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 38,
+              "col": 14,
+              "value": "on request"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 3,
+              "value": "GE"
+            },
+            {
+              "row": 39,
+              "col": 4,
+              "value": "Poti"
+            },
+            {
+              "row": 39,
+              "col": 5,
+              "value": 1650
+            },
+            {
+              "row": 39,
+              "col": 6,
+              "value": 2200
+            },
+            {
+              "row": 39,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 39,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 39,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 39,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 39,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 39,
+              "col": 14,
+              "value": "on request"
+            },
+            {
+              "row": 39,
+              "col": 15,
+              "value": "CY/FO"
+            },
+            {
+              "row": 39,
+              "col": 16,
+              "value": "NET(1) via GRPIR"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 3,
+              "value": "GR"
+            },
+            {
+              "row": 40,
+              "col": 4,
+              "value": "Piraeus"
+            },
+            {
+              "row": 40,
+              "col": 5,
+              "value": 1150
+            },
+            {
+              "row": 40,
+              "col": 6,
+              "value": 1350
+            },
+            {
+              "row": 40,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 40,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 40,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 40,
+              "col": 11,
+              "value": 111
+            },
+            {
+              "row": 40,
+              "col": 12,
+              "value": 95
+            },
+            {
+              "row": 40,
+              "col": 14,
+              "value": "00032343-00928"
+            },
+            {
+              "row": 40,
+              "col": 15,
+              "value": "CY/FO"
+            },
+            {
+              "row": 40,
+              "col": 16,
+              "value": "NET(1) / NET2 direct service"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 11
+    },
+    {
+      "name": "TT overview",
+      "dimensions": "A1:AD50",
+      "max_row": 50,
+      "max_col": 30,
+      "merged_regions": [
+        "O27:R27",
+        "F44:J44",
+        "F29:J29",
+        "M13:M19",
+        "F34:J34",
+        "C24:J24",
+        "L7:L12",
+        "F40:J40",
+        "F30:J30",
+        "C2:W2",
+        "F42:J42",
+        "F36:J36",
+        "X8:X10",
+        "F33:J33",
+        "O34:R34",
+        "M7:M12",
+        "F41:J41",
+        "O28:R28",
+        "F45:J45",
+        "F32:J32",
+        "F35:J35",
+        "O33:R33",
+        "J4:N4",
+        "N45:N49",
+        "N24:V24",
+        "O36:R36",
+        "F47:J47",
+        "O30:R30",
+        "F28:J28",
+        "O29:R29",
+        "N38:N43",
+        "F31:J31",
+        "F46:J46",
+        "O32:R32",
+        "F27:J27",
+        "O26:R26",
+        "F43:J43",
+        "L13:L19",
+        "O31:R31",
+        "O35:R35",
+        "F39:J39",
+        "F48:J48",
+        "F49:J49"
+      ],
+      "rows_preview": [
+        {
+          "row": 2,
+          "cells": [
+            {
+              "row": 2,
+              "col": 3,
+              "value": "INTRA EUROPE TRADE (NET + NET2) (update: 23.02.2026)"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 10,
+              "value": "NWC ports"
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 3,
+              "value": "NET Southbound"
+            },
+            {
+              "row": 6,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 6,
+              "col": 5,
+              "value": "Piraeus"
+            },
+            {
+              "row": 6,
+              "col": 6,
+              "value": "Yarimca"
+            },
+            {
+              "row": 6,
+              "col": 7,
+              "value": "Kumport"
+            },
+            {
+              "row": 6,
+              "col": 8,
+              "value": "Gemlik"
+            },
+            {
+              "row": 6,
+              "col": 9,
+              "value": "Aliaga"
+            },
+            {
+              "row": 6,
+              "col": 10,
+              "value": "Felixstowe"
+            },
+            {
+              "row": 6,
+              "col": 14,
+              "value": "NET2 Southbound"
+            },
+            {
+              "row": 6,
+              "col": 15,
+              "value": "POD"
+            },
+            {
+              "row": 6,
+              "col": 16,
+              "value": "Piraeus"
+            },
+            {
+              "row": 6,
+              "col": 17,
+              "value": "Haifa"
+            },
+            {
+              "row": 6,
+              "col": 18,
+              "value": "Mersin"
+            },
+            {
+              "row": 6,
+              "col": 19,
+              "value": "Iskenderun"
+            },
+            {
+              "row": 6,
+              "col": 20,
+              "value": "Alexandria"
+            },
+            {
+              "row": 6,
+              "col": 21,
+              "value": "Piraeus"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "row": 7,
+              "col": 3,
+              "value": "POL"
+            },
+            {
+              "row": 7,
+              "col": 4,
+              "value": "terminal codes"
+            },
+            {
+              "row": 7,
+              "col": 5,
+              "value": "PIR01"
+            },
+            {
+              "row": 7,
+              "col": 6,
+              "value": "JQP40"
+            },
+            {
+              "row": 7,
+              "col": 7,
+              "value": "IST04"
+            },
+            {
+              "row": 7,
+              "col": 8,
+              "value": "GEM03"
+            },
+            {
+              "row": 7,
+              "col": 9,
+              "value": "ALI02"
+            },
+            {
+              "row": 7,
+              "col": 10,
+              "value": "FXT01"
+            },
+            {
+              "row": 7,
+              "col": 14,
+              "value": "POL"
+            },
+            {
+              "row": 7,
+              "col": 15,
+              "value": "terminal codes"
+            },
+            {
+              "row": 7,
+              "col": 16,
+              "value": "PIR01"
+            },
+            {
+              "row": 7,
+              "col": 18,
+              "value": "MER01"
+            },
+            {
+              "row": 7,
+              "col": 19,
+              "value": "LIK01"
+            },
+            {
+              "row": 7,
+              "col": 20,
+              "value": "ALY11"
+            },
+            {
+              "row": 7,
+              "col": 21,
+              "value": "PIR01"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 3,
+              "value": "Felixstowe"
+            },
+            {
+              "row": 8,
+              "col": 4,
+              "value": "FXT01"
+            },
+            {
+              "row": 8,
+              "col": 5,
+              "value": 16
+            },
+            {
+              "row": 8,
+              "col": 6,
+              "value": 18
+            },
+            {
+              "row": 8,
+              "col": 7,
+              "value": 19
+            },
+            {
+              "row": 8,
+              "col": 8,
+              "value": 21
+            },
+            {
+              "row": 8,
+              "col": 9,
+              "value": 23
+            },
+            {
+              "row": 8,
+              "col": 10,
+              "value": 34
+            },
+            {
+              "row": 8,
+              "col": 14,
+              "value": "Felixstowe"
+            },
+            {
+              "row": 8,
+              "col": 15,
+              "value": "FXT01"
+            },
+            {
+              "row": 8,
+              "col": 16,
+              "value": 15
+            },
+            {
+              "row": 8,
+              "col": 18,
+              "value": 20
+            },
+            {
+              "row": 8,
+              "col": 19,
+              "value": 22
+            },
+            {
+              "row": 8,
+              "col": 20,
+              "value": 24
+            },
+            {
+              "row": 8,
+              "col": 21,
+              "value": 27
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 3,
+              "value": "Hamburg"
+            },
+            {
+              "row": 9,
+              "col": 4,
+              "value": "HAM01"
+            },
+            {
+              "row": 9,
+              "col": 5,
+              "value": 13
+            },
+            {
+              "row": 9,
+              "col": 6,
+              "value": 15
+            },
+            {
+              "row": 9,
+              "col": 7,
+              "value": 16
+            },
+            {
+              "row": 9,
+              "col": 8,
+              "value": 18
+            },
+            {
+              "row": 9,
+              "col": 9,
+              "value": 20
+            },
+            {
+              "row": 9,
+              "col": 10,
+              "value": 31
+            },
+            {
+              "row": 9,
+              "col": 14,
+              "value": "Rotterdam"
+            },
+            {
+              "row": 9,
+              "col": 15,
+              "value": "RTM0A"
+            },
+            {
+              "row": 9,
+              "col": 16,
+              "value": 14
+            },
+            {
+              "row": 9,
+              "col": 18,
+              "value": 19
+            },
+            {
+              "row": 9,
+              "col": 19,
+              "value": 21
+            },
+            {
+              "row": 9,
+              "col": 20,
+              "value": 23
+            },
+            {
+              "row": 9,
+              "col": 21,
+              "value": 26
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 3,
+              "value": "Bremerhaven"
+            },
+            {
+              "row": 10,
+              "col": 4,
+              "value": "BRV04"
+            },
+            {
+              "row": 10,
+              "col": 5,
+              "value": 11
+            },
+            {
+              "row": 10,
+              "col": 6,
+              "value": 13
+            },
+            {
+              "row": 10,
+              "col": 7,
+              "value": 14
+            },
+            {
+              "row": 10,
+              "col": 8,
+              "value": 16
+            },
+            {
+              "row": 10,
+              "col": 9,
+              "value": 18
+            },
+            {
+              "row": 10,
+              "col": 10,
+              "value": 29
+            },
+            {
+              "row": 10,
+              "col": 14,
+              "value": "Hamburg"
+            },
+            {
+              "row": 10,
+              "col": 15,
+              "value": "HAM01"
+            },
+            {
+              "row": 10,
+              "col": 16,
+              "value": 12
+            },
+            {
+              "row": 10,
+              "col": 18,
+              "value": 17
+            },
+            {
+              "row": 10,
+              "col": 19,
+              "value": 19
+            },
+            {
+              "row": 10,
+              "col": 20,
+              "value": 21
+            },
+            {
+              "row": 10,
+              "col": 21,
+              "value": 24
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 3,
+              "value": "Antwerp"
+            },
+            {
+              "row": 11,
+              "col": 4,
+              "value": "ANR02"
+            },
+            {
+              "row": 11,
+              "col": 5,
+              "value": 9
+            },
+            {
+              "row": 11,
+              "col": 6,
+              "value": 11
+            },
+            {
+              "row": 11,
+              "col": 7,
+              "value": 12
+            },
+            {
+              "row": 11,
+              "col": 8,
+              "value": 14
+            },
+            {
+              "row": 11,
+              "col": 9,
+              "value": 16
+            },
+            {
+              "row": 11,
+              "col": 10,
+              "value": 27
+            },
+            {
+              "row": 11,
+              "col": 14,
+              "value": "Antwerp"
+            },
+            {
+              "row": 11,
+              "col": 15,
+              "value": "ANR07"
+            },
+            {
+              "row": 11,
+              "col": 16,
+              "value": 10
+            },
+            {
+              "row": 11,
+              "col": 18,
+              "value": 15
+            },
+            {
+              "row": 11,
+              "col": 19,
+              "value": 17
+            },
+            {
+              "row": 11,
+              "col": 20,
+              "value": 19
+            },
+            {
+              "row": 11,
+              "col": 21,
+              "value": 22
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 3,
+              "value": "NET Northbound"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": "Felixstowe"
+            },
+            {
+              "row": 14,
+              "col": 6,
+              "value": "Hamburg"
+            },
+            {
+              "row": 14,
+              "col": 7,
+              "value": "Bremerhaven"
+            },
+            {
+              "row": 14,
+              "col": 8,
+              "value": "Antwerp"
+            },
+            {
+              "row": 14,
+              "col": 9,
+              "value": "Piraeus"
+            },
+            {
+              "row": 14,
+              "col": 14,
+              "value": "NET2 Northbound"
+            },
+            {
+              "row": 14,
+              "col": 15,
+              "value": "POD"
+            },
+            {
+              "row": 14,
+              "col": 16,
+              "value": "Piraeus"
+            },
+            {
+              "row": 14,
+              "col": 17,
+              "value": "Salerno"
+            },
+            {
+              "row": 14,
+              "col": 18,
+              "value": "Felixstowe"
+            },
+            {
+              "row": 14,
+              "col": 19,
+              "value": "Rotterdam"
+            },
+            {
+              "row": 14,
+              "col": 20,
+              "value": "Hamburg"
+            },
+            {
+              "row": 14,
+              "col": 21,
+              "value": "Antwerp"
+            },
+            {
+              "row": 14,
+              "col": 22,
+              "value": "Piraeus"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 3,
+              "value": "POL"
+            },
+            {
+              "row": 15,
+              "col": 4,
+              "value": "terminal codes"
+            },
+            {
+              "row": 15,
+              "col": 5,
+              "value": "FXT01"
+            },
+            {
+              "row": 15,
+              "col": 6,
+              "value": "HAM01"
+            },
+            {
+              "row": 15,
+              "col": 7,
+              "value": "BRV04"
+            },
+            {
+              "row": 15,
+              "col": 8,
+              "value": "ANR02"
+            },
+            {
+              "row": 15,
+              "col": 9,
+              "value": "PIR01"
+            },
+            {
+              "row": 15,
+              "col": 14,
+              "value": "POL"
+            },
+            {
+              "row": 15,
+              "col": 15,
+              "value": "terminal codes"
+            },
+            {
+              "row": 15,
+              "col": 16,
+              "value": "PIR01"
+            },
+            {
+              "row": 15,
+              "col": 17,
+              "value": "SAL01"
+            },
+            {
+              "row": 15,
+              "col": 18,
+              "value": "FXT01"
+            },
+            {
+              "row": 15,
+              "col": 19,
+              "value": "RTM0A"
+            },
+            {
+              "row": 15,
+              "col": 20,
+              "value": "HAM01"
+            },
+            {
+              "row": 15,
+              "col": 21,
+              "value": "ANR07"
+            },
+            {
+              "row": 15,
+              "col": 22,
+              "value": "PIR01"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 3,
+              "value": "Yarimca"
+            },
+            {
+              "row": 16,
+              "col": 4,
+              "value": "JQP40"
+            },
+            {
+              "row": 16,
+              "col": 5,
+              "value": 15
+            },
+            {
+              "row": 16,
+              "col": 6,
+              "value": 18
+            },
+            {
+              "row": 16,
+              "col": 7,
+              "value": 20
+            },
+            {
+              "row": 16,
+              "col": 8,
+              "value": 22
+            },
+            {
+              "row": 16,
+              "col": 9,
+              "value": 32
+            },
+            {
+              "row": 16,
+              "col": 14,
+              "value": "Haifa"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 3,
+              "value": "Kumport"
+            },
+            {
+              "row": 17,
+              "col": 4,
+              "value": "IST04"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": 14
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": 17
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": 19
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": 21
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": 31
+            },
+            {
+              "row": 17,
+              "col": 14,
+              "value": "Mersin"
+            },
+            {
+              "row": 17,
+              "col": 15,
+              "value": "MER01"
+            },
+            {
+              "row": 17,
+              "col": 16,
+              "value": 6
+            },
+            {
+              "row": 17,
+              "col": 17,
+              "value": 9
+            },
+            {
+              "row": 17,
+              "col": 18,
+              "value": 20
+            },
+            {
+              "row": 17,
+              "col": 19,
+              "value": 22
+            },
+            {
+              "row": 17,
+              "col": 20,
+              "value": 23
+            },
+            {
+              "row": 17,
+              "col": 21,
+              "value": 26
+            },
+            {
+              "row": 17,
+              "col": 22,
+              "value": 36
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 3,
+              "value": "Gemlik"
+            },
+            {
+              "row": 18,
+              "col": 4,
+              "value": "GEM03"
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": 13
+            },
+            {
+              "row": 18,
+              "col": 6,
+              "value": 16
+            },
+            {
+              "row": 18,
+              "col": 7,
+              "value": 18
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": 20
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": 30
+            },
+            {
+              "row": 18,
+              "col": 14,
+              "value": "Iskenderun"
+            },
+            {
+              "row": 18,
+              "col": 15,
+              "value": "LIK01"
+            },
+            {
+              "row": 18,
+              "col": 16,
+              "value": 5
+            },
+            {
+              "row": 18,
+              "col": 17,
+              "value": 8
+            },
+            {
+              "row": 18,
+              "col": 18,
+              "value": 19
+            },
+            {
+              "row": 18,
+              "col": 19,
+              "value": 21
+            },
+            {
+              "row": 18,
+              "col": 20,
+              "value": 22
+            },
+            {
+              "row": 18,
+              "col": 21,
+              "value": 25
+            },
+            {
+              "row": 18,
+              "col": 22,
+              "value": 35
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 3,
+              "value": "Aliaga"
+            },
+            {
+              "row": 19,
+              "col": 4,
+              "value": "ALI02"
+            },
+            {
+              "row": 19,
+              "col": 5,
+              "value": 10
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": 13
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": 15
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": 17
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": 27
+            },
+            {
+              "row": 19,
+              "col": 14,
+              "value": "Alexandria"
+            },
+            {
+              "row": 19,
+              "col": 15,
+              "value": "ALY11"
+            },
+            {
+              "row": 19,
+              "col": 16,
+              "value": 2
+            },
+            {
+              "row": 19,
+              "col": 17,
+              "value": 5
+            },
+            {
+              "row": 19,
+              "col": 18,
+              "value": 16
+            },
+            {
+              "row": 19,
+              "col": 19,
+              "value": 18
+            },
+            {
+              "row": 19,
+              "col": 20,
+              "value": 19
+            },
+            {
+              "row": 19,
+              "col": 21,
+              "value": 22
+            },
+            {
+              "row": 19,
+              "col": 22,
+              "value": 32
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 14,
+              "value": "Piraeus"
+            },
+            {
+              "row": 20,
+              "col": 15,
+              "value": "PIR01"
+            },
+            {
+              "row": 20,
+              "col": 16,
+              "value": " --"
+            },
+            {
+              "row": 20,
+              "col": 17,
+              "value": 2
+            },
+            {
+              "row": 20,
+              "col": 18,
+              "value": 13
+            },
+            {
+              "row": 20,
+              "col": 19,
+              "value": 15
+            },
+            {
+              "row": 20,
+              "col": 20,
+              "value": 16
+            },
+            {
+              "row": 20,
+              "col": 21,
+              "value": 19
+            },
+            {
+              "row": 20,
+              "col": 22,
+              "value": 29
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 14,
+              "value": "Salerno"
+            },
+            {
+              "row": 21,
+              "col": 15,
+              "value": "SAL01"
+            },
+            {
+              "row": 21,
+              "col": 17,
+              "value": " --"
+            },
+            {
+              "row": 21,
+              "col": 18,
+              "value": 10
+            },
+            {
+              "row": 21,
+              "col": 19,
+              "value": 12
+            },
+            {
+              "row": 21,
+              "col": 20,
+              "value": 13
+            },
+            {
+              "row": 21,
+              "col": 21,
+              "value": 16
+            },
+            {
+              "row": 21,
+              "col": 22,
+              "value": 26
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 3,
+              "value": "NET / NET2 - terminal codes"
+            },
+            {
+              "row": 24,
+              "col": 14,
+              "value": "TURKEY: Port, Terminal Name, Region, Province"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 3,
+              "value": "Lane"
+            },
+            {
+              "row": 26,
+              "col": 4,
+              "value": "Port"
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": "Port Code"
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": "Terminal"
+            },
+            {
+              "row": 26,
+              "col": 14,
+              "value": "Port"
+            },
+            {
+              "row": 26,
+              "col": 15,
+              "value": "Terminal Name"
+            },
+            {
+              "row": 26,
+              "col": 19,
+              "value": "Region"
+            },
+            {
+              "row": 26,
+              "col": 20,
+              "value": "Province"
+            },
+            {
+              "row": 26,
+              "col": 21,
+              "value": "Service"
+            },
+            {
+              "row": 26,
+              "col": 22,
+              "value": "Tmnl Code"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 3,
+              "value": "NET"
+            },
+            {
+              "row": 27,
+              "col": 4,
+              "value": "Felixstowe"
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": "FXT01"
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": "Trinity Terminal Port of Felixstowe"
+            },
+            {
+              "row": 27,
+              "col": 14,
+              "value": "Aliaga"
+            },
+            {
+              "row": 27,
+              "col": 15,
+              "value": "SOCAR TERMINALS"
+            },
+            {
+              "row": 27,
+              "col": 19,
+              "value": "Aegean"
+            },
+            {
+              "row": 27,
+              "col": 20,
+              "value": "Izmir"
+            },
+            {
+              "row": 27,
+              "col": 21,
+              "value": "NET - direct"
+            },
+            {
+              "row": 27,
+              "col": 22,
+              "value": "ALI03"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 3,
+              "value": "NET"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": "Hamburg"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": "HAM01"
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": "Container Terminal Tollerort GmbH"
+            },
+            {
+              "row": 28,
+              "col": 14,
+              "value": "Aliaga (higher ocean freight)"
+            },
+            {
+              "row": 28,
+              "col": 15,
+              "value": "NEMPORT CONTAINER TERMINAL"
+            },
+            {
+              "row": 28,
+              "col": 19,
+              "value": "Aegean"
+            },
+            {
+              "row": 28,
+              "col": 20,
+              "value": "Izmir"
+            },
+            {
+              "row": 28,
+              "col": 21,
+              "value": "T/S"
+            },
+            {
+              "row": 28,
+              "col": 22,
+              "value": "ALI02"
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 3,
+              "value": "NET"
+            },
+            {
+              "row": 29,
+              "col": 4,
+              "value": "Bremerhaven"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": "BRV04"
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": "NTB North Sea Terminal Bremerhaven"
+            },
+            {
+              "row": 29,
+              "col": 14,
+              "value": "Izmir"
+            },
+            {
+              "row": 29,
+              "col": 15,
+              "value": "Nemport Container Terminal"
+            },
+            {
+              "row": 29,
+              "col": 19,
+              "value": "Aegean"
+            },
+            {
+              "row": 29,
+              "col": 20,
+              "value": "Izmir"
+            },
+            {
+              "row": 29,
+              "col": 21,
+              "value": "T/S"
+            },
+            {
+              "row": 29,
+              "col": 22,
+              "value": "IZM02"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 3,
+              "value": "NET"
+            },
+            {
+              "row": 30,
+              "col": 4,
+              "value": "Antwerp"
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": "ANR02"
+            },
+            {
+              "row": 30,
+              "col": 6,
+              "value": "Hesse-Noord Natie NV Quay 913"
+            },
+            {
+              "row": 30,
+              "col": 14,
+              "value": "Gemlik"
+            },
+            {
+              "row": 30,
+              "col": 15,
+              "value": "Gemport Gemlik Liman ve Depolama"
+            },
+            {
+              "row": 30,
+              "col": 19,
+              "value": "Marmara"
+            },
+            {
+              "row": 30,
+              "col": 20,
+              "value": "Bursa"
+            },
+            {
+              "row": 30,
+              "col": 21,
+              "value": "NET - direct"
+            },
+            {
+              "row": 30,
+              "col": 22,
+              "value": "GEM03"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 3,
+              "value": "NET"
+            },
+            {
+              "row": 31,
+              "col": 4,
+              "value": "Piraeus"
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": "PIR01"
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": "Piraeus Container Terminal"
+            },
+            {
+              "row": 31,
+              "col": 14,
+              "value": "Istanbul"
+            },
+            {
+              "row": 31,
+              "col": 15,
+              "value": "Kumport"
+            },
+            {
+              "row": 31,
+              "col": 19,
+              "value": "Marmara"
+            },
+            {
+              "row": 31,
+              "col": 20,
+              "value": "Istanbul"
+            },
+            {
+              "row": 31,
+              "col": 21,
+              "value": "NET - direct"
+            },
+            {
+              "row": 31,
+              "col": 22,
+              "value": "IST04"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 3,
+              "value": "NET"
+            },
+            {
+              "row": 32,
+              "col": 4,
+              "value": "Yarimca"
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": "JQP40"
+            },
+            {
+              "row": 32,
+              "col": 6,
+              "value": "DP World Yarimca Liman Isletm. AS"
+            },
+            {
+              "row": 32,
+              "col": 14,
+              "value": "Istanbul"
+            },
+            {
+              "row": 32,
+              "col": 15,
+              "value": "Haydarpasa"
+            },
+            {
+              "row": 32,
+              "col": 19,
+              "value": "Marmara"
+            },
+            {
+              "row": 32,
+              "col": 20,
+              "value": "Istanbul"
+            },
+            {
+              "row": 32,
+              "col": 21,
+              "value": "T/S"
+            },
+            {
+              "row": 32,
+              "col": 22,
+              "value": "IST02"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 3,
+              "value": "NET"
+            },
+            {
+              "row": 33,
+              "col": 4,
+              "value": "Kumport"
+            },
+            {
+              "row": 33,
+              "col": 5,
+              "value": "IST04"
+            },
+            {
+              "row": 33,
+              "col": 6,
+              "value": "Kumport Liman Hizmetleri AS"
+            },
+            {
+              "row": 33,
+              "col": 14,
+              "value": "Yarimca"
+            },
+            {
+              "row": 33,
+              "col": 15,
+              "value": "DP World Yarimca Liman Isletm. AS"
+            },
+            {
+              "row": 33,
+              "col": 19,
+              "value": "Marmara"
+            },
+            {
+              "row": 33,
+              "col": 20,
+              "value": "Kocaeli"
+            },
+            {
+              "row": 33,
+              "col": 21,
+              "value": "NET - direct"
+            },
+            {
+              "row": 33,
+              "col": 22,
+              "value": "JQP40"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 3,
+              "value": "NET"
+            },
+            {
+              "row": 34,
+              "col": 4,
+              "value": "Gemlik"
+            },
+            {
+              "row": 34,
+              "col": 5,
+              "value": "GEM03"
+            },
+            {
+              "row": 34,
+              "col": 6,
+              "value": "Gemport Gemlik Liman ve Depolama"
+            },
+            {
+              "row": 34,
+              "col": 14,
+              "value": "Izmit"
+            },
+            {
+              "row": 34,
+              "col": 15,
+              "value": "Evyap Deniz Isletmeciligi Lojistik"
+            },
+            {
+              "row": 34,
+              "col": 19,
+              "value": "Marmara"
+            },
+            {
+              "row": 34,
+              "col": 20,
+              "value": "Kocaeli"
+            },
+            {
+              "row": 34,
+              "col": 21,
+              "value": "T/S"
+            },
+            {
+              "row": 34,
+              "col": 22,
+              "value": "EVP02"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 3,
+              "value": "NET"
+            },
+            {
+              "row": 35,
+              "col": 4,
+              "value": "Aliaga"
+            },
+            {
+              "row": 35,
+              "col": 5,
+              "value": "ALI02"
+            },
+            {
+              "row": 35,
+              "col": 6,
+              "value": "NEMPORT CONTAINER TERMINAL"
+            },
+            {
+              "row": 35,
+              "col": 14,
+              "value": "Iskenderun"
+            },
+            {
+              "row": 35,
+              "col": 15,
+              "value": "Limak Port"
+            },
+            {
+              "row": 35,
+              "col": 19,
+              "value": "Med."
+            },
+            {
+              "row": 35,
+              "col": 20,
+              "value": "Hatay"
+            },
+            {
+              "row": 35,
+              "col": 21,
+              "value": "NET2 - direct"
+            },
+            {
+              "row": 35,
+              "col": 22,
+              "value": "LIK01"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 3,
+              "value": "NET"
+            },
+            {
+              "row": 36,
+              "col": 4,
+              "value": "Aliaga"
+            },
+            {
+              "row": 36,
+              "col": 5,
+              "value": "ALI03"
+            },
+            {
+              "row": 36,
+              "col": 6,
+              "value": "SOCAR TERMINALS"
+            },
+            {
+              "row": 36,
+              "col": 14,
+              "value": "Mersin"
+            },
+            {
+              "row": 36,
+              "col": 15,
+              "value": "Mersin International Port Management"
+            },
+            {
+              "row": 36,
+              "col": 19,
+              "value": "Med."
+            },
+            {
+              "row": 36,
+              "col": 20,
+              "value": "Mersin"
+            },
+            {
+              "row": 36,
+              "col": 21,
+              "value": "NET2 - direct"
+            },
+            {
+              "row": 36,
+              "col": 22,
+              "value": "MER01"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 3,
+              "value": "Lane"
+            },
+            {
+              "row": 38,
+              "col": 4,
+              "value": "Port"
+            },
+            {
+              "row": 38,
+              "col": 5,
+              "value": "Port Code"
+            },
+            {
+              "row": 38,
+              "col": 6,
+              "value": "Terminal"
+            },
+            {
+              "row": 38,
+              "col": 14,
+              "value": "NET"
+            },
+            {
+              "row": 38,
+              "col": 15,
+              "value": "CBH - COSCO ANTWERP"
+            },
+            {
+              "row": 38,
+              "col": 17,
+              "value": "5446 TEU"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 3,
+              "value": "NET2"
+            },
+            {
+              "row": 39,
+              "col": 4,
+              "value": "Felixstowe"
+            },
+            {
+              "row": 39,
+              "col": 5,
+              "value": "FXT01"
+            },
+            {
+              "row": 39,
+              "col": 6,
+              "value": "Trinity Terminal Port of Felixstowe"
+            },
+            {
+              "row": 39,
+              "col": 15,
+              "value": "QGK - VALENCE"
+            },
+            {
+              "row": 39,
+              "col": 17,
+              "value": "8827 TEU"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 3,
+              "value": "NET2"
+            },
+            {
+              "row": 40,
+              "col": 4,
+              "value": "Rotterdam"
+            },
+            {
+              "row": 40,
+              "col": 5,
+              "value": "RTM0A"
+            },
+            {
+              "row": 40,
+              "col": 6,
+              "value": "Matrans Rotterdam Terminal B.V."
+            },
+            {
+              "row": 40,
+              "col": 15,
+              "value": "UGB - W KAMPALA"
+            },
+            {
+              "row": 40,
+              "col": 17,
+              "value": "6802 TEU"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 6
+    }
+  ]
+}

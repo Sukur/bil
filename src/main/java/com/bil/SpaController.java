@@ -1,23 +1,31 @@
 package com.bil;
 
-import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.core.io.ClassPathResource;
+import org.springframework.core.io.Resource;
+import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
+import org.springframework.web.servlet.resource.PathResourceResolver;
 
-/**
- * Forwards all non-API, non-static routes to the React SPA's index.html
- * so that client-side routing (React Router / single-page navigation) works
- * when the app is served directly from Spring Boot on port 8080.
- */
-@Controller
-public class SpaController {
+import java.io.IOException;
 
-    @RequestMapping(value = {
-            "/",
-            "/{path:[^\\.]*}",
-            "/{path:(?!api|swagger|v3|h2|actuator).*}/**/{subPath:[^\\.]*}"
-    })
-    public String forward() {
-        return "forward:/index.html";
+@Configuration
+public class SpaController implements WebMvcConfigurer {
+
+    @Override
+    public void addResourceHandlers(ResourceHandlerRegistry registry) {
+        registry.addResourceHandler("/**")
+                .addResourceLocations("classpath://static/")
+                .resourceChain(true)
+                .addResolver(new PathResourceResolver() {
+                    @Override
+                    protected Resource getResource(String resourcePath, Resource location)
+                            throws IOException {
+                        Resource requested = location.createRelative(resourcePath);
+                        return (requested.exists() && requested.isReadable())
+                                ? requested
+                                : new ClassPathResource("/static/index.html");
+                    }
+                });
     }
 }
-

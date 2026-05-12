@@ -1,0 +1,372 @@
+[
+  {
+    "file": "AET EB - ONE Germany Ratesheet 01.04. - 30.04.2026.xlsx",
+    "sheets": [
+      {
+        "name": "COVER",
+        "dim": "A1:AD1012",
+        "header_row": 29
+      },
+      {
+        "name": "AET EB - DRY (AEE, WEE, OEE)",
+        "dim": "A1:AD197",
+        "header_row": 1
+      },
+      {
+        "name": "TAD's - DRY",
+        "dim": "A1:AD250",
+        "header_row": 1
+      },
+      {
+        "name": "ONE Tariff AET EB + SURCHARGES",
+        "dim": "A1:AD1001",
+        "header_row": 9
+      },
+      {
+        "name": "Freetimes",
+        "dim": "A1:AD64",
+        "header_row": 3
+      },
+      {
+        "name": "PUDO 1H 2026",
+        "dim": "A1:AD1000",
+        "header_row": 3
+      }
+    ]
+  },
+  {
+    "file": "CJ ICM Logistics GmbH - HMM GER Special Ratesheet APR 2026.xlsx",
+    "sheets": [
+      {
+        "name": "OOG",
+        "dim": "A1:AD82",
+        "header_row": 2
+      }
+    ]
+  },
+  {
+    "file": "CJ ICM Logistics GmbH - HMM Ratesheet Germany April 2026.xlsx",
+    "sheets": [
+      {
+        "name": "1. Intro",
+        "dim": "A1:BI81",
+        "header_row": 24
+      },
+      {
+        "name": "1.1. RDA Application",
+        "dim": "A1:AQ74",
+        "header_row": null
+      },
+      {
+        "name": "1.2 GMD",
+        "dim": "A1:AQ74",
+        "header_row": null
+      },
+      {
+        "name": "1.3 EFL",
+        "dim": "A1:AQ74",
+        "header_row": null
+      },
+      {
+        "name": "2. EES Surcharge",
+        "dim": "A1:AD40",
+        "header_row": null
+      },
+      {
+        "name": "3. Main Ports I FIM I TW",
+        "dim": "A1:BI116",
+        "header_row": 30
+      },
+      {
+        "name": "4. Japan Outports",
+        "dim": "A1:BI90",
+        "header_row": 30
+      },
+      {
+        "name": "5. China I SE Asia",
+        "dim": "A1:BI114",
+        "header_row": 30
+      },
+      {
+        "name": "6. Empty Pick Up",
+        "dim": "A1:BI80",
+        "header_row": 24
+      },
+      {
+        "name": "7. Free Times Germany",
+        "dim": "A1:AD56",
+        "header_row": 14
+      },
+      {
+        "name": "8. Free Times Netherlands",
+        "dim": "A1:AD57",
+        "header_row": 15
+      },
+      {
+        "name": "9. Free Times Belgium",
+        "dim": "A1:AD53",
+        "header_row": 14
+      },
+      {
+        "name": "10. T&D Surcharges",
+        "dim": "A1:AD47",
+        "header_row": 6
+      },
+      {
+        "name": "11. Operation Charges",
+        "dim": "A1:AD59",
+        "header_row": 6
+      }
+    ]
+  },
+  {
+    "file": "COSCO SHIPPING LINES - IET SB RATE SHEETS - 01.04.2026 - 30.04.2026.xlsx",
+    "sheets": [
+      {
+        "name": "IET VIP Southbound Main ports",
+        "dim": "A1:AQ349",
+        "header_row": 11
+      },
+      {
+        "name": "IET VIP Southbound out ports",
+        "dim": "A1:AZ311",
+        "header_row": 11
+      },
+      {
+        "name": "IET REEFER Southbound",
+        "dim": "A1:AD163",
+        "header_row": 11
+      },
+      {
+        "name": "TT overview",
+        "dim": "A1:AD50",
+        "header_row": 6
+      }
+    ]
+  },
+  {
+    "file": "COSCO SHIPPING LINES GERMANY - FAK RATESHEET OOG - 01.04. - 30.04.2026 - V2.xlsx",
+    "sheets": [
+      {
+        "name": " FE - OOG ",
+        "dim": "A1:CL434",
+        "header_row": 8
+      },
+      {
+        "name": " ME-IPBC - OOG",
+        "dim": "A1:CB455",
+        "header_row": 8
+      },
+      {
+        "name": "SA East Coast-OOG",
+        "dim": "A1:CJ392",
+        "header_row": 8
+      },
+      {
+        "name": "SA Westcoast - OOG",
+        "dim": "A1:CK392",
+        "header_row": 8
+      },
+      {
+        "name": "OCEANIA - OOG",
+        "dim": "A1:CL372",
+        "header_row": 8
+      }
+    ]
+  },
+  {
+    "file": "COSCO SHIPPING LINES GERMANY - FAK RATESHEET REEFER - 01.04. - 30.04.2026 - V1.xlsx",
+    "sheets": [
+      {
+        "name": "Reefer FE",
+        "dim": "A1:BB611",
+        "header_row": 8
+      },
+      {
+        "name": "Reefer ME & IPBC",
+        "dim": "A1:CJ83",
+        "header_row": 8
+      },
+      {
+        "name": "FE & ME+IPBC Outports",
+        "dim": "A1:AO481",
+        "header_row": 8
+      },
+      {
+        "name": "Reefer SA East Coast",
+        "dim": "A1:AD234",
+        "header_row": 8
+      },
+      {
+        "name": "Reefer SA Westcoast",
+        "dim": "A1:AS390",
+        "header_row": 8
+      }
+    ]
+  },
+  {
+    "file": "IET - ONE Germany Ratesheet  01.04. - 30.04.2026.xlsx",
+    "sheets": [
+      {
+        "name": "COVER",
+        "dim": "A1:AD1011",
+        "header_row": 27
+      },
+      {
+        "name": "IEA - DRY",
+        "dim": "A1:AD106",
+        "header_row": 1
+      },
+      {
+        "name": "Freetimes",
+        "dim": "A1:AD64",
+        "header_row": 3
+      },
+      {
+        "name": "ONE Tariff IET SB",
+        "dim": "A1:AD1003",
+        "header_row": 10
+      },
+      {
+        "name": "PUDO 1H 2026",
+        "dim": "A1:AD1000",
+        "header_row": 3
+      }
+    ]
+  },
+  {
+    "file": "NCPE - 2026.04.01-2026.05.31 - DRY FAK DE.NL.BE Tariff (V.2026.03.04).xlsx",
+    "sheets": [
+      {
+        "name": "FAK",
+        "dim": "A1:AD478",
+        "header_row": 6
+      }
+    ]
+  },
+  {
+    "file": "REVISED OOCL Export FAK Fareast_Mideast_India_Australia_Intra Europe_ Africa 01.12.2025 - 31.01.2026.xlsx",
+    "sheets": [
+      {
+        "name": "Introduction",
+        "dim": "A1:AD80",
+        "header_row": 27
+      },
+      {
+        "name": "Lookup",
+        "dim": "A1:AD70",
+        "header_row": 1
+      },
+      {
+        "name": "Rechenblatt neu",
+        "dim": "A1:AD227",
+        "header_row": 2
+      },
+      {
+        "name": "Far East+Japan",
+        "dim": "A1:AD294",
+        "header_row": 10
+      },
+      {
+        "name": "LookupK",
+        "dim": "A1:AD89",
+        "header_row": 1
+      },
+      {
+        "name": "Rechenblatt Koper neu",
+        "dim": "A1:AD121",
+        "header_row": 2
+      },
+      {
+        "name": "Koper+Trieste",
+        "dim": "A1:AD160",
+        "header_row": 10
+      },
+      {
+        "name": "Intra Europe",
+        "dim": "A1:AD44",
+        "header_row": 10
+      },
+      {
+        "name": "Middle East",
+        "dim": "A1:AD44",
+        "header_row": 11
+      },
+      {
+        "name": "Africa",
+        "dim": "A1:AD43",
+        "header_row": 11
+      },
+      {
+        "name": "India+Pakistan",
+        "dim": "A1:AD68",
+        "header_row": 10
+      },
+      {
+        "name": "Australia & New Zealand",
+        "dim": "A1:AD70",
+        "header_row": 10
+      },
+      {
+        "name": "Special Equipment",
+        "dim": "A1:XFC422",
+        "header_row": 4
+      },
+      {
+        "name": "Reefer",
+        "dim": "A1:AD121",
+        "header_row": 17
+      },
+      {
+        "name": "pick up+Inland Tariff ",
+        "dim": "A1:AD40",
+        "header_row": null
+      },
+      {
+        "name": "Surcharges-Terms",
+        "dim": "A1:AD121",
+        "header_row": 38
+      },
+      {
+        "name": "Restricted Prohibited Commodity",
+        "dim": "A1:AD40",
+        "header_row": null
+      },
+      {
+        "name": "OOG booking check list",
+        "dim": "A1:AD40",
+        "header_row": null
+      }
+    ]
+  },
+  {
+    "file": "ZFS - ONE Germany Ratesheet valid from 01.04.2026 - 30.04.2026.xlsx",
+    "sheets": [
+      {
+        "name": "COVER",
+        "dim": "A1:AD1010",
+        "header_row": 27
+      },
+      {
+        "name": "ZFS - DRY",
+        "dim": "A1:AD40",
+        "header_row": 1
+      },
+      {
+        "name": "Freetimes",
+        "dim": "A1:AD64",
+        "header_row": 3
+      },
+      {
+        "name": "ONE Tariff ZFS + SURCHARGES",
+        "dim": "A1:AD719",
+        "header_row": 10
+      },
+      {
+        "name": "PUDO 1H 2026",
+        "dim": "A1:AD1000",
+        "header_row": 3
+      }
+    ]
+  }
+]

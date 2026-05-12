@@ -1,0 +1,4280 @@
+{
+  "file": "ZFS - ONE Germany Ratesheet valid from 01.04.2026 - 30.04.2026.xlsx",
+  "sheets": [
+    {
+      "name": "COVER",
+      "dimensions": "A1:AD1010",
+      "max_row": 1010,
+      "max_col": 30,
+      "merged_regions": [
+        "A77:H77",
+        "B14:G14",
+        "B17:G17",
+        "E31:G31",
+        "D70:F70",
+        "B28:C29",
+        "E40:G40",
+        "B13:G13",
+        "E30:G30",
+        "B31:C31",
+        "B27:C27",
+        "B53:G53",
+        "D78:F78",
+        "B19:G19",
+        "E27:G27",
+        "B49:G49",
+        "C22:D22",
+        "B43:G44",
+        "D68:F68",
+        "A75:H75",
+        "D28:D29",
+        "B15:G15",
+        "B55:G55",
+        "E37:G37",
+        "B37:C37",
+        "E38:G39",
+        "B50:G50",
+        "A76:H76",
+        "B61:G66",
+        "E28:G29",
+        "B40:C40",
+        "D69:F69",
+        "B47:G47",
+        "B16:G16",
+        "B30:C30",
+        "B34:G35",
+        "B46:G46",
+        "B59:G59",
+        "B24:G25",
+        "D38:D39",
+        "D80:F80",
+        "E22:F22",
+        "B18:G18",
+        "B38:C39",
+        "B58:G58",
+        "B52:G52",
+        "B21:G21",
+        "B56:G56"
+      ],
+      "rows_preview": [
+        {
+          "row": 13,
+          "cells": [
+            {
+              "row": 13,
+              "col": 2,
+              "value": "Europe - South Africa Southbound"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 2,
+              "value": "FAK RATES"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 2,
+              "value": "CONTRACT No. as per individual agreement"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 2,
+              "value": "validities as per coloum A&B"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 2,
+              "value": "ONE Trade Definitions ZFT SB"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 3,
+              "value": "ZFS"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": "Europe - South Africa SB"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 2,
+              "value": "Export Customer Service"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 2,
+              "value": "Name "
+            },
+            {
+              "row": 27,
+              "col": 4,
+              "value": "e-Mail"
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": "Function "
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 2,
+              "value": "Export Customer Service (Live Chat)"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": "ONE LiveChat"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": "You can use the ONE Live Chat function on our website to receive real-time information on export booking / documentation."
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 2,
+              "value": "Export Customer Service"
+            },
+            {
+              "row": 30,
+              "col": 4,
+              "value": "de.service.exp.bkg@one-line.com"
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": "Service"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 2,
+              "value": "New Bookings"
+            },
+            {
+              "row": 31,
+              "col": 4,
+              "value": "de.newbooking@one-line.com"
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": "Bookings"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 2,
+              "value": " Export Documentation"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 2,
+              "value": "Name "
+            },
+            {
+              "row": 37,
+              "col": 4,
+              "value": "e-Mail"
+            },
+            {
+              "row": 37,
+              "col": 5,
+              "value": "Function "
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 2,
+              "value": "Documentation Team (Live Chat)"
+            },
+            {
+              "row": 38,
+              "col": 4,
+              "value": "ONE LiveChat"
+            },
+            {
+              "row": 38,
+              "col": 5,
+              "value": "You can use the ONE Live Chat function on our website to receive real-time information on export booking / documentation."
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 2,
+              "value": "Documentation Team"
+            },
+            {
+              "row": 40,
+              "col": 4,
+              "value": "de.service.exp.doc@one-line.com"
+            },
+            {
+              "row": 40,
+              "col": 5,
+              "value": "Service"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 27
+    },
+    {
+      "name": "ZFS - DRY",
+      "dimensions": "A1:AD40",
+      "max_row": 40,
+      "max_col": 30,
+      "merged_regions": [],
+      "rows_preview": [
+        {
+          "row": 1,
+          "cells": [
+            {
+              "row": 1,
+              "col": 2,
+              "value": "Effective Date"
+            },
+            {
+              "row": 1,
+              "col": 3,
+              "value": "Expiry Date"
+            },
+            {
+              "row": 1,
+              "col": 4,
+              "value": "Service Scope"
+            },
+            {
+              "row": 1,
+              "col": 5,
+              "value": "Commodity Group Name"
+            },
+            {
+              "row": 1,
+              "col": 6,
+              "value": "POR"
+            },
+            {
+              "row": 1,
+              "col": 7,
+              "value": "POR Description"
+            },
+            {
+              "row": 1,
+              "col": 8,
+              "value": "Origin Term"
+            },
+            {
+              "row": 1,
+              "col": 9,
+              "value": "DEL"
+            },
+            {
+              "row": 1,
+              "col": 10,
+              "value": "DEL Description"
+            },
+            {
+              "row": 1,
+              "col": 11,
+              "value": "Destination Term"
+            },
+            {
+              "row": 1,
+              "col": 12,
+              "value": "Cargo/Container Type"
+            },
+            {
+              "row": 1,
+              "col": 13,
+              "value": "Cur."
+            },
+            {
+              "row": 1,
+              "col": 14,
+              "value": "OFT 20"
+            },
+            {
+              "row": 1,
+              "col": 15,
+              "value": "OFT 40"
+            },
+            {
+              "row": 1,
+              "col": 16,
+              "value": "OFT HC"
+            },
+            {
+              "row": 1,
+              "col": 17,
+              "value": "Include Surcharge"
+            },
+            {
+              "row": 1,
+              "col": 18,
+              "value": "Routing \n(subject to change)"
+            }
+          ]
+        },
+        {
+          "row": 2,
+          "cells": [
+            {
+              "row": 2,
+              "col": 1,
+              "value": false
+            },
+            {
+              "row": 2,
+              "col": 2,
+              "value": "2026-04-01 00:00:00"
+            },
+            {
+              "row": 2,
+              "col": 3,
+              "value": "2026-04-30 00:00:00"
+            },
+            {
+              "row": 2,
+              "col": 4,
+              "value": "ZFS"
+            },
+            {
+              "row": 2,
+              "col": 5,
+              "value": "FAK"
+            },
+            {
+              "row": 2,
+              "col": 6,
+              "value": "DEBRV"
+            },
+            {
+              "row": 2,
+              "col": 7,
+              "value": "BREMERHAVEN, HB"
+            },
+            {
+              "row": 2,
+              "col": 8,
+              "value": "CY"
+            },
+            {
+              "row": 2,
+              "col": 9,
+              "value": "ZACPT"
+            },
+            {
+              "row": 2,
+              "col": 10,
+              "value": "CAPE TOWN"
+            },
+            {
+              "row": 2,
+              "col": 11,
+              "value": "CY"
+            },
+            {
+              "row": 2,
+              "col": 12,
+              "value": "Dry General"
+            },
+            {
+              "row": 2,
+              "col": 13,
+              "value": "USD"
+            },
+            {
+              "row": 2,
+              "col": 14,
+              "value": 350
+            },
+            {
+              "row": 2,
+              "col": 15,
+              "value": 475
+            },
+            {
+              "row": 2,
+              "col": 16,
+              "value": 475
+            },
+            {
+              "row": 2,
+              "col": 17,
+              "value": "CGD,CSS,THL,TSL"
+            },
+            {
+              "row": 2,
+              "col": 18,
+              "value": "direct"
+            }
+          ]
+        },
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 1,
+              "value": false
+            },
+            {
+              "row": 3,
+              "col": 2,
+              "value": "2026-04-01 00:00:00"
+            },
+            {
+              "row": 3,
+              "col": 3,
+              "value": "2026-04-30 00:00:00"
+            },
+            {
+              "row": 3,
+              "col": 4,
+              "value": "ZFS"
+            },
+            {
+              "row": 3,
+              "col": 5,
+              "value": "FAK"
+            },
+            {
+              "row": 3,
+              "col": 6,
+              "value": "DEBRV"
+            },
+            {
+              "row": 3,
+              "col": 7,
+              "value": "BREMERHAVEN, HB"
+            },
+            {
+              "row": 3,
+              "col": 8,
+              "value": "CY"
+            },
+            {
+              "row": 3,
+              "col": 9,
+              "value": "ZADUR"
+            },
+            {
+              "row": 3,
+              "col": 10,
+              "value": "DURBAN"
+            },
+            {
+              "row": 3,
+              "col": 11,
+              "value": "CY"
+            },
+            {
+              "row": 3,
+              "col": 12,
+              "value": "Dry General"
+            },
+            {
+              "row": 3,
+              "col": 13,
+              "value": "USD"
+            },
+            {
+              "row": 3,
+              "col": 14,
+              "value": 350
+            },
+            {
+              "row": 3,
+              "col": 15,
+              "value": 475
+            },
+            {
+              "row": 3,
+              "col": 16,
+              "value": 475
+            },
+            {
+              "row": 3,
+              "col": 17,
+              "value": "CGD,CSS,THL,TSL"
+            },
+            {
+              "row": 3,
+              "col": 18,
+              "value": "direct"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 1,
+              "value": false
+            },
+            {
+              "row": 4,
+              "col": 2,
+              "value": "2026-04-01 00:00:00"
+            },
+            {
+              "row": 4,
+              "col": 3,
+              "value": "2026-04-30 00:00:00"
+            },
+            {
+              "row": 4,
+              "col": 4,
+              "value": "ZFS"
+            },
+            {
+              "row": 4,
+              "col": 5,
+              "value": "FAK"
+            },
+            {
+              "row": 4,
+              "col": 6,
+              "value": "DEBRV"
+            },
+            {
+              "row": 4,
+              "col": 7,
+              "value": "BREMERHAVEN, HB"
+            },
+            {
+              "row": 4,
+              "col": 8,
+              "value": "CY"
+            },
+            {
+              "row": 4,
+              "col": 9,
+              "value": "ZAZBA"
+            },
+            {
+              "row": 4,
+              "col": 10,
+              "value": "COEGA"
+            },
+            {
+              "row": 4,
+              "col": 11,
+              "value": "CY"
+            },
+            {
+              "row": 4,
+              "col": 12,
+              "value": "Dry General"
+            },
+            {
+              "row": 4,
+              "col": 13,
+              "value": "USD"
+            },
+            {
+              "row": 4,
+              "col": 14,
+              "value": 350
+            },
+            {
+              "row": 4,
+              "col": 15,
+              "value": 475
+            },
+            {
+              "row": 4,
+              "col": 16,
+              "value": 475
+            },
+            {
+              "row": 4,
+              "col": 17,
+              "value": "CGD,CSS,THL,TSL"
+            },
+            {
+              "row": 4,
+              "col": 18,
+              "value": "direct"
+            }
+          ]
+        },
+        {
+          "row": 5,
+          "cells": [
+            {
+              "row": 5,
+              "col": 1,
+              "value": false
+            },
+            {
+              "row": 5,
+              "col": 2,
+              "value": "2026-04-01 00:00:00"
+            },
+            {
+              "row": 5,
+              "col": 3,
+              "value": "2026-04-30 00:00:00"
+            },
+            {
+              "row": 5,
+              "col": 4,
+              "value": "ZFS"
+            },
+            {
+              "row": 5,
+              "col": 5,
+              "value": "FAK"
+            },
+            {
+              "row": 5,
+              "col": 6,
+              "value": "NLRTM"
+            },
+            {
+              "row": 5,
+              "col": 7,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 5,
+              "col": 8,
+              "value": "CY"
+            },
+            {
+              "row": 5,
+              "col": 9,
+              "value": "ZACPT"
+            },
+            {
+              "row": 5,
+              "col": 10,
+              "value": "CAPE TOWN"
+            },
+            {
+              "row": 5,
+              "col": 11,
+              "value": "CY"
+            },
+            {
+              "row": 5,
+              "col": 12,
+              "value": "Dry General"
+            },
+            {
+              "row": 5,
+              "col": 13,
+              "value": "USD"
+            },
+            {
+              "row": 5,
+              "col": 14,
+              "value": 350
+            },
+            {
+              "row": 5,
+              "col": 15,
+              "value": 475
+            },
+            {
+              "row": 5,
+              "col": 16,
+              "value": 475
+            },
+            {
+              "row": 5,
+              "col": 17,
+              "value": "CGD,CSS,THL,TSL"
+            },
+            {
+              "row": 5,
+              "col": 18,
+              "value": "direct"
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 1,
+              "value": false
+            },
+            {
+              "row": 6,
+              "col": 2,
+              "value": "2026-04-01 00:00:00"
+            },
+            {
+              "row": 6,
+              "col": 3,
+              "value": "2026-04-30 00:00:00"
+            },
+            {
+              "row": 6,
+              "col": 4,
+              "value": "ZFS"
+            },
+            {
+              "row": 6,
+              "col": 5,
+              "value": "FAK"
+            },
+            {
+              "row": 6,
+              "col": 6,
+              "value": "NLRTM"
+            },
+            {
+              "row": 6,
+              "col": 7,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 6,
+              "col": 8,
+              "value": "CY"
+            },
+            {
+              "row": 6,
+              "col": 9,
+              "value": "ZADUR"
+            },
+            {
+              "row": 6,
+              "col": 10,
+              "value": "DURBAN"
+            },
+            {
+              "row": 6,
+              "col": 11,
+              "value": "CY"
+            },
+            {
+              "row": 6,
+              "col": 12,
+              "value": "Dry General"
+            },
+            {
+              "row": 6,
+              "col": 13,
+              "value": "USD"
+            },
+            {
+              "row": 6,
+              "col": 14,
+              "value": 350
+            },
+            {
+              "row": 6,
+              "col": 15,
+              "value": 475
+            },
+            {
+              "row": 6,
+              "col": 16,
+              "value": 475
+            },
+            {
+              "row": 6,
+              "col": 17,
+              "value": "CGD,CSS,THL,TSL"
+            },
+            {
+              "row": 6,
+              "col": 18,
+              "value": "direct"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "row": 7,
+              "col": 1,
+              "value": false
+            },
+            {
+              "row": 7,
+              "col": 2,
+              "value": "2026-04-01 00:00:00"
+            },
+            {
+              "row": 7,
+              "col": 3,
+              "value": "2026-04-30 00:00:00"
+            },
+            {
+              "row": 7,
+              "col": 4,
+              "value": "ZFS"
+            },
+            {
+              "row": 7,
+              "col": 5,
+              "value": "FAK"
+            },
+            {
+              "row": 7,
+              "col": 6,
+              "value": "NLRTM"
+            },
+            {
+              "row": 7,
+              "col": 7,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 7,
+              "col": 8,
+              "value": "CY"
+            },
+            {
+              "row": 7,
+              "col": 9,
+              "value": "ZAZBA"
+            },
+            {
+              "row": 7,
+              "col": 10,
+              "value": "COEGA"
+            },
+            {
+              "row": 7,
+              "col": 11,
+              "value": "CY"
+            },
+            {
+              "row": 7,
+              "col": 12,
+              "value": "Dry General"
+            },
+            {
+              "row": 7,
+              "col": 13,
+              "value": "USD"
+            },
+            {
+              "row": 7,
+              "col": 14,
+              "value": 350
+            },
+            {
+              "row": 7,
+              "col": 15,
+              "value": 475
+            },
+            {
+              "row": 7,
+              "col": 16,
+              "value": 475
+            },
+            {
+              "row": 7,
+              "col": 17,
+              "value": "CGD,CSS,THL,TSL"
+            },
+            {
+              "row": 7,
+              "col": 18,
+              "value": "direct"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 1
+    },
+    {
+      "name": "Freetimes",
+      "dimensions": "A1:AD64",
+      "max_row": 64,
+      "max_col": 30,
+      "merged_regions": [
+        "A30:H30",
+        "A17:A19",
+        "A24:H24",
+        "A20:A22",
+        "C31:H31",
+        "A36:B36",
+        "A1:H1",
+        "A14:A16",
+        "B2:C2",
+        "A4:A6",
+        "C36:H36",
+        "A25:H25",
+        "A10:A12",
+        "A37:B37",
+        "A27:H27",
+        "C32:H32",
+        "A26:H26",
+        "A33:B33",
+        "C37:H37",
+        "A32:B32",
+        "C34:H34",
+        "A35:B35",
+        "C33:H33",
+        "A7:A9",
+        "A28:H28",
+        "C35:H35",
+        "A31:B31",
+        "E2:H2",
+        "A34:B34"
+      ],
+      "rows_preview": [
+        {
+          "row": 1,
+          "cells": [
+            {
+              "row": 1,
+              "col": 1,
+              "value": "                   DEM & DET FREE TIMES (AND EXCEPTIONS)"
+            }
+          ]
+        },
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 2,
+              "value": "Coverage (CN/LOC)"
+            },
+            {
+              "row": 3,
+              "col": 3,
+              "value": "Origin/Destination (CT/CN/LOC) "
+            },
+            {
+              "row": 3,
+              "col": 4,
+              "value": "Service Scope"
+            },
+            {
+              "row": 3,
+              "col": 5,
+              "value": "Number of Days "
+            },
+            {
+              "row": 3,
+              "col": 6,
+              "value": "Calendar or Working "
+            },
+            {
+              "row": 3,
+              "col": 7,
+              "value": "Additional or Total "
+            },
+            {
+              "row": 3,
+              "col": 8,
+              "value": "Cargo Nature "
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 1,
+              "value": "ORIGIN - Equipment Freetime (DETENTION) Exception (DTOC)"
+            }
+          ]
+        },
+        {
+          "row": 5,
+          "cells": [
+            {
+              "row": 5,
+              "col": 2,
+              "value": "as per ONE tariff"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "row": 7,
+              "col": 1,
+              "value": "ORIGIN - Cargo Freetime (DEMURRAGE) Exception (DMOF)"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 2,
+              "value": "as per ONE tariff"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 1,
+              "value": "ORIGIN - Combined Freetime (Detention) Exception (CTOC) - excluding Storage"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "as per ONE tariff"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 1,
+              "value": "DESTINATION - Cargo Freetime (DEMURRAGE) Exception (DMIF)"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 2,
+              "value": "as per ONE tariff"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 1,
+              "value": "DESTINATION - Equipment Freetime (DETENTION) Exception (DTIC)"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 2,
+              "value": "as per ONE tariff"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 1,
+              "value": "DESTINATION - Combined Freetime (Detention) Exception (CTIC) - excluding Storage"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 2,
+              "value": "as per ONE tariff"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 1,
+              "value": "D&D REMARKS:"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 1,
+              "value": "ONE Basic Tariff DEM & DET"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 1,
+              "value": "* Unless otherwise specified, duration of Freetime exception will be effective date of amendment until expiration of contract (including extensions)"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 1,
+              "value": "* For Dual Type Exceptions you must provide charge amount, for all size types, to be charged after expiration of Freetime"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 1,
+              "value": "* Free time calculation is based on movement date"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 1,
+              "value": "Free Time Calculation:"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 1,
+              "value": "Calculation Type"
+            },
+            {
+              "row": 31,
+              "col": 3,
+              "value": "From / To"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 1,
+              "value": "DTOC (Detention Outbound)"
+            },
+            {
+              "row": 32,
+              "col": 3,
+              "value": "Empty Release (OP) to Laden Gate-In (OC)"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 1,
+              "value": "DMOF (Demurrage Outbound)"
+            },
+            {
+              "row": 33,
+              "col": 3,
+              "value": "1st Laden Gate-In (OC) to Vessel Loading (VL)"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 1,
+              "value": "CTOC (Detention Combined Outbound)"
+            },
+            {
+              "row": 34,
+              "col": 3,
+              "value": "Empty Release (OP) to Vessel Loading (VL)"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 1,
+              "value": "DMIF (Demurrage Inbound)"
+            },
+            {
+              "row": 35,
+              "col": 3,
+              "value": "Vessel Discharge (VD) to Inbound Full Delivery (ID)"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 1,
+              "value": "DTIC (Detention Inbound)"
+            },
+            {
+              "row": 36,
+              "col": 3,
+              "value": "Inbound Full Delivery (ID) to Empty Return (MT)"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 1,
+              "value": "CTIC (Detention Combined Inbound)"
+            },
+            {
+              "row": 37,
+              "col": 3,
+              "value": "Vessel Discharge (VD) to Empty Return (MT)"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 3
+    },
+    {
+      "name": "ONE Tariff ZFS + SURCHARGES",
+      "dimensions": "A1:AD719",
+      "max_row": 719,
+      "max_col": 30,
+      "merged_regions": [
+        "G21:H21",
+        "G43:H43",
+        "G12:H12",
+        "B9:H9",
+        "G42:H42",
+        "G11:H11",
+        "G27:H27",
+        "G49:I49",
+        "B30:H30",
+        "G23:H23",
+        "G17:H17",
+        "B37:H37",
+        "G39:H39",
+        "B32:H32",
+        "B41:H41",
+        "G38:H38",
+        "G10:H10",
+        "G19:H19",
+        "B16:H16",
+        "G28:H28",
+        "H2:H5",
+        "G18:H18",
+        "G47:I47",
+        "G34:H34",
+        "G50:I50",
+        "G24:H24",
+        "B12:E12",
+        "G33:H33",
+        "G46:I46",
+        "B11:E11",
+        "G26:H26",
+        "G35:H35",
+        "G20:H20",
+        "B13:H13",
+        "G25:H25",
+        "G48:I48",
+        "G44:H44",
+        "G31:H31",
+        "G22:H22",
+        "B10:E10",
+        "A2:F5"
+      ],
+      "rows_preview": [
+        {
+          "row": 2,
+          "cells": [
+            {
+              "row": 2,
+              "col": 1,
+              "value": "Export to South Africa Tariff Surcharges"
+            },
+            {
+              "row": 2,
+              "col": 8,
+              "value": "#VALUE!"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 2,
+              "value": "Rates are GIAI inclusive of surcharges mentioned in coloumn P on \"ZFS-DRY\" tab.\nRates are subject to following surcharges:"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 2,
+              "value": "ONE BUNKER SURCHARGE"
+            },
+            {
+              "row": 10,
+              "col": 6,
+              "value": "OBS"
+            },
+            {
+              "row": 10,
+              "col": 7,
+              "value": "subject to - as per ONE tariff"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "ADVANCED MANIFEST SUBMISSION"
+            },
+            {
+              "row": 11,
+              "col": 6,
+              "value": "AMS"
+            },
+            {
+              "row": 11,
+              "col": 7,
+              "value": "subject to - as per ONE tariff"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 2,
+              "value": "EUROPE ENVIRONMENTAL SURCHARGE"
+            },
+            {
+              "row": 12,
+              "col": 6,
+              "value": "EES"
+            },
+            {
+              "row": 12,
+              "col": 7,
+              "value": "subject to - as per ONE tariff"
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "row": 13,
+              "col": 2,
+              "value": "Rates are also subject to EMERGENCY FUEL SURCHARGE (EFS), DOCUMENTATION FEE (DOC), HAZARDOUS SURCHARGE (HAZ), PEAK SEASON SURCHARGE (PSS), LOCAL CHARGES AT ORIGIN / DESTINATION AND ALL OTHER SURCHARGES APPLICABLE AS PER ONE TARIFF"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 2,
+              "value": "Surcharges as per ONE Tariff (valid at time of shipment - all information is supplied without guarantee)"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 2,
+              "value": "Description"
+            },
+            {
+              "row": 17,
+              "col": 3,
+              "value": "Charge Code"
+            },
+            {
+              "row": 17,
+              "col": 4,
+              "value": "Rate"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": "Currency"
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": "Rate Base"
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": "Remarks"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 2,
+              "value": "LOCAL CHARGES AT ORIGIN"
+            },
+            {
+              "row": 18,
+              "col": 3,
+              "value": "-"
+            },
+            {
+              "row": 18,
+              "col": 4,
+              "value": "EU Local Surcharges"
+            },
+            {
+              "row": 18,
+              "col": 7,
+              "value": "please check link"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 2,
+              "value": "LOCAL CHARGES AT DESTINATION"
+            },
+            {
+              "row": 19,
+              "col": 3,
+              "value": "-"
+            },
+            {
+              "row": 19,
+              "col": 4,
+              "value": "Local Surcharges"
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": "please check link"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 2,
+              "value": "MANIFEST SUBMISSION"
+            },
+            {
+              "row": 20,
+              "col": 3,
+              "value": "AMS"
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": 35
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": "USD"
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": "per BL"
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": "Advanced Manifest Submission"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 2,
+              "value": "CONTAINER MANAGEMENT FOR DISCHARGE"
+            },
+            {
+              "row": 21,
+              "col": 3,
+              "value": "CMD"
+            },
+            {
+              "row": 21,
+              "col": 4,
+              "value": 650
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": "ZAR"
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": "per 20' / 40' Dry"
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": "Destination Surcharge"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 2,
+              "value": "EQUIPMENT HANDOVER (D)"
+            },
+            {
+              "row": 22,
+              "col": 3,
+              "value": "EHD"
+            },
+            {
+              "row": 22,
+              "col": 4,
+              "value": "830 / 1280"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": "ZAR"
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": "per 20' / 40' Dry"
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": "Destination Surcharge"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 2,
+              "value": "OUTBOUND DOCUMENTATION FEE"
+            },
+            {
+              "row": 23,
+              "col": 3,
+              "value": "DOC"
+            },
+            {
+              "row": 23,
+              "col": 4,
+              "value": 113
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 23,
+              "col": 6,
+              "value": "per BL"
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": "applicable for manual submission only in DE "
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 2,
+              "value": "OUTBOUND DOCUMENTATION FEE"
+            },
+            {
+              "row": 24,
+              "col": 3,
+              "value": "DOC"
+            },
+            {
+              "row": 24,
+              "col": 4,
+              "value": 27
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": "per BL"
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": "applicable for EDI submission in DE"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 2,
+              "value": "INBOUND DOCUMENTATION FEE"
+            },
+            {
+              "row": 25,
+              "col": 3,
+              "value": "DOF"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": 763
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": "ZAR"
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": "per BL"
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": "Inbound Documentation Fee in South Africa"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 2,
+              "value": "CARRIER SECURITY SURCHARGE"
+            },
+            {
+              "row": 26,
+              "col": 3,
+              "value": "CSS"
+            },
+            {
+              "row": 26,
+              "col": 4,
+              "value": 15
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": "USD"
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": "per Container"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 2,
+              "value": "TERMINAL SECURITY CHARGE "
+            },
+            {
+              "row": 27,
+              "col": 3,
+              "value": "TSL"
+            },
+            {
+              "row": 27,
+              "col": 4,
+              "value": 17
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": "per Container"
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": "from DE"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 2,
+              "value": "TERMINAL SECURITY CHARGE "
+            },
+            {
+              "row": 28,
+              "col": 3,
+              "value": "TSL"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": 20
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": "per Container"
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": "from NL "
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 2,
+              "value": "Dry Bunker Surcharges"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 2,
+              "value": "Description"
+            },
+            {
+              "row": 31,
+              "col": 3,
+              "value": "Charge Code"
+            },
+            {
+              "row": 31,
+              "col": 4,
+              "value": "Rate"
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": "Currency"
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": "Rate Base"
+            },
+            {
+              "row": 31,
+              "col": 7,
+              "value": "Remarks"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 2,
+              "value": "April - June 2025"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 2,
+              "value": "ONE BUNKER SURCHARGE"
+            },
+            {
+              "row": 33,
+              "col": 3,
+              "value": "OBS"
+            },
+            {
+              "row": 33,
+              "col": 4,
+              "value": 233
+            },
+            {
+              "row": 33,
+              "col": 5,
+              "value": "USD"
+            },
+            {
+              "row": 33,
+              "col": 6,
+              "value": "per TEU "
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 2,
+              "value": "EUROPE ENVIRONMENTAL SURCHARGE"
+            },
+            {
+              "row": 34,
+              "col": 3,
+              "value": "EES"
+            },
+            {
+              "row": 34,
+              "col": 4,
+              "value": 118
+            },
+            {
+              "row": 34,
+              "col": 5,
+              "value": "USD"
+            },
+            {
+              "row": 34,
+              "col": 6,
+              "value": "per TEU"
+            },
+            {
+              "row": 34,
+              "col": 7,
+              "value": "Europe (not applicable from UK) - South Africa"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 2,
+              "value": "EMERGENCY FUEL SURCHARGE"
+            },
+            {
+              "row": 35,
+              "col": 3,
+              "value": "EFS"
+            },
+            {
+              "row": 35,
+              "col": 4,
+              "value": 160
+            },
+            {
+              "row": 35,
+              "col": 5,
+              "value": "USD"
+            },
+            {
+              "row": 35,
+              "col": 6,
+              "value": "per TEU"
+            },
+            {
+              "row": 35,
+              "col": 7,
+              "value": "applicable from 24th of March 2026 until further notice"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 2,
+              "value": "Hazardous Surcharges"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 2,
+              "value": "Description"
+            },
+            {
+              "row": 38,
+              "col": 3,
+              "value": "Charge Code"
+            },
+            {
+              "row": 38,
+              "col": 4,
+              "value": "Rate"
+            },
+            {
+              "row": 38,
+              "col": 5,
+              "value": "Currency"
+            },
+            {
+              "row": 38,
+              "col": 6,
+              "value": "Rate Base"
+            },
+            {
+              "row": 38,
+              "col": 7,
+              "value": "Remarks"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 2,
+              "value": "HAZARDOUS SURCHARGE"
+            },
+            {
+              "row": 39,
+              "col": 3,
+              "value": "HAZ"
+            },
+            {
+              "row": 39,
+              "col": 4,
+              "value": 200
+            },
+            {
+              "row": 39,
+              "col": 5,
+              "value": "USD"
+            },
+            {
+              "row": 39,
+              "col": 6,
+              "value": "per TEU"
+            },
+            {
+              "row": 39,
+              "col": 7,
+              "value": "applicable for DG cargo only"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 10
+    },
+    {
+      "name": "PUDO 1H 2026",
+      "dimensions": "A1:AD1000",
+      "max_row": 1000,
+      "max_col": 30,
+      "merged_regions": [
+        "A130:K130",
+        "A69:A79",
+        "A29:A31",
+        "A123:K123",
+        "I3:K3",
+        "F124:G124",
+        "A132:K132",
+        "A1:K1",
+        "A116:A122",
+        "A80:A81",
+        "A91:A95",
+        "A20:A28",
+        "A126:A127",
+        "A133:K133",
+        "A41:A57",
+        "A32:A35",
+        "A136:K136",
+        "A96:A115",
+        "A124:D124",
+        "A58:A68",
+        "A2:K2",
+        "A129:K129",
+        "A36:A40",
+        "A82:A90",
+        "A135:K135",
+        "A131:K131",
+        "A13:A18",
+        "H124:I124",
+        "A134:K134",
+        "A3:D3",
+        "A5:A12",
+        "J124:K128",
+        "F3:H3"
+      ],
+      "rows_preview": [
+        {
+          "row": 1,
+          "cells": [
+            {
+              "row": 1,
+              "col": 1,
+              "value": "DROP OFF / PICK UP TARIFF"
+            }
+          ]
+        },
+        {
+          "row": 2,
+          "cells": [
+            {
+              "row": 2,
+              "col": 1,
+              "value": "DRY CONTAINERS"
+            }
+          ]
+        },
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 1,
+              "value": "Validity: 01/01/2026 - 30/06/2026 (Application date)"
+            },
+            {
+              "row": 3,
+              "col": 6,
+              "value": "Drop off charge"
+            },
+            {
+              "row": 3,
+              "col": 9,
+              "value": "Pick up charge"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 1,
+              "value": "AREA/ COUNTRY:"
+            },
+            {
+              "row": 4,
+              "col": 2,
+              "value": "LOCATION:"
+            },
+            {
+              "row": 4,
+              "col": 3,
+              "value": "NAME:"
+            },
+            {
+              "row": 4,
+              "col": 4,
+              "value": "CODE:"
+            },
+            {
+              "row": 4,
+              "col": 5,
+              "value": "CURRENCY"
+            },
+            {
+              "row": 4,
+              "col": 6,
+              "value": "20GP"
+            },
+            {
+              "row": 4,
+              "col": 7,
+              "value": "40GP"
+            },
+            {
+              "row": 4,
+              "col": 8,
+              "value": "40HC"
+            },
+            {
+              "row": 4,
+              "col": 9,
+              "value": "20GP"
+            },
+            {
+              "row": 4,
+              "col": 10,
+              "value": "40GP"
+            },
+            {
+              "row": 4,
+              "col": 11,
+              "value": "40HC"
+            }
+          ]
+        },
+        {
+          "row": 5,
+          "cells": [
+            {
+              "row": 5,
+              "col": 1,
+              "value": "AT"
+            },
+            {
+              "row": 5,
+              "col": 2,
+              "value": "ENNS"
+            },
+            {
+              "row": 5,
+              "col": 3,
+              "value": "CTE CONTAINER TERMINAL"
+            },
+            {
+              "row": 5,
+              "col": 4,
+              "value": "ATENA20"
+            },
+            {
+              "row": 5,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 5,
+              "col": 6,
+              "value": 150
+            },
+            {
+              "row": 5,
+              "col": 7,
+              "value": 150
+            },
+            {
+              "row": 5,
+              "col": 8,
+              "value": 150
+            },
+            {
+              "row": 5,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 5,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 5,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 2,
+              "value": "GRAZ"
+            },
+            {
+              "row": 6,
+              "col": 3,
+              "value": "TERMINAL GRAZ SUED"
+            },
+            {
+              "row": 6,
+              "col": 4,
+              "value": "ATGRZ60"
+            },
+            {
+              "row": 6,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 6,
+              "col": 6,
+              "value": 200
+            },
+            {
+              "row": 6,
+              "col": 7,
+              "value": 150
+            },
+            {
+              "row": 6,
+              "col": 8,
+              "value": 150
+            },
+            {
+              "row": 6,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 6,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 6,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "row": 7,
+              "col": 2,
+              "value": "KREMS"
+            },
+            {
+              "row": 7,
+              "col": 3,
+              "value": "METRANS (DANUBIA)"
+            },
+            {
+              "row": 7,
+              "col": 4,
+              "value": "ATKRE60"
+            },
+            {
+              "row": 7,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 7,
+              "col": 6,
+              "value": "Not allowed"
+            },
+            {
+              "row": 7,
+              "col": 7,
+              "value": "Not allowed"
+            },
+            {
+              "row": 7,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 7,
+              "col": 9,
+              "value": "Not allowed"
+            },
+            {
+              "row": 7,
+              "col": 10,
+              "value": "Not allowed"
+            },
+            {
+              "row": 7,
+              "col": 11,
+              "value": "Not allowed"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 2,
+              "value": "LINZ"
+            },
+            {
+              "row": 8,
+              "col": 3,
+              "value": "LINZ AG HAFEN"
+            },
+            {
+              "row": 8,
+              "col": 4,
+              "value": "ATLNZ60"
+            },
+            {
+              "row": 8,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 8,
+              "col": 6,
+              "value": 125
+            },
+            {
+              "row": 8,
+              "col": 7,
+              "value": 125
+            },
+            {
+              "row": 8,
+              "col": 8,
+              "value": 125
+            },
+            {
+              "row": 8,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 8,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 8,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 2,
+              "value": "SALZBURG"
+            },
+            {
+              "row": 9,
+              "col": 3,
+              "value": "CTS"
+            },
+            {
+              "row": 9,
+              "col": 4,
+              "value": "ATSZG60"
+            },
+            {
+              "row": 9,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 9,
+              "col": 6,
+              "value": 70
+            },
+            {
+              "row": 9,
+              "col": 7,
+              "value": 50
+            },
+            {
+              "row": 9,
+              "col": 8,
+              "value": 50
+            },
+            {
+              "row": 9,
+              "col": 9,
+              "value": 75
+            },
+            {
+              "row": 9,
+              "col": 10,
+              "value": 75
+            },
+            {
+              "row": 9,
+              "col": 11,
+              "value": 75
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 2,
+              "value": "VIENNA"
+            },
+            {
+              "row": 10,
+              "col": 3,
+              "value": "WIENCONT"
+            },
+            {
+              "row": 10,
+              "col": 4,
+              "value": "ATVIE60"
+            },
+            {
+              "row": 10,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 10,
+              "col": 6,
+              "value": 125
+            },
+            {
+              "row": 10,
+              "col": 7,
+              "value": 100
+            },
+            {
+              "row": 10,
+              "col": 8,
+              "value": 100
+            },
+            {
+              "row": 10,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 10,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 10,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "VIENNA"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "WIEN SUD CONTAINER TERMINAL"
+            },
+            {
+              "row": 11,
+              "col": 4,
+              "value": "ATVIE61"
+            },
+            {
+              "row": 11,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 11,
+              "col": 6,
+              "value": 125
+            },
+            {
+              "row": 11,
+              "col": 7,
+              "value": 100
+            },
+            {
+              "row": 11,
+              "col": 8,
+              "value": 100
+            },
+            {
+              "row": 11,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 11,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 11,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 2,
+              "value": "WOLFURT"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "CCT"
+            },
+            {
+              "row": 12,
+              "col": 4,
+              "value": "ATWOL60"
+            },
+            {
+              "row": 12,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 12,
+              "col": 6,
+              "value": 0
+            },
+            {
+              "row": 12,
+              "col": 7,
+              "value": 0
+            },
+            {
+              "row": 12,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 12,
+              "col": 9,
+              "value": 300
+            },
+            {
+              "row": 12,
+              "col": 10,
+              "value": 250
+            },
+            {
+              "row": 12,
+              "col": 11,
+              "value": 250
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "row": 13,
+              "col": 1,
+              "value": "CZ"
+            },
+            {
+              "row": 13,
+              "col": 2,
+              "value": "CESKA TREBOVA"
+            },
+            {
+              "row": 13,
+              "col": 3,
+              "value": "METRANS"
+            },
+            {
+              "row": 13,
+              "col": 4,
+              "value": "CZCTR60"
+            },
+            {
+              "row": 13,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 13,
+              "col": 6,
+              "value": 200
+            },
+            {
+              "row": 13,
+              "col": 7,
+              "value": 130
+            },
+            {
+              "row": 13,
+              "col": 8,
+              "value": 75
+            },
+            {
+              "row": 13,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 13,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 13,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 2,
+              "value": "PLZEN"
+            },
+            {
+              "row": 14,
+              "col": 3,
+              "value": "METRANS"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "CZPLZ61"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 14,
+              "col": 6,
+              "value": 235
+            },
+            {
+              "row": 14,
+              "col": 7,
+              "value": 255
+            },
+            {
+              "row": 14,
+              "col": 8,
+              "value": 60
+            },
+            {
+              "row": 14,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 14,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 14,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 2,
+              "value": "PRAGUE"
+            },
+            {
+              "row": 15,
+              "col": 3,
+              "value": "METRANS"
+            },
+            {
+              "row": 15,
+              "col": 4,
+              "value": "CZPRG60"
+            },
+            {
+              "row": 15,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 15,
+              "col": 6,
+              "value": 205
+            },
+            {
+              "row": 15,
+              "col": 7,
+              "value": 185
+            },
+            {
+              "row": 15,
+              "col": 8,
+              "value": 160
+            },
+            {
+              "row": 15,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 15,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 15,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 2,
+              "value": "OSTRAVA"
+            },
+            {
+              "row": 16,
+              "col": 3,
+              "value": "METRANS"
+            },
+            {
+              "row": 16,
+              "col": 4,
+              "value": "CZSNO60"
+            },
+            {
+              "row": 16,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 16,
+              "col": 6,
+              "value": 200
+            },
+            {
+              "row": 16,
+              "col": 7,
+              "value": 250
+            },
+            {
+              "row": 16,
+              "col": 8,
+              "value": 315
+            },
+            {
+              "row": 16,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 16,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 16,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 2,
+              "value": "USTI NAD LABEM"
+            },
+            {
+              "row": 17,
+              "col": 3,
+              "value": "METRANS"
+            },
+            {
+              "row": 17,
+              "col": 4,
+              "value": "CZULN20"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": 205
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": 255
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": 145
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 17,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 17,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 2,
+              "value": "ZLIN"
+            },
+            {
+              "row": 18,
+              "col": 3,
+              "value": "METRANS"
+            },
+            {
+              "row": 18,
+              "col": 4,
+              "value": "CZZLN60"
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 18,
+              "col": 6,
+              "value": 250
+            },
+            {
+              "row": 18,
+              "col": 7,
+              "value": 100
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": 75
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 18,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 18,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 1,
+              "value": "HU"
+            },
+            {
+              "row": 19,
+              "col": 2,
+              "value": "BUDAPEST"
+            },
+            {
+              "row": 19,
+              "col": 3,
+              "value": "METRANS"
+            },
+            {
+              "row": 19,
+              "col": 4,
+              "value": "HUBUD30"
+            },
+            {
+              "row": 19,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": 305
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": 180
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": 180
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 19,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 19,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 1,
+              "value": "PL"
+            },
+            {
+              "row": 20,
+              "col": 2,
+              "value": "BRZEG DOLNY"
+            },
+            {
+              "row": 20,
+              "col": 3,
+              "value": "PCC"
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": "PLBZD60"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": 50
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": "Not allowed"
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": 50
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": 50
+            },
+            {
+              "row": 20,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 20,
+              "col": 11,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 2,
+              "value": "DABROWA GORNICZA"
+            },
+            {
+              "row": 21,
+              "col": 3,
+              "value": "METRANS"
+            },
+            {
+              "row": 21,
+              "col": 4,
+              "value": "PLDAB60"
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": 31
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": "Not allowed"
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": 61
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": 40
+            },
+            {
+              "row": 21,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 21,
+              "col": 11,
+              "value": 30
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 2,
+              "value": "GLIWICE"
+            },
+            {
+              "row": 22,
+              "col": 3,
+              "value": "PCC"
+            },
+            {
+              "row": 22,
+              "col": 4,
+              "value": "PLGWC61"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": 63
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": "Not allowed"
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": 61
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": 25
+            },
+            {
+              "row": 22,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 22,
+              "col": 11,
+              "value": 30
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 2,
+              "value": "KOLBUSZOWA"
+            },
+            {
+              "row": 23,
+              "col": 3,
+              "value": "PCC"
+            },
+            {
+              "row": 23,
+              "col": 4,
+              "value": "PLKZA20"
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 23,
+              "col": 6,
+              "value": "Not allowed"
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": "Not allowed"
+            },
+            {
+              "row": 23,
+              "col": 8,
+              "value": 123
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 23,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 23,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 2,
+              "value": "KUTNO"
+            },
+            {
+              "row": 24,
+              "col": 3,
+              "value": "PCC"
+            },
+            {
+              "row": 24,
+              "col": 4,
+              "value": "PLLRK60"
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": 150
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": "Not allowed"
+            },
+            {
+              "row": 24,
+              "col": 8,
+              "value": 75
+            },
+            {
+              "row": 24,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 24,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 24,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 2,
+              "value": "WLOSIENICA"
+            },
+            {
+              "row": 25,
+              "col": 3,
+              "value": "LOCONI"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": "PLOS160"
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": 0
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": "Not allowed"
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": "Not allowed"
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": "Not allowed"
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 25,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 2,
+              "value": "GADKI (POZNAN)"
+            },
+            {
+              "row": 26,
+              "col": 3,
+              "value": "METRANS"
+            },
+            {
+              "row": 26,
+              "col": 4,
+              "value": "PLPOZ60"
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": 103
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": "Not allowed"
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": 75
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 26,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 26,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 2,
+              "value": "PRUSZKOW (WARSAW)"
+            },
+            {
+              "row": 27,
+              "col": 3,
+              "value": "METRANS"
+            },
+            {
+              "row": 27,
+              "col": 4,
+              "value": "PLWAW60"
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": 150
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": "Not allowed"
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": 75
+            },
+            {
+              "row": 27,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 27,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 27,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 2,
+              "value": "KATY WROCLAWSKIE"
+            },
+            {
+              "row": 28,
+              "col": 3,
+              "value": "METRANS"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": "PLWRO60"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": 100
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": "Not allowed"
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": 51
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 28,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 28,
+              "col": 11,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 1,
+              "value": "SK"
+            },
+            {
+              "row": 29,
+              "col": 2,
+              "value": "DUNAJSKA STREDA"
+            },
+            {
+              "row": 29,
+              "col": 3,
+              "value": "METRANS"
+            },
+            {
+              "row": 29,
+              "col": 4,
+              "value": "SKDJA60"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": 305
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": 305
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": 300
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 29,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 29,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 2,
+              "value": "KOSICE"
+            },
+            {
+              "row": 30,
+              "col": 3,
+              "value": "METRANS"
+            },
+            {
+              "row": 30,
+              "col": 4,
+              "value": "SKKSC60"
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 30,
+              "col": 6,
+              "value": 130
+            },
+            {
+              "row": 30,
+              "col": 7,
+              "value": 305
+            },
+            {
+              "row": 30,
+              "col": 8,
+              "value": 300
+            },
+            {
+              "row": 30,
+              "col": 9,
+              "value": 75
+            },
+            {
+              "row": 30,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 30,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 2,
+              "value": "ZILINA"
+            },
+            {
+              "row": 31,
+              "col": 3,
+              "value": "METRANS"
+            },
+            {
+              "row": 31,
+              "col": 4,
+              "value": "SKTNV60"
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": 255
+            },
+            {
+              "row": 31,
+              "col": 7,
+              "value": 300
+            },
+            {
+              "row": 31,
+              "col": 8,
+              "value": 350
+            },
+            {
+              "row": 31,
+              "col": 9,
+              "value": 0
+            },
+            {
+              "row": 31,
+              "col": 10,
+              "value": 0
+            },
+            {
+              "row": 31,
+              "col": 11,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 1,
+              "value": "DE North"
+            },
+            {
+              "row": 32,
+              "col": 2,
+              "value": "BAD SALZUFLEN"
+            },
+            {
+              "row": 32,
+              "col": 3,
+              "value": "BOBE SPEDITION"
+            },
+            {
+              "row": 32,
+              "col": 4,
+              "value": "DEBFN30"
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 32,
+              "col": 6,
+              "value": 305
+            },
+            {
+              "row": 32,
+              "col": 7,
+              "value": 51
+            },
+            {
+              "row": 32,
+              "col": 8,
+              "value": 178
+            },
+            {
+              "row": 32,
+              "col": 9,
+              "value": 25
+            },
+            {
+              "row": 32,
+              "col": 10,
+              "value": 25
+            },
+            {
+              "row": 32,
+              "col": 11,
+              "value": 25
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 2,
+              "value": "BREMEN"
+            },
+            {
+              "row": 33,
+              "col": 3,
+              "value": "DCP - DETTMER CONTAINER PACKING"
+            },
+            {
+              "row": 33,
+              "col": 4,
+              "value": "DEBRE32"
+            },
+            {
+              "row": 33,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 33,
+              "col": 6,
+              "value": 205
+            },
+            {
+              "row": 33,
+              "col": 7,
+              "value": 0
+            },
+            {
+              "row": 33,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 33,
+              "col": 9,
+              "value": 25
+            },
+            {
+              "row": 33,
+              "col": 10,
+              "value": 50
+            },
+            {
+              "row": 33,
+              "col": 11,
+              "value": 150
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 2,
+              "value": "BREMEN"
+            },
+            {
+              "row": 34,
+              "col": 3,
+              "value": "GRIEPE CONTAINER"
+            },
+            {
+              "row": 34,
+              "col": 4,
+              "value": "DEBRE34"
+            },
+            {
+              "row": 34,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 34,
+              "col": 6,
+              "value": 205
+            },
+            {
+              "row": 34,
+              "col": 7,
+              "value": 0
+            },
+            {
+              "row": 34,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 34,
+              "col": 9,
+              "value": 25
+            },
+            {
+              "row": 34,
+              "col": 10,
+              "value": 50
+            },
+            {
+              "row": 34,
+              "col": 11,
+              "value": 150
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 2,
+              "value": "BREMEN"
+            },
+            {
+              "row": 35,
+              "col": 3,
+              "value": "ROLAND UMSCHLAG"
+            },
+            {
+              "row": 35,
+              "col": 4,
+              "value": "DEBRE36"
+            },
+            {
+              "row": 35,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 35,
+              "col": 6,
+              "value": 205
+            },
+            {
+              "row": 35,
+              "col": 7,
+              "value": 0
+            },
+            {
+              "row": 35,
+              "col": 8,
+              "value": 0
+            },
+            {
+              "row": 35,
+              "col": 9,
+              "value": 25
+            },
+            {
+              "row": 35,
+              "col": 10,
+              "value": 50
+            },
+            {
+              "row": 35,
+              "col": 11,
+              "value": 150
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 1,
+              "value": "DE East"
+            },
+            {
+              "row": 36,
+              "col": 2,
+              "value": "BERLIN"
+            },
+            {
+              "row": 36,
+              "col": 3,
+              "value": "BEHALA"
+            },
+            {
+              "row": 36,
+              "col": 4,
+              "value": "DEBER41"
+            },
+            {
+              "row": 36,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 36,
+              "col": 6,
+              "value": 203
+            },
+            {
+              "row": 36,
+              "col": 7,
+              "value": 103
+            },
+            {
+              "row": 36,
+              "col": 8,
+              "value": 103
+            },
+            {
+              "row": 36,
+              "col": 9,
+              "value": 25
+            },
+            {
+              "row": 36,
+              "col": 10,
+              "value": 25
+            },
+            {
+              "row": 36,
+              "col": 11,
+              "value": 25
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 2,
+              "value": "BERLIN"
+            },
+            {
+              "row": 37,
+              "col": 3,
+              "value": "DB INTERMODAL GROSSBEEREN"
+            },
+            {
+              "row": 37,
+              "col": 4,
+              "value": "DEBER60"
+            },
+            {
+              "row": 37,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 37,
+              "col": 6,
+              "value": 203
+            },
+            {
+              "row": 37,
+              "col": 7,
+              "value": 103
+            },
+            {
+              "row": 37,
+              "col": 8,
+              "value": 103
+            },
+            {
+              "row": 37,
+              "col": 9,
+              "value": 25
+            },
+            {
+              "row": 37,
+              "col": 10,
+              "value": 25
+            },
+            {
+              "row": 37,
+              "col": 11,
+              "value": 25
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 2,
+              "value": "BERLIN"
+            },
+            {
+              "row": 38,
+              "col": 3,
+              "value": "METRANS"
+            },
+            {
+              "row": 38,
+              "col": 4,
+              "value": "DEBER69"
+            },
+            {
+              "row": 38,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 38,
+              "col": 6,
+              "value": 203
+            },
+            {
+              "row": 38,
+              "col": 7,
+              "value": 103
+            },
+            {
+              "row": 38,
+              "col": 8,
+              "value": 103
+            },
+            {
+              "row": 38,
+              "col": 9,
+              "value": 25
+            },
+            {
+              "row": 38,
+              "col": 10,
+              "value": 25
+            },
+            {
+              "row": 38,
+              "col": 11,
+              "value": 25
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 2,
+              "value": "HALLE"
+            },
+            {
+              "row": 39,
+              "col": 3,
+              "value": "CONTAINER TERMINAL HALLE (SAALE)"
+            },
+            {
+              "row": 39,
+              "col": 4,
+              "value": "DEHAL20"
+            },
+            {
+              "row": 39,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 39,
+              "col": 6,
+              "value": 203
+            },
+            {
+              "row": 39,
+              "col": 7,
+              "value": 103
+            },
+            {
+              "row": 39,
+              "col": 8,
+              "value": 203
+            },
+            {
+              "row": 39,
+              "col": 9,
+              "value": 50
+            },
+            {
+              "row": 39,
+              "col": 10,
+              "value": 25
+            },
+            {
+              "row": 39,
+              "col": 11,
+              "value": 25
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 2,
+              "value": "SCHKOPAU"
+            },
+            {
+              "row": 40,
+              "col": 3,
+              "value": "KTSK KOMBI TERMINAL"
+            },
+            {
+              "row": 40,
+              "col": 4,
+              "value": "DESKO60"
+            },
+            {
+              "row": 40,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 40,
+              "col": 6,
+              "value": 75
+            },
+            {
+              "row": 40,
+              "col": 7,
+              "value": 125
+            },
+            {
+              "row": 40,
+              "col": 8,
+              "value": 225
+            },
+            {
+              "row": 40,
+              "col": 9,
+              "value": 50
+            },
+            {
+              "row": 40,
+              "col": 10,
+              "value": 25
+            },
+            {
+              "row": 40,
+              "col": 11,
+              "value": 25
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 3
+    }
+  ]
+}

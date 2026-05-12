@@ -1,0 +1,5834 @@
+{
+  "file": "CJ ICM Logistics GmbH - HMM Ratesheet Germany April 2026.xlsx",
+  "sheets": [
+    {
+      "name": "1. Intro",
+      "dimensions": "A1:BI81",
+      "max_row": 81,
+      "max_col": 61,
+      "merged_regions": [
+        "C71:L71",
+        "AC50:AR50",
+        "AC25:AR25",
+        "M45:AB45",
+        "AS57:BH57",
+        "C40:BH40",
+        "AC60:AR60",
+        "AS66:BH66",
+        "M47:AB47",
+        "C57:L57",
+        "C49:L49",
+        "C23:BH23",
+        "AS49:BH49",
+        "AC52:AR52",
+        "AS45:BH45",
+        "C42:L42",
+        "AS42:BH42",
+        "M44:AB44",
+        "AC37:AR37",
+        "AS44:BH44",
+        "M64:AB64",
+        "M51:AB51",
+        "AC55:AR55",
+        "C59:L59",
+        "AC64:AR64",
+        "AS70:BH70",
+        "M65:AB65",
+        "C46:L46",
+        "AC63:AR63",
+        "C70:L70",
+        "C48:L48",
+        "AC65:AR65",
+        "AC56:AR56",
+        "M66:AB66",
+        "AC49:AR49",
+        "M63:AB63",
+        "AC41:AR41",
+        "M50:AB50",
+        "AS65:BH65",
+        "C24:L24",
+        "AS58:BH58",
+        "M55:AB55",
+        "C51:L51",
+        "AC66:AR66",
+        "M67:AB67",
+        "M49:AB49",
+        "C26:L26",
+        "M48:AB48",
+        "AS60:BH60",
+        "C63:L63"
+      ],
+      "rows_preview": [
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 3,
+              "value": "RATE AGREEMENT / SERVICE CONTRACT: AS OUTLINED BY ROUTE"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 3,
+              "value": "RATE VALIDITY: AS PER RDA DATE 01.02.2026 - 30.04.2026"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 3,
+              "value": "RATE AND SURCHARGES APPLICATION: AS PER RATING DATE (RDA) "
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 3,
+              "value": "TERMS:"
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": "CY/CY"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 3,
+              "value": "HAMBURG"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 3,
+              "value": "Name"
+            },
+            {
+              "row": 24,
+              "col": 13,
+              "value": "Department"
+            },
+            {
+              "row": 24,
+              "col": 29,
+              "value": "Phone"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 3,
+              "value": "Minu Lee"
+            },
+            {
+              "row": 25,
+              "col": 13,
+              "value": "Sales Manager"
+            },
+            {
+              "row": 25,
+              "col": 29,
+              "value": "0049 (0) 40 / 36954 - 203"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 3,
+              "value": "Dan Hansen"
+            },
+            {
+              "row": 26,
+              "col": 13,
+              "value": "Sales "
+            },
+            {
+              "row": 26,
+              "col": 29,
+              "value": "0049 (0) 40 / 36954 - 206"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 3,
+              "value": "Sven Ploetzke"
+            },
+            {
+              "row": 27,
+              "col": 13,
+              "value": "Sales"
+            },
+            {
+              "row": 27,
+              "col": 29,
+              "value": "0049 (0) 40 / 36954 - 208"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 3,
+              "value": "Ole Paulus"
+            },
+            {
+              "row": 28,
+              "col": 13,
+              "value": "Sales Manager (Specials, BB, OOG)"
+            },
+            {
+              "row": 28,
+              "col": 29,
+              "value": "0049 (0) 40 / 36954 - 252"
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 3,
+              "value": "Bastian Rielinger"
+            },
+            {
+              "row": 29,
+              "col": 13,
+              "value": "Manager IFF Sales"
+            },
+            {
+              "row": 29,
+              "col": 29,
+              "value": "0049 (0) 40 / 36954 - 224"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 3,
+              "value": "Leroy Menzell"
+            },
+            {
+              "row": 30,
+              "col": 13,
+              "value": "IFF Sales"
+            },
+            {
+              "row": 30,
+              "col": 29,
+              "value": "0049 (0) 40 / 36954 - 0"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 3,
+              "value": "Brigitte Stoeckler"
+            },
+            {
+              "row": 31,
+              "col": 13,
+              "value": "Inside Sales IFF"
+            },
+            {
+              "row": 31,
+              "col": 29,
+              "value": "0049 (0) 421 / 17352 - 31"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 3,
+              "value": "Svenja Bürger"
+            },
+            {
+              "row": 32,
+              "col": 13,
+              "value": "Inside Sales"
+            },
+            {
+              "row": 32,
+              "col": 29,
+              "value": "0049 (0) 40 / 36954 - 219"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 3,
+              "value": "Lena Frömbling"
+            },
+            {
+              "row": 33,
+              "col": 13,
+              "value": "Inside Sales"
+            },
+            {
+              "row": 33,
+              "col": 29,
+              "value": "0049 (0) 40 / 36954 - 239"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 3,
+              "value": "Matthias Gerkens"
+            },
+            {
+              "row": 34,
+              "col": 13,
+              "value": "Inside Sales"
+            },
+            {
+              "row": 34,
+              "col": 29,
+              "value": "0049 (0) 40 / 36954 - 139"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 3,
+              "value": "Lisa Schuermann"
+            },
+            {
+              "row": 35,
+              "col": 13,
+              "value": "Inside Sales"
+            },
+            {
+              "row": 35,
+              "col": 29,
+              "value": "0049 (0) 40 / 36954 - 212"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 3,
+              "value": "Soyeon Seo"
+            },
+            {
+              "row": 36,
+              "col": 13,
+              "value": "Inside Sales (Specials, BB, OOG)"
+            },
+            {
+              "row": 36,
+              "col": 29,
+              "value": "0049 (0) 40 / 36954 - 253"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 3,
+              "value": "Moritz Steffens"
+            },
+            {
+              "row": 37,
+              "col": 13,
+              "value": "Inside Sales"
+            },
+            {
+              "row": 37,
+              "col": 29,
+              "value": "0049 (0) 40 / 36954 - 207"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 3,
+              "value": "CUSTOMER SERVICE GERMANY"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 24
+    },
+    {
+      "name": "1.1. RDA Application",
+      "dimensions": "A1:AQ74",
+      "max_row": 74,
+      "max_col": 43,
+      "merged_regions": [
+        "C71:L71",
+        "W71:AF71",
+        "M41:V41",
+        "N33:Y33",
+        "W58:AF58",
+        "W73:AF73",
+        "W60:AF60",
+        "C57:L57",
+        "AG42:AP42",
+        "M66:V66",
+        "C26:M26",
+        "W57:AF57",
+        "C49:L49",
+        "N28:Y28",
+        "C42:L42",
+        "M55:V55",
+        "N30:Y30",
+        "M52:V52",
+        "AH32:AP32",
+        "M48:V48",
+        "Z33:AG33",
+        "C27:M27",
+        "M69:V69",
+        "AG52:AP52",
+        "N32:Y32",
+        "AH33:AP33",
+        "Z34:AG34",
+        "Z28:AG28",
+        "C28:M28",
+        "C46:L46",
+        "W46:AF46",
+        "Z30:AG30",
+        "C70:L70",
+        "C30:M30",
+        "C48:L48",
+        "AG47:AP47",
+        "W70:AF70",
+        "M57:V57",
+        "W48:AF48",
+        "M72:V72",
+        "AH34:AP34",
+        "C39:AP39",
+        "M56:V56",
+        "M71:V71",
+        "AG64:AP64",
+        "M43:V43",
+        "M58:V58",
+        "W40:AF40",
+        "AG51:AP51",
+        "C37:AP37"
+      ],
+      "rows_preview": [
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 3,
+              "value": "HMM (Germany) GmbH & Co. KG"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 3,
+              "value": "As Agent of HMM Co. Ltd., Seoul, Korea"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 3,
+              "value": "Herrengraben 3, 20459 Hamburg"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": null
+    },
+    {
+      "name": "1.2 GMD",
+      "dimensions": "A1:AQ74",
+      "max_row": 74,
+      "max_col": 43,
+      "merged_regions": [
+        "C71:L71",
+        "W71:AF71",
+        "M41:V41",
+        "N33:Y33",
+        "W58:AF58",
+        "W73:AF73",
+        "W60:AF60",
+        "C57:L57",
+        "AG42:AP42",
+        "M66:V66",
+        "C26:M26",
+        "W57:AF57",
+        "C49:L49",
+        "N28:Y28",
+        "C42:L42",
+        "M55:V55",
+        "N30:Y30",
+        "M52:V52",
+        "AH32:AP32",
+        "M48:V48",
+        "Z33:AG33",
+        "C27:M27",
+        "M69:V69",
+        "AG52:AP52",
+        "N32:Y32",
+        "AH33:AP33",
+        "Z34:AG34",
+        "Z28:AG28",
+        "C28:M28",
+        "C46:L46",
+        "W46:AF46",
+        "Z30:AG30",
+        "C70:L70",
+        "C30:M30",
+        "C48:L48",
+        "AG47:AP47",
+        "W70:AF70",
+        "M57:V57",
+        "W48:AF48",
+        "M72:V72",
+        "AH34:AP34",
+        "C39:AP39",
+        "M56:V56",
+        "M71:V71",
+        "AG64:AP64",
+        "M43:V43",
+        "M58:V58",
+        "W40:AF40",
+        "AG51:AP51",
+        "C37:AP37"
+      ],
+      "rows_preview": [
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 3,
+              "value": "HMM (Germany) GmbH & Co. KG"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 3,
+              "value": "As Agent of HMM Co. Ltd., Seoul, Korea"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 3,
+              "value": "Herrengraben 3, 20459 Hamburg"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": null
+    },
+    {
+      "name": "1.3 EFL",
+      "dimensions": "A1:AQ74",
+      "max_row": 74,
+      "max_col": 43,
+      "merged_regions": [
+        "C71:L71",
+        "W71:AF71",
+        "M41:V41",
+        "N33:Y33",
+        "W58:AF58",
+        "W73:AF73",
+        "W60:AF60",
+        "C57:L57",
+        "AG42:AP42",
+        "M66:V66",
+        "C26:M26",
+        "W57:AF57",
+        "C49:L49",
+        "N28:Y28",
+        "C42:L42",
+        "M55:V55",
+        "N30:Y30",
+        "M52:V52",
+        "AH32:AP32",
+        "M48:V48",
+        "Z33:AG33",
+        "C27:M27",
+        "M69:V69",
+        "AG52:AP52",
+        "N32:Y32",
+        "AH33:AP33",
+        "Z34:AG34",
+        "Z28:AG28",
+        "C28:M28",
+        "C46:L46",
+        "W46:AF46",
+        "Z30:AG30",
+        "C70:L70",
+        "C30:M30",
+        "C48:L48",
+        "AG47:AP47",
+        "W70:AF70",
+        "M57:V57",
+        "W48:AF48",
+        "M72:V72",
+        "AH34:AP34",
+        "C39:AP39",
+        "M56:V56",
+        "M71:V71",
+        "AG64:AP64",
+        "M43:V43",
+        "M58:V58",
+        "W40:AF40",
+        "AG51:AP51",
+        "C37:AP37"
+      ],
+      "rows_preview": [
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 3,
+              "value": "HMM (Germany) GmbH & Co. KG"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 3,
+              "value": "As Agent of HMM Co. Ltd., Seoul, Korea"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 3,
+              "value": "Herrengraben 3, 20459 Hamburg"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": null
+    },
+    {
+      "name": "2. EES Surcharge",
+      "dimensions": "A1:AD40",
+      "max_row": 40,
+      "max_col": 30,
+      "merged_regions": [],
+      "rows_preview": [],
+      "header_row_guess": null
+    },
+    {
+      "name": "3. Main Ports I FIM I TW",
+      "dimensions": "A1:BI116",
+      "max_row": 116,
+      "max_col": 61,
+      "merged_regions": [
+        "R92:S92",
+        "AU66:BA66",
+        "L45:T45",
+        "AU53:BA53",
+        "R94:S94",
+        "AU68:BA68",
+        "L38:T38",
+        "C49:T50",
+        "U58:AF58",
+        "L40:T40",
+        "U73:AF73",
+        "AG44:AM44",
+        "AN65:AT65",
+        "AG31:AM31",
+        "AN83:AT83",
+        "C83:K83",
+        "BB82:BH82",
+        "AL101:AX101",
+        "AN60:AT60",
+        "AG32:AM32",
+        "C55:BH55",
+        "AU54:BA54",
+        "BB44:BH44",
+        "AU41:BA41",
+        "BB77:BH77",
+        "BB52:BH52",
+        "AU43:BA43",
+        "AG42:AM42",
+        "AN78:AT78",
+        "BD96:BF97",
+        "AL99:AX99",
+        "L59:T59",
+        "AU67:BA67",
+        "AN80:AT80",
+        "L46:T46",
+        "U56:BH57",
+        "AN79:AT79",
+        "U79:AF79",
+        "L61:T61",
+        "C92:Q92",
+        "U81:AF81",
+        "AG52:AM52",
+        "BB88:BH88",
+        "BB63:BH63",
+        "AY99:AZ99",
+        "C45:K45",
+        "U74:AF74",
+        "AG45:AM45",
+        "L43:T43",
+        "AY101:AZ101"
+      ],
+      "rows_preview": [
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 3,
+              "value": "RATE AGREEMENT / SERVICE CONTRACT: AS OUTLINED BY ROUTE"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 3,
+              "value": "RATE VALIDITY: AS PER RDA DATE 01.02.2026 - 30.04.2026"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 3,
+              "value": "RATE AND SURCHARGES APPLICATION: AS PER RATING DATE (RDA) "
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 3,
+              "value": "TERMS: CY/CY"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 3,
+              "value": "MAIN PORTS"
+            },
+            {
+              "row": 28,
+              "col": 21,
+              "value": "GATE IN / INCL EES / EXCL.  DOC /  DESTINATION CHARGES"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 3,
+              "value": "POL"
+            },
+            {
+              "row": 30,
+              "col": 12,
+              "value": "LOOP"
+            },
+            {
+              "row": 30,
+              "col": 21,
+              "value": "POD "
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 3,
+              "value": "ANR"
+            },
+            {
+              "row": 31,
+              "col": 12,
+              "value": "FE6 / FP2"
+            },
+            {
+              "row": 31,
+              "col": 21,
+              "value": "BUSAN"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 3,
+              "value": "HAM / RTM "
+            },
+            {
+              "row": 32,
+              "col": 12,
+              "value": "FE4"
+            },
+            {
+              "row": 32,
+              "col": 21,
+              "value": "BUSAN"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 3,
+              "value": "HAM / RTM / ANR"
+            },
+            {
+              "row": 33,
+              "col": 12,
+              "value": "FE4 / FE5"
+            },
+            {
+              "row": 33,
+              "col": 21,
+              "value": "NINGBO"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 3,
+              "value": "HAM / RTM / ANR"
+            },
+            {
+              "row": 34,
+              "col": 12,
+              "value": "FE3 / FE5"
+            },
+            {
+              "row": 34,
+              "col": 21,
+              "value": "QINGDAO"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 3,
+              "value": "HAM / RTM / ANR"
+            },
+            {
+              "row": 35,
+              "col": 12,
+              "value": "FE3 / FE4 / FE5"
+            },
+            {
+              "row": 35,
+              "col": 21,
+              "value": "SHANGHAI"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 3,
+              "value": "HAM / RTM / ANR"
+            },
+            {
+              "row": 36,
+              "col": 12,
+              "value": "FE3 / FE4 / FE5"
+            },
+            {
+              "row": 36,
+              "col": 21,
+              "value": "SINGAPORE"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 3,
+              "value": "ANR"
+            },
+            {
+              "row": 37,
+              "col": 12,
+              "value": "FE6 / FP2"
+            },
+            {
+              "row": 37,
+              "col": 21,
+              "value": "SINGAPORE"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 3,
+              "value": "ANR"
+            },
+            {
+              "row": 38,
+              "col": 12,
+              "value": "FE6"
+            },
+            {
+              "row": 38,
+              "col": 21,
+              "value": "SHEKOU"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 3,
+              "value": "ANR"
+            },
+            {
+              "row": 39,
+              "col": 12,
+              "value": "FE6"
+            },
+            {
+              "row": 39,
+              "col": 21,
+              "value": "SHANGHAI"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 3,
+              "value": "ANR"
+            },
+            {
+              "row": 40,
+              "col": 12,
+              "value": "FE6"
+            },
+            {
+              "row": 40,
+              "col": 21,
+              "value": "NINGBO"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 30
+    },
+    {
+      "name": "4. Japan Outports",
+      "dimensions": "A1:BI90",
+      "max_row": 90,
+      "max_col": 61,
+      "merged_regions": [
+        "BB59:BH59",
+        "C54:K54",
+        "BA72:BC72",
+        "BD73:BF73",
+        "BC67:BF67",
+        "AN62:AT62",
+        "U48:AF48",
+        "R67:S67",
+        "AU57:BA57",
+        "C50:K50",
+        "BB46:BH46",
+        "AN48:AT48",
+        "C41:K41",
+        "U32:AF32",
+        "L39:T39",
+        "L45:T45",
+        "BB61:BH61",
+        "C75:Q75",
+        "C56:K56",
+        "AU53:BA53",
+        "BB48:BH48",
+        "AU50:BA50",
+        "C43:K43",
+        "AN38:AT38",
+        "R69:S69",
+        "L55:T55",
+        "AG58:AM58",
+        "U47:AF47",
+        "BB45:BH45",
+        "L38:T38",
+        "BB32:BH32",
+        "C36:K36",
+        "AU52:BA52",
+        "AN40:AT40",
+        "L31:T31",
+        "AG60:AM60",
+        "U58:AF58",
+        "AL74:AX74",
+        "BB47:BH47",
+        "L40:T40",
+        "C70:Q70",
+        "AU39:BA39",
+        "AG38:AM38",
+        "AN33:AT33",
+        "R70:S70",
+        "AG44:AM44",
+        "U51:AF51",
+        "AG31:AM31",
+        "BB33:BH33",
+        "AU44:BA44"
+      ],
+      "rows_preview": [
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 3,
+              "value": "RATE AGREEMENT / SERVICE CONTRACT: AS OUTLINED BY ROUTE"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 3,
+              "value": "RATE VALIDITY: AS PER RDA DATE 01.02.2026 - 30.04.2026"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 3,
+              "value": "RATE AND SURCHARGES APPLICATION: AS PER RATING DATE (RDA) "
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 3,
+              "value": "TERMS: CY/CY"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 3,
+              "value": "JAPAN OUTPORTS"
+            },
+            {
+              "row": 28,
+              "col": 21,
+              "value": "GATE IN / EXCL. EES  / DOC /  DESTINATION CHARGES"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 3,
+              "value": "POL"
+            },
+            {
+              "row": 30,
+              "col": 12,
+              "value": "LOOP"
+            },
+            {
+              "row": 30,
+              "col": 21,
+              "value": "POD "
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 3,
+              "value": "HAM / RTM  / ANR"
+            },
+            {
+              "row": 31,
+              "col": 12,
+              "value": "FE3 / FE6"
+            },
+            {
+              "row": 31,
+              "col": 21,
+              "value": "AKITA (VIA BUSAN)"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 3,
+              "value": "HAM / RTM  / ANR"
+            },
+            {
+              "row": 32,
+              "col": 12,
+              "value": "FE3 / FE6"
+            },
+            {
+              "row": 32,
+              "col": 21,
+              "value": "FUKUYAMA (VIA BUSAN)"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 3,
+              "value": "HAM / RTM  / ANR"
+            },
+            {
+              "row": 33,
+              "col": 12,
+              "value": "FE3 / FE6"
+            },
+            {
+              "row": 33,
+              "col": 21,
+              "value": "HACHINOE (VIA BUSAN)"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 3,
+              "value": "HAM / RTM  / ANR"
+            },
+            {
+              "row": 34,
+              "col": 12,
+              "value": "FE3 / FE6"
+            },
+            {
+              "row": 34,
+              "col": 21,
+              "value": "HIROSHIMA (VIA BUSAN)"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 3,
+              "value": "HAM / RTM  / ANR"
+            },
+            {
+              "row": 35,
+              "col": 12,
+              "value": "FE3 / FE6"
+            },
+            {
+              "row": 35,
+              "col": 21,
+              "value": "HOSOSHIMA (VIA BUSAN)"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 3,
+              "value": "HAM / RTM  / ANR"
+            },
+            {
+              "row": 36,
+              "col": 12,
+              "value": "FE3 / FE6"
+            },
+            {
+              "row": 36,
+              "col": 21,
+              "value": "IMABARI (VIA BUSAN)"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 3,
+              "value": "HAM / RTM  / ANR"
+            },
+            {
+              "row": 37,
+              "col": 12,
+              "value": "FE3 / FE6"
+            },
+            {
+              "row": 37,
+              "col": 21,
+              "value": "IMARI (VIA BUSAN)"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 3,
+              "value": "HAM / RTM  / ANR"
+            },
+            {
+              "row": 38,
+              "col": 12,
+              "value": "FE3 / FE6"
+            },
+            {
+              "row": 38,
+              "col": 21,
+              "value": "ISHIKARI-WAN SHINKO (VIA BUSAN)"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 3,
+              "value": "HAM / RTM  / ANR"
+            },
+            {
+              "row": 39,
+              "col": 12,
+              "value": "FE3 / FE6"
+            },
+            {
+              "row": 39,
+              "col": 21,
+              "value": "IWAKUNI (VIA BUSAN)"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 3,
+              "value": "HAM / RTM  / ANR"
+            },
+            {
+              "row": 40,
+              "col": 12,
+              "value": "FE3 / FE6"
+            },
+            {
+              "row": 40,
+              "col": 21,
+              "value": "IYOMISHIMA (VIA BUSAN)"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 30
+    },
+    {
+      "name": "5. China I SE Asia",
+      "dimensions": "A1:BI114",
+      "max_row": 114,
+      "max_col": 61,
+      "merged_regions": [
+        "AV51:BA51",
+        "R92:S92",
+        "W46:AI46",
+        "AP51:AU51",
+        "J53:R53",
+        "J45:R45",
+        "R94:S94",
+        "W48:AI48",
+        "AJ87:AO87",
+        "J55:R55",
+        "C53:I53",
+        "AJ37:AO37",
+        "S79:V79",
+        "C30:I30",
+        "S81:V81",
+        "AJ88:AO88",
+        "J71:R71",
+        "AV41:BA41",
+        "J58:R58",
+        "BB82:BH82",
+        "J73:R73",
+        "AJ50:AO50",
+        "AL101:AX101",
+        "AJ42:AO42",
+        "AP58:AU58",
+        "AP52:AU52",
+        "S34:V34",
+        "AP39:AU39",
+        "AJ52:AO52",
+        "BB44:BH44",
+        "S36:V36",
+        "S30:V30",
+        "BB52:BH52",
+        "AV69:BA69",
+        "C34:I34",
+        "W69:AI69",
+        "BD96:BF97",
+        "W87:AI87",
+        "AL99:AX99",
+        "J46:R46",
+        "AJ32:AO32",
+        "AJ63:AO63",
+        "J48:R48",
+        "AJ47:AO47",
+        "W51:AI51",
+        "C92:Q92",
+        "C44:I44",
+        "AJ40:AO40",
+        "BB88:BH88",
+        "BB63:BH63"
+      ],
+      "rows_preview": [
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 3,
+              "value": "RATE AGREEMENT / SERVICE CONTRACT: AS OUTLINED BY ROUTE"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 3,
+              "value": "RATE VALIDITY: AS PER RDA DATE 01.02.2026 - 30.04.2026"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 3,
+              "value": "RATE AND SURCHARGES APPLICATION: AS PER RATING DATE (RDA) "
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 3,
+              "value": "TERMS: CY/CY"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 3,
+              "value": "CHINA (OUTPORTS) DAR"
+            },
+            {
+              "row": 28,
+              "col": 23,
+              "value": "DAR TO BE ADDED ON T/S PORT (MAIN PORT) RATE"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 3,
+              "value": "POL"
+            },
+            {
+              "row": 30,
+              "col": 10,
+              "value": "LOOP"
+            },
+            {
+              "row": 30,
+              "col": 19,
+              "value": "MODE"
+            },
+            {
+              "row": 30,
+              "col": 23,
+              "value": "POD (T/S PORT)"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 3,
+              "value": "HAM / RTM / ANR "
+            },
+            {
+              "row": 31,
+              "col": 10,
+              "value": "FE3 / FE4 / FE5"
+            },
+            {
+              "row": 31,
+              "col": 19,
+              "value": "BARGE"
+            },
+            {
+              "row": 31,
+              "col": 23,
+              "value": "BEIJIAO (VIA YANTIAN)"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 3,
+              "value": "HAM / RTM / ANR "
+            },
+            {
+              "row": 32,
+              "col": 10,
+              "value": "FE4 / FE5"
+            },
+            {
+              "row": 32,
+              "col": 19,
+              "value": "BARGE"
+            },
+            {
+              "row": 32,
+              "col": 23,
+              "value": "CHANGSHA (VIA SHANGHAI/ NO DG)"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 3,
+              "value": "HAM / RTM / ANR "
+            },
+            {
+              "row": 33,
+              "col": 10,
+              "value": "FE4 / FE5"
+            },
+            {
+              "row": 33,
+              "col": 19,
+              "value": "RAIL"
+            },
+            {
+              "row": 33,
+              "col": 23,
+              "value": "CHENGDU (VIA SHANGHAI/NO DG)"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 3,
+              "value": "HAM / RTM / ANR "
+            },
+            {
+              "row": 34,
+              "col": 10,
+              "value": "FE4 / FE5"
+            },
+            {
+              "row": 34,
+              "col": 19,
+              "value": "BARGE"
+            },
+            {
+              "row": 34,
+              "col": 23,
+              "value": "CHONGQING (VIA SHANGHAI/NO DG)"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 3,
+              "value": "HAM / RTM / ANR "
+            },
+            {
+              "row": 35,
+              "col": 10,
+              "value": "FE3 / FE5"
+            },
+            {
+              "row": 35,
+              "col": 19,
+              "value": "BARGE "
+            },
+            {
+              "row": 35,
+              "col": 23,
+              "value": "DALIAN (VIA CNTAO)"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 3,
+              "value": "HAM / RTM / ANR "
+            },
+            {
+              "row": 36,
+              "col": 10,
+              "value": "FE3 / FE4 / FE5"
+            },
+            {
+              "row": 36,
+              "col": 19,
+              "value": "BARGE"
+            },
+            {
+              "row": 36,
+              "col": 23,
+              "value": "DOUMEN (VIA YANTIAN/NO DG)"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 3,
+              "value": "HAM / RTM / ANR "
+            },
+            {
+              "row": 37,
+              "col": 10,
+              "value": "FE3 / FE4 / FE5"
+            },
+            {
+              "row": 37,
+              "col": 19,
+              "value": "BARGE"
+            },
+            {
+              "row": 37,
+              "col": 23,
+              "value": "GAOMING - HUASHEN (VIA YTN/NO DG)"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 3,
+              "value": "HAM / RTM / ANR "
+            },
+            {
+              "row": 38,
+              "col": 10,
+              "value": "FE3 / FE4 / FE5"
+            },
+            {
+              "row": 38,
+              "col": 19,
+              "value": "BARGE"
+            },
+            {
+              "row": 38,
+              "col": 23,
+              "value": "HAIKOU (VIA YANTIAN/NO DG)"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 3,
+              "value": "HAM / RTM / ANR "
+            },
+            {
+              "row": 39,
+              "col": 10,
+              "value": "FE4 / FE5"
+            },
+            {
+              "row": 39,
+              "col": 19,
+              "value": "BARGE"
+            },
+            {
+              "row": 39,
+              "col": 23,
+              "value": "HAIMEN (VIA NGB/NO DG)"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 3,
+              "value": "HAM / RTM / ANR "
+            },
+            {
+              "row": 40,
+              "col": 10,
+              "value": "FE3 / FE4 / FE5"
+            },
+            {
+              "row": 40,
+              "col": 19,
+              "value": "BARGE"
+            },
+            {
+              "row": 40,
+              "col": 23,
+              "value": "HESHAN (VIA YANTIAN/NO DG)"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 30
+    },
+    {
+      "name": "6. Empty Pick Up",
+      "dimensions": "A1:BI80",
+      "max_row": 80,
+      "max_col": 61,
+      "merged_regions": [
+        "U33:AA33",
+        "AY51:BH51",
+        "U42:AA42",
+        "AE48:AN48",
+        "AY48:BH48",
+        "C58:G58",
+        "AE40:AN40",
+        "AO31:AX31",
+        "H27:T27",
+        "AO26:AX26",
+        "AB27:AD27",
+        "AB36:AD36",
+        "C45:G45",
+        "AY54:BH54",
+        "H33:T33",
+        "C29:G29",
+        "H42:T42",
+        "C47:G47",
+        "AB52:AD52",
+        "AE26:AN26",
+        "C44:G44",
+        "H53:T53",
+        "AY27:BH27",
+        "H35:T35",
+        "AB53:AD53",
+        "C31:G31",
+        "C40:G40",
+        "AE25:AN25",
+        "U46:AA46",
+        "AY33:BH33",
+        "H55:T55",
+        "AO48:AX48",
+        "AB37:AD37",
+        "AO57:AX57",
+        "AY53:BH53",
+        "U48:AA48",
+        "AY50:BH50",
+        "AB55:AD55",
+        "H46:T46",
+        "U32:AA32",
+        "AY55:BH55",
+        "AE52:AN52",
+        "AO43:AX43",
+        "H52:T52",
+        "AY52:BH52",
+        "AE39:AN39",
+        "U47:AA47",
+        "C57:G57",
+        "U56:AA56",
+        "AY39:BH39"
+      ],
+      "rows_preview": [
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 3,
+              "value": "RATE AGREEMENT / SERVICE CONTRACT: AS OUTLINED BY ROUTE"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 3,
+              "value": "RATE VALIDITY: AS PER RDA DATE 01.02.2026 - 30.04.2026"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 3,
+              "value": "RATE AND SURCHARGES APPLICATION: AS PER RATING DATE (RDA) "
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 3,
+              "value": "TERMS:"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 3,
+              "value": "EMPTY PICK UP CHARGE"
+            },
+            {
+              "row": 24,
+              "col": 21,
+              "value": "SALES AREA"
+            },
+            {
+              "row": 24,
+              "col": 28,
+              "value": "CUR"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 3,
+              "value": "AGB"
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": "Augsburg"
+            },
+            {
+              "row": 26,
+              "col": 21,
+              "value": "MUC"
+            },
+            {
+              "row": 26,
+              "col": 28,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 3,
+              "value": "BFN"
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": "Bad Salzuflen"
+            },
+            {
+              "row": 27,
+              "col": 21,
+              "value": "DUS"
+            },
+            {
+              "row": 27,
+              "col": 28,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 3,
+              "value": "KWH"
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": "Koenigswusterhausen (BER)"
+            },
+            {
+              "row": 28,
+              "col": 21,
+              "value": "HAM"
+            },
+            {
+              "row": 28,
+              "col": 28,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 3,
+              "value": "BRE"
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": "Bremen"
+            },
+            {
+              "row": 29,
+              "col": 21,
+              "value": "BRE"
+            },
+            {
+              "row": 29,
+              "col": 28,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 3,
+              "value": "BNN"
+            },
+            {
+              "row": 30,
+              "col": 8,
+              "value": "Bonn"
+            },
+            {
+              "row": 30,
+              "col": 21,
+              "value": "DUS"
+            },
+            {
+              "row": 30,
+              "col": 28,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 3,
+              "value": "CLN"
+            },
+            {
+              "row": 31,
+              "col": 8,
+              "value": "Cologne"
+            },
+            {
+              "row": 31,
+              "col": 21,
+              "value": "DUS"
+            },
+            {
+              "row": 31,
+              "col": 28,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 3,
+              "value": "DTM"
+            },
+            {
+              "row": 32,
+              "col": 8,
+              "value": "Dortmund"
+            },
+            {
+              "row": 32,
+              "col": 21,
+              "value": "DUS"
+            },
+            {
+              "row": 32,
+              "col": 28,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 3,
+              "value": "DUI"
+            },
+            {
+              "row": 33,
+              "col": 8,
+              "value": "Duisburg"
+            },
+            {
+              "row": 33,
+              "col": 21,
+              "value": "DUS"
+            },
+            {
+              "row": 33,
+              "col": 28,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 3,
+              "value": "DUS"
+            },
+            {
+              "row": 34,
+              "col": 8,
+              "value": "Dusseldorf"
+            },
+            {
+              "row": 34,
+              "col": 21,
+              "value": "DUS"
+            },
+            {
+              "row": 34,
+              "col": 28,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 3,
+              "value": "FRA"
+            },
+            {
+              "row": 35,
+              "col": 8,
+              "value": "Frankfurt"
+            },
+            {
+              "row": 35,
+              "col": 21,
+              "value": "FRA"
+            },
+            {
+              "row": 35,
+              "col": 28,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 3,
+              "value": "HAM"
+            },
+            {
+              "row": 36,
+              "col": 8,
+              "value": "Hamburg"
+            },
+            {
+              "row": 36,
+              "col": 21,
+              "value": "HAM"
+            },
+            {
+              "row": 36,
+              "col": 28,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 3,
+              "value": "HAL"
+            },
+            {
+              "row": 37,
+              "col": 8,
+              "value": "Halle (Saale)"
+            },
+            {
+              "row": 37,
+              "col": 21,
+              "value": "HAM"
+            },
+            {
+              "row": 37,
+              "col": 28,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 3,
+              "value": "HAL"
+            },
+            {
+              "row": 38,
+              "col": 8,
+              "value": "Hof"
+            },
+            {
+              "row": 38,
+              "col": 21,
+              "value": "MUC"
+            },
+            {
+              "row": 38,
+              "col": 28,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 3,
+              "value": "KEH"
+            },
+            {
+              "row": 39,
+              "col": 8,
+              "value": "Kehl"
+            },
+            {
+              "row": 39,
+              "col": 21,
+              "value": "MUC"
+            },
+            {
+              "row": 39,
+              "col": 28,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 3,
+              "value": "KOR"
+            },
+            {
+              "row": 40,
+              "col": 8,
+              "value": "Kornwestheim"
+            },
+            {
+              "row": 40,
+              "col": 21,
+              "value": "MUC"
+            },
+            {
+              "row": 40,
+              "col": 28,
+              "value": "EUR"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 24
+    },
+    {
+      "name": "7. Free Times Germany",
+      "dimensions": "A1:AD56",
+      "max_row": 56,
+      "max_col": 30,
+      "merged_regions": [
+        "D44:D47",
+        "F44:F47",
+        "F40:F43",
+        "C20:C23",
+        "F16:F19",
+        "E20:E23",
+        "F24:F27",
+        "C24:C27",
+        "D40:D43",
+        "D36:D39",
+        "C44:C47",
+        "F36:F39",
+        "E44:E47",
+        "I14:K14",
+        "C16:C19",
+        "F20:F23",
+        "E28:E31",
+        "D16:D19",
+        "C55:J55",
+        "D32:D35",
+        "C40:C43",
+        "F32:F35",
+        "E40:E43",
+        "D28:D31",
+        "E36:E39",
+        "C36:C39",
+        "G14:H14",
+        "E16:E19",
+        "C32:C35",
+        "D24:D27",
+        "D14:D15",
+        "E32:E35",
+        "F14:F15",
+        "C28:C31",
+        "C53:I54",
+        "F28:F31",
+        "E24:E27",
+        "D20:D23",
+        "C14:C15",
+        "E14:E15"
+      ],
+      "rows_preview": [
+        {
+          "row": 5,
+          "cells": [
+            {
+              "row": 5,
+              "col": 3,
+              "value": "HMM (Germany) GmbH & Co. KG"
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 3,
+              "value": "As Agent of HMM Co. Ltd., Seoul, Korea"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "row": 7,
+              "col": 3,
+              "value": "Herrengraben 3, 20459 Hamburg"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 3,
+              "value": "Demurrage & Detention Freetime and Tariff / Germany"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 3,
+              "value": "Valid as from 01st February 2025"
+            },
+            {
+              "row": 10,
+              "col": 8,
+              "value": "CUR : EUR"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 3,
+              "value": "Please note new lead time between empty pick up and ETB of mother vessel, as advised"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 3,
+              "value": "Please always check cargo opening times at POL "
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "row": 13,
+              "col": 3,
+              "value": "Outbound"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 3,
+              "value": "Kind"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "Cntr Type"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": "CUR"
+            },
+            {
+              "row": 14,
+              "col": 6,
+              "value": "Free day"
+            },
+            {
+              "row": 14,
+              "col": 7,
+              "value": "Date"
+            },
+            {
+              "row": 14,
+              "col": 9,
+              "value": "Size"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 7,
+              "value": "FM"
+            },
+            {
+              "row": 15,
+              "col": 8,
+              "value": "TO"
+            },
+            {
+              "row": 15,
+              "col": 9,
+              "value": "20'"
+            },
+            {
+              "row": 15,
+              "col": 10,
+              "value": "40'/4H"
+            },
+            {
+              "row": 15,
+              "col": 11,
+              "value": "45'"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 3,
+              "value": "Demurrage"
+            },
+            {
+              "row": 16,
+              "col": 4,
+              "value": "Dry"
+            },
+            {
+              "row": 16,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 16,
+              "col": 6,
+              "value": "6 Working Days"
+            },
+            {
+              "row": 16,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 16,
+              "col": 8,
+              "value": 7
+            },
+            {
+              "row": 16,
+              "col": 9,
+              "value": 60
+            },
+            {
+              "row": 16,
+              "col": 10,
+              "value": 110
+            },
+            {
+              "row": 16,
+              "col": 11,
+              "value": 110
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 7,
+              "value": 8
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": 14
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": 90
+            },
+            {
+              "row": 17,
+              "col": 10,
+              "value": 150
+            },
+            {
+              "row": 17,
+              "col": 11,
+              "value": 150
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 7,
+              "value": 15
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": 120
+            },
+            {
+              "row": 18,
+              "col": 10,
+              "value": 190
+            },
+            {
+              "row": 18,
+              "col": 11,
+              "value": 190
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 3,
+              "value": "Demurrage"
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": "RF"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": "4 Working Days"
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": 10
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": 150
+            },
+            {
+              "row": 20,
+              "col": 10,
+              "value": 180
+            },
+            {
+              "row": 20,
+              "col": 11,
+              "value": 180
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 7,
+              "value": 11
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": 14
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": 240
+            },
+            {
+              "row": 21,
+              "col": 10,
+              "value": 250
+            },
+            {
+              "row": 21,
+              "col": 11,
+              "value": 250
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 7,
+              "value": 15
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": 280
+            },
+            {
+              "row": 22,
+              "col": 10,
+              "value": 350
+            },
+            {
+              "row": 22,
+              "col": 11,
+              "value": 350
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 3,
+              "value": "Demurrage"
+            },
+            {
+              "row": 24,
+              "col": 4,
+              "value": "DG"
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": "3 Working Days"
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 24,
+              "col": 8,
+              "value": 7
+            },
+            {
+              "row": 24,
+              "col": 9,
+              "value": 100
+            },
+            {
+              "row": 24,
+              "col": 10,
+              "value": 140
+            },
+            {
+              "row": 24,
+              "col": 11,
+              "value": 140
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 7,
+              "value": 8
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": 14
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": 130
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": 170
+            },
+            {
+              "row": 25,
+              "col": 11,
+              "value": 170
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 7,
+              "value": 15
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": 160
+            },
+            {
+              "row": 26,
+              "col": 10,
+              "value": 200
+            },
+            {
+              "row": 26,
+              "col": 11,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 3,
+              "value": "Demurrage"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": "Special Equipment"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": "5 Working Days"
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": 7
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": 90
+            },
+            {
+              "row": 28,
+              "col": 10,
+              "value": 120
+            },
+            {
+              "row": 28,
+              "col": 11,
+              "value": 120
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 7,
+              "value": 8
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": 14
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": 125
+            },
+            {
+              "row": 29,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 29,
+              "col": 11,
+              "value": 160
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 7,
+              "value": 15
+            },
+            {
+              "row": 30,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 30,
+              "col": 9,
+              "value": 160
+            },
+            {
+              "row": 30,
+              "col": 10,
+              "value": 200
+            },
+            {
+              "row": 30,
+              "col": 11,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 3,
+              "value": "Detention"
+            },
+            {
+              "row": 32,
+              "col": 4,
+              "value": "Dry"
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 32,
+              "col": 6,
+              "value": "7 Working Days"
+            },
+            {
+              "row": 32,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 32,
+              "col": 8,
+              "value": 3
+            },
+            {
+              "row": 32,
+              "col": 9,
+              "value": 50
+            },
+            {
+              "row": 32,
+              "col": 10,
+              "value": 65
+            },
+            {
+              "row": 32,
+              "col": 11,
+              "value": 65
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 7,
+              "value": 4
+            },
+            {
+              "row": 33,
+              "col": 8,
+              "value": 10
+            },
+            {
+              "row": 33,
+              "col": 9,
+              "value": 70
+            },
+            {
+              "row": 33,
+              "col": 10,
+              "value": 95
+            },
+            {
+              "row": 33,
+              "col": 11,
+              "value": 95
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 7,
+              "value": 11
+            },
+            {
+              "row": 34,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 34,
+              "col": 9,
+              "value": 90
+            },
+            {
+              "row": 34,
+              "col": 10,
+              "value": 125
+            },
+            {
+              "row": 34,
+              "col": 11,
+              "value": 125
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 3,
+              "value": "Detention"
+            },
+            {
+              "row": 36,
+              "col": 4,
+              "value": "RF"
+            },
+            {
+              "row": 36,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 36,
+              "col": 6,
+              "value": "5 Working Days"
+            },
+            {
+              "row": 36,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 36,
+              "col": 8,
+              "value": 3
+            },
+            {
+              "row": 36,
+              "col": 9,
+              "value": 100
+            },
+            {
+              "row": 36,
+              "col": 10,
+              "value": 130
+            },
+            {
+              "row": 36,
+              "col": 11,
+              "value": 130
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 7,
+              "value": 4
+            },
+            {
+              "row": 37,
+              "col": 8,
+              "value": 10
+            },
+            {
+              "row": 37,
+              "col": 9,
+              "value": 130
+            },
+            {
+              "row": 37,
+              "col": 10,
+              "value": 150
+            },
+            {
+              "row": 37,
+              "col": 11,
+              "value": 150
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 7,
+              "value": 11
+            },
+            {
+              "row": 38,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 38,
+              "col": 9,
+              "value": 185
+            },
+            {
+              "row": 38,
+              "col": 10,
+              "value": 230
+            },
+            {
+              "row": 38,
+              "col": 11,
+              "value": 230
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 3,
+              "value": "Detention"
+            },
+            {
+              "row": 40,
+              "col": 4,
+              "value": "DG"
+            },
+            {
+              "row": 40,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 40,
+              "col": 6,
+              "value": "7 WorkingDays"
+            },
+            {
+              "row": 40,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 40,
+              "col": 8,
+              "value": 3
+            },
+            {
+              "row": 40,
+              "col": 9,
+              "value": 50
+            },
+            {
+              "row": 40,
+              "col": 10,
+              "value": 65
+            },
+            {
+              "row": 40,
+              "col": 11,
+              "value": 65
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 14
+    },
+    {
+      "name": "8. Free Times Netherlands",
+      "dimensions": "A1:AD57",
+      "max_row": 57,
+      "max_col": 30,
+      "merged_regions": [
+        "F15:F16",
+        "E17:E20",
+        "C33:C36",
+        "F25:F28",
+        "C29:C32",
+        "D21:D24",
+        "E29:E32",
+        "C45:C48",
+        "C41:C44",
+        "F45:F48",
+        "D17:D20",
+        "F21:F24",
+        "F17:F20",
+        "C25:C28",
+        "E15:E16",
+        "D45:D48",
+        "C21:C24",
+        "F33:F36",
+        "F41:F44",
+        "C53:J54",
+        "D15:D16",
+        "C56:J56",
+        "D37:D40",
+        "D41:D44",
+        "C17:C20",
+        "G15:H15",
+        "D25:D28",
+        "E45:E48",
+        "D33:D36",
+        "E25:E28",
+        "I15:K15",
+        "F37:F40",
+        "E41:E44",
+        "D29:D32",
+        "E21:E24",
+        "C37:C40",
+        "F29:F32",
+        "C15:C16",
+        "E37:E40",
+        "E33:E36"
+      ],
+      "rows_preview": [
+        {
+          "row": 5,
+          "cells": [
+            {
+              "row": 5,
+              "col": 3,
+              "value": "HMM (Germany) GmbH & Co. KG"
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 3,
+              "value": "As Agent of HMM Co. Ltd., Seoul, Korea"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "row": 7,
+              "col": 3,
+              "value": "Herrengraben 3, 20459 Hamburg"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 3,
+              "value": "Demurrage & Detention Freetime and Tariff / Netherlands"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 3,
+              "value": "Valid as from 23rd December 2023 and valid until further notice"
+            },
+            {
+              "row": 10,
+              "col": 8,
+              "value": "CUR : EUR"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 3,
+              "value": "Please note new lead time between empty pick up and ETB of mother vessel, as advised"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 3,
+              "value": "Please always check cargo opening times at POL "
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "row": 13,
+              "col": 3,
+              "value": "Outbound"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 3,
+              "value": "Kind"
+            },
+            {
+              "row": 15,
+              "col": 4,
+              "value": "Cntr Type"
+            },
+            {
+              "row": 15,
+              "col": 5,
+              "value": "CUR"
+            },
+            {
+              "row": 15,
+              "col": 6,
+              "value": "Free day"
+            },
+            {
+              "row": 15,
+              "col": 7,
+              "value": "Date"
+            },
+            {
+              "row": 15,
+              "col": 9,
+              "value": "Size"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 7,
+              "value": "FM"
+            },
+            {
+              "row": 16,
+              "col": 8,
+              "value": "TO"
+            },
+            {
+              "row": 16,
+              "col": 9,
+              "value": "20'"
+            },
+            {
+              "row": 16,
+              "col": 10,
+              "value": "40'/4H"
+            },
+            {
+              "row": 16,
+              "col": 11,
+              "value": "45'"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 3,
+              "value": "Demurrage"
+            },
+            {
+              "row": 17,
+              "col": 4,
+              "value": "DC"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": "7Working days"
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": 7
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": 50
+            },
+            {
+              "row": 17,
+              "col": 10,
+              "value": 70
+            },
+            {
+              "row": 17,
+              "col": 11,
+              "value": 70
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 7,
+              "value": 8
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": 14
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": 80
+            },
+            {
+              "row": 18,
+              "col": 10,
+              "value": 110
+            },
+            {
+              "row": 18,
+              "col": 11,
+              "value": 110
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 7,
+              "value": 15
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": 90
+            },
+            {
+              "row": 19,
+              "col": 10,
+              "value": 130
+            },
+            {
+              "row": 19,
+              "col": 11,
+              "value": 130
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 3,
+              "value": "Demurrage"
+            },
+            {
+              "row": 21,
+              "col": 4,
+              "value": "DG"
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": "5 Working Days"
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": 7
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": 70
+            },
+            {
+              "row": 21,
+              "col": 10,
+              "value": 90
+            },
+            {
+              "row": 21,
+              "col": 11,
+              "value": 90
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 7,
+              "value": 8
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": 14
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": 100
+            },
+            {
+              "row": 22,
+              "col": 10,
+              "value": 150
+            },
+            {
+              "row": 22,
+              "col": 11,
+              "value": 150
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 7,
+              "value": 15
+            },
+            {
+              "row": 23,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": 120
+            },
+            {
+              "row": 23,
+              "col": 10,
+              "value": 170
+            },
+            {
+              "row": 23,
+              "col": 11,
+              "value": 170
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 3,
+              "value": "Demurrage"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": "Special Equipment"
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": "5 Working Days"
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": 7
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": 110
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": 125
+            },
+            {
+              "row": 25,
+              "col": 11,
+              "value": 125
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 7,
+              "value": 8
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": 180
+            },
+            {
+              "row": 26,
+              "col": 10,
+              "value": 200
+            },
+            {
+              "row": 26,
+              "col": 11,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 3,
+              "value": "Demurrage"
+            },
+            {
+              "row": 29,
+              "col": 4,
+              "value": "RF"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": "5 Working Days"
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": 7
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": 110
+            },
+            {
+              "row": 29,
+              "col": 10,
+              "value": 125
+            },
+            {
+              "row": 29,
+              "col": 11,
+              "value": 125
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 7,
+              "value": 8
+            },
+            {
+              "row": 30,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 30,
+              "col": 9,
+              "value": 180
+            },
+            {
+              "row": 30,
+              "col": 10,
+              "value": 200
+            },
+            {
+              "row": 30,
+              "col": 11,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 3,
+              "value": "Detention"
+            },
+            {
+              "row": 33,
+              "col": 4,
+              "value": "DC"
+            },
+            {
+              "row": 33,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 33,
+              "col": 6,
+              "value": " 7 Working Days"
+            },
+            {
+              "row": 33,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 33,
+              "col": 8,
+              "value": 7
+            },
+            {
+              "row": 33,
+              "col": 9,
+              "value": 40
+            },
+            {
+              "row": 33,
+              "col": 10,
+              "value": 60
+            },
+            {
+              "row": 33,
+              "col": 11,
+              "value": 60
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 7,
+              "value": 8
+            },
+            {
+              "row": 34,
+              "col": 8,
+              "value": 18
+            },
+            {
+              "row": 34,
+              "col": 9,
+              "value": 60
+            },
+            {
+              "row": 34,
+              "col": 10,
+              "value": 80
+            },
+            {
+              "row": 34,
+              "col": 11,
+              "value": 80
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 7,
+              "value": 19
+            },
+            {
+              "row": 35,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 35,
+              "col": 9,
+              "value": 80
+            },
+            {
+              "row": 35,
+              "col": 10,
+              "value": 120
+            },
+            {
+              "row": 35,
+              "col": 11,
+              "value": 120
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 3,
+              "value": "Detention"
+            },
+            {
+              "row": 37,
+              "col": 4,
+              "value": "DG"
+            },
+            {
+              "row": 37,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 37,
+              "col": 6,
+              "value": " 7 Working Days"
+            },
+            {
+              "row": 37,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 37,
+              "col": 8,
+              "value": 7
+            },
+            {
+              "row": 37,
+              "col": 9,
+              "value": 40
+            },
+            {
+              "row": 37,
+              "col": 10,
+              "value": 60
+            },
+            {
+              "row": 37,
+              "col": 11,
+              "value": 60
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 7,
+              "value": 8
+            },
+            {
+              "row": 38,
+              "col": 8,
+              "value": 18
+            },
+            {
+              "row": 38,
+              "col": 9,
+              "value": 60
+            },
+            {
+              "row": 38,
+              "col": 10,
+              "value": 80
+            },
+            {
+              "row": 38,
+              "col": 11,
+              "value": 80
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 7,
+              "value": 19
+            },
+            {
+              "row": 39,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 39,
+              "col": 9,
+              "value": 80
+            },
+            {
+              "row": 39,
+              "col": 10,
+              "value": 120
+            },
+            {
+              "row": 39,
+              "col": 11,
+              "value": 120
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 15
+    },
+    {
+      "name": "9. Free Times Belgium",
+      "dimensions": "A1:AD53",
+      "max_row": 53,
+      "max_col": 30,
+      "merged_regions": [
+        "F40:F43",
+        "C20:C23",
+        "F16:F19",
+        "E20:E23",
+        "F24:F27",
+        "C24:C27",
+        "D40:D43",
+        "D36:D39",
+        "F36:F39",
+        "I14:K14",
+        "C16:C19",
+        "F20:F23",
+        "E28:E31",
+        "D16:D19",
+        "D32:D35",
+        "C40:C43",
+        "F32:F35",
+        "E40:E43",
+        "D28:D31",
+        "E36:E39",
+        "C36:C39",
+        "C49:J50",
+        "G14:H14",
+        "E16:E19",
+        "C52:J52",
+        "C32:C35",
+        "D24:D27",
+        "D14:D15",
+        "E32:E35",
+        "F14:F15",
+        "C28:C31",
+        "F28:F31",
+        "E24:E27",
+        "D20:D23",
+        "C14:C15",
+        "E14:E15"
+      ],
+      "rows_preview": [
+        {
+          "row": 5,
+          "cells": [
+            {
+              "row": 5,
+              "col": 3,
+              "value": "HMM (Germany) GmbH & Co. KG"
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 3,
+              "value": "As Agent of HMM Co. Ltd., Seoul, Korea"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "row": 7,
+              "col": 3,
+              "value": "Herrengraben 3, 20459 Hamburg"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 3,
+              "value": "Demurrage & Detention Freetime and Tariff / Belgium"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 3,
+              "value": "Valid as from 1st April 2024 and valid until further notice"
+            },
+            {
+              "row": 10,
+              "col": 8,
+              "value": "CUR : EUR"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 3,
+              "value": "Please note new lead time between empty pick up and ETB of mother vessel, as advised"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 3,
+              "value": "Please always check cargo opening times at POL "
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "row": 13,
+              "col": 3,
+              "value": "Outbound"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 3,
+              "value": "Kind"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "Cntr Type"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": "CUR"
+            },
+            {
+              "row": 14,
+              "col": 6,
+              "value": "Free day"
+            },
+            {
+              "row": 14,
+              "col": 7,
+              "value": "Date"
+            },
+            {
+              "row": 14,
+              "col": 9,
+              "value": "Size"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 7,
+              "value": "FM"
+            },
+            {
+              "row": 15,
+              "col": 8,
+              "value": "TO"
+            },
+            {
+              "row": 15,
+              "col": 9,
+              "value": "20'"
+            },
+            {
+              "row": 15,
+              "col": 10,
+              "value": "40'/4H"
+            },
+            {
+              "row": 15,
+              "col": 11,
+              "value": "45'"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 3,
+              "value": "Demurrage"
+            },
+            {
+              "row": 16,
+              "col": 4,
+              "value": "DC"
+            },
+            {
+              "row": 16,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 16,
+              "col": 6,
+              "value": "7 Working Days"
+            },
+            {
+              "row": 16,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 16,
+              "col": 8,
+              "value": 5
+            },
+            {
+              "row": 16,
+              "col": 9,
+              "value": 60
+            },
+            {
+              "row": 16,
+              "col": 10,
+              "value": 90
+            },
+            {
+              "row": 16,
+              "col": 11,
+              "value": 90
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 7,
+              "value": 6
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": 80
+            },
+            {
+              "row": 17,
+              "col": 10,
+              "value": 130
+            },
+            {
+              "row": 17,
+              "col": 11,
+              "value": 130
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 3,
+              "value": "Demurrage"
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": "RF"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": "4 Working Days"
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": 3
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": 130
+            },
+            {
+              "row": 20,
+              "col": 10,
+              "value": 160
+            },
+            {
+              "row": 20,
+              "col": 11,
+              "value": 160
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 7,
+              "value": 4
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": 170
+            },
+            {
+              "row": 21,
+              "col": 10,
+              "value": 210
+            },
+            {
+              "row": 21,
+              "col": 11,
+              "value": 210
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 3,
+              "value": "Demurrage"
+            },
+            {
+              "row": 24,
+              "col": 4,
+              "value": "Special Equipment "
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": "4 Working Days"
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 24,
+              "col": 8,
+              "value": 3
+            },
+            {
+              "row": 24,
+              "col": 9,
+              "value": 80
+            },
+            {
+              "row": 24,
+              "col": 10,
+              "value": 110
+            },
+            {
+              "row": 24,
+              "col": 11,
+              "value": 110
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 7,
+              "value": 4
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": 165
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": 188
+            },
+            {
+              "row": 25,
+              "col": 11,
+              "value": 188
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 3,
+              "value": "Demurrage"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": "DG"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": "4 Working Days"
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": 3
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": 80
+            },
+            {
+              "row": 28,
+              "col": 10,
+              "value": 110
+            },
+            {
+              "row": 28,
+              "col": 11,
+              "value": 110
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 7,
+              "value": 4
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": 165
+            },
+            {
+              "row": 29,
+              "col": 10,
+              "value": 188
+            },
+            {
+              "row": 29,
+              "col": 11,
+              "value": 188
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 3,
+              "value": "Detention"
+            },
+            {
+              "row": 32,
+              "col": 4,
+              "value": "DC/DG"
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 32,
+              "col": 6,
+              "value": "5 Working Days"
+            },
+            {
+              "row": 32,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 32,
+              "col": 8,
+              "value": 7
+            },
+            {
+              "row": 32,
+              "col": 9,
+              "value": 50
+            },
+            {
+              "row": 32,
+              "col": 10,
+              "value": 70
+            },
+            {
+              "row": 32,
+              "col": 11,
+              "value": 70
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 7,
+              "value": 8
+            },
+            {
+              "row": 33,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 33,
+              "col": 9,
+              "value": 70
+            },
+            {
+              "row": 33,
+              "col": 10,
+              "value": 90
+            },
+            {
+              "row": 33,
+              "col": 11,
+              "value": 90
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 3,
+              "value": "Detention"
+            },
+            {
+              "row": 36,
+              "col": 4,
+              "value": "RF"
+            },
+            {
+              "row": 36,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 36,
+              "col": 6,
+              "value": "5 Working Days"
+            },
+            {
+              "row": 36,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 36,
+              "col": 8,
+              "value": 7
+            },
+            {
+              "row": 36,
+              "col": 9,
+              "value": 80
+            },
+            {
+              "row": 36,
+              "col": 10,
+              "value": 100
+            },
+            {
+              "row": 36,
+              "col": 11,
+              "value": 100
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 7,
+              "value": 8
+            },
+            {
+              "row": 37,
+              "col": 8,
+              "value": 999
+            },
+            {
+              "row": 37,
+              "col": 9,
+              "value": 120
+            },
+            {
+              "row": 37,
+              "col": 10,
+              "value": 150
+            },
+            {
+              "row": 37,
+              "col": 11,
+              "value": 150
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 3,
+              "value": "Detention"
+            },
+            {
+              "row": 40,
+              "col": 4,
+              "value": "Special Equipment"
+            },
+            {
+              "row": 40,
+              "col": 5,
+              "value": "EUR"
+            },
+            {
+              "row": 40,
+              "col": 6,
+              "value": "5 Working Days"
+            },
+            {
+              "row": 40,
+              "col": 7,
+              "value": 1
+            },
+            {
+              "row": 40,
+              "col": 8,
+              "value": 7
+            },
+            {
+              "row": 40,
+              "col": 9,
+              "value": 60
+            },
+            {
+              "row": 40,
+              "col": 10,
+              "value": 85
+            },
+            {
+              "row": 40,
+              "col": 11,
+              "value": 85
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 14
+    },
+    {
+      "name": "10. T&D Surcharges",
+      "dimensions": "A1:AD47",
+      "max_row": 47,
+      "max_col": 30,
+      "merged_regions": [
+        "E10:G10",
+        "E28:G28",
+        "C47:H47",
+        "C6:D6",
+        "E19:G19",
+        "E13:G13",
+        "C7:C29",
+        "E9:G9",
+        "E15:G15",
+        "E6:G6",
+        "D23:D25",
+        "E11:G11",
+        "E27:G27",
+        "E26:G26",
+        "D16:D17",
+        "E7:G7",
+        "E25:G25",
+        "E16:G16",
+        "E22:G22",
+        "E18:G18",
+        "E12:G12",
+        "E21:G21",
+        "E24:G24",
+        "E14:G14",
+        "E23:G23",
+        "E8:G8",
+        "E17:G17",
+        "D7:D9",
+        "E29:G29",
+        "E20:G20"
+      ],
+      "rows_preview": [
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 4,
+              "value": "EXPORT - T & D SURCHARGES GERMANY"
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 3,
+              "value": "DESCRIPTION"
+            },
+            {
+              "row": 6,
+              "col": 5,
+              "value": "RATE"
+            },
+            {
+              "row": 6,
+              "col": 8,
+              "value": "REMARKS"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "row": 7,
+              "col": 4,
+              "value": "Documentation Fee (DOL)"
+            },
+            {
+              "row": 7,
+              "col": 5,
+              "value": "50 EUR"
+            },
+            {
+              "row": 7,
+              "col": 8,
+              "value": "Per B/L for S/I sent via INTTRA /GT Nexus /CARGOSMART and other Portals"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 5,
+              "value": "40 EUR "
+            },
+            {
+              "row": 8,
+              "col": 8,
+              "value": "Per B/L for S/I sent via  Dakosy / EDI"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 5,
+              "value": "30 EUR "
+            },
+            {
+              "row": 9,
+              "col": 8,
+              "value": "Per B/L for S/I sent via HMM website / Wisetech"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 4,
+              "value": "Late Shipping Instruction (LSI)"
+            },
+            {
+              "row": 10,
+              "col": 5,
+              "value": "60 EUR"
+            },
+            {
+              "row": 10,
+              "col": 8,
+              "value": "Per B/L for S/I sent after vessel closing"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 4,
+              "value": "B/L Correction Fee (BCF)"
+            },
+            {
+              "row": 11,
+              "col": 5,
+              "value": "75 EUR"
+            },
+            {
+              "row": 11,
+              "col": 8,
+              "value": "First correction before vessel closing is free, afterwards each B/L correction will be charged"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 4,
+              "value": "B/L Re-Issuing Fee (BRF)"
+            },
+            {
+              "row": 12,
+              "col": 5,
+              "value": "80 EUR"
+            },
+            {
+              "row": 12,
+              "col": 8,
+              "value": "Per set of 3 original B/L. B/L corrections are not incl."
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "row": 13,
+              "col": 4,
+              "value": "Lost B/L Handling Charge (LBL)"
+            },
+            {
+              "row": 13,
+              "col": 5,
+              "value": "300 EUR"
+            },
+            {
+              "row": 13,
+              "col": 8,
+              "value": "Requires LOI & bank guarantee of 50% from commodity value. B/L corrections are not incl."
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 4,
+              "value": "Switch B/L (SBD)"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": "100 EUR"
+            },
+            {
+              "row": 14,
+              "col": 8,
+              "value": "Per set of 3 original B/L"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 4,
+              "value": "Surrender Fee (SRF)"
+            },
+            {
+              "row": 15,
+              "col": 5,
+              "value": "50 EUR"
+            },
+            {
+              "row": 15,
+              "col": 8,
+              "value": "Per B/L telex release"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 4,
+              "value": "Certificate Issue Service (LCI)"
+            },
+            {
+              "row": 16,
+              "col": 5,
+              "value": "45 EUR"
+            },
+            {
+              "row": 16,
+              "col": 8,
+              "value": "Per set of 3 certificate copies"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 5,
+              "value": "100 EUR"
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": "Per notary signature on certificates"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 4,
+              "value": "Postage (PST)"
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": "30 EUR"
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": "Per envelope within Germany. Other countries on request only and price may vary"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 4,
+              "value": "Advanced Manifest (AFN/AM2)"
+            },
+            {
+              "row": 19,
+              "col": 5,
+              "value": "50 USD"
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": "Per B/L resubmission for advanced manifest"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 4,
+              "value": "Administration Fee (ADF)"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": "400 USD"
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": "Applies for change of destination after cargo has been loaded on the vessel"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 4,
+              "value": "Diversion Charge (DVS)"
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": "May vary"
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": "Additional charges to the change of destination (e.g. restows etc.)"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 4,
+              "value": "General Misdeclaration Penalty"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": "15000 USD"
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": "Applicable for non DG such as charcoal, activated or non activated carbon and carbon black and other prohibited commodities. Applicable as from Gate-in of container, valid for any amendment of shipping instruction or BL"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 4,
+              "value": "General Misdeclaration Penalty"
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": "10000 USD"
+            },
+            {
+              "row": 23,
+              "col": 8,
+              "value": "General Cargo"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 5,
+              "value": "20000 USD"
+            },
+            {
+              "row": 24,
+              "col": 8,
+              "value": "Waste Cargo"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 5,
+              "value": "50000 USD"
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": "Dangerous Cargo"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 4,
+              "value": "Triangulation Fee"
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": "EUR 55"
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": "For imports container reused for export without touching a depot"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 4,
+              "value": "Weight Discrepancy Fee"
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": "USD 100"
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": "If VGM weight differs from SI weight by more than 5%"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 4,
+              "value": "UK S&S"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": "USD 35"
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": "Per BL for all cargo which vessel calls UK after container is loaded, whether scheduled or not."
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 4,
+              "value": "UK S&S Amendment"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": "USD 50"
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": "Per Amendment of Declaration"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 6
+    },
+    {
+      "name": "11. Operation Charges",
+      "dimensions": "A1:AD59",
+      "max_row": 59,
+      "max_col": 30,
+      "merged_regions": [
+        "D13:F13",
+        "D11:F11",
+        "D27:F27",
+        "C24:G24",
+        "D32:F32",
+        "C15:G15",
+        "C20:C23",
+        "D17:F17",
+        "C10:C11",
+        "D7:F7",
+        "C16:C17",
+        "G34:G35",
+        "D16:F16",
+        "D28:F28",
+        "C25:C28",
+        "D18:F18",
+        "D12:F12",
+        "G37:G38",
+        "D30:F30",
+        "D39:F39",
+        "D25:F25",
+        "D8:F8",
+        "D33:F33",
+        "C9:G9",
+        "C59:G59",
+        "D14:F14",
+        "D29:F29",
+        "D23:F23",
+        "D35:F35",
+        "C7:C8",
+        "D26:F26",
+        "C32:C33",
+        "D20:F20",
+        "D34:F34",
+        "D10:F10",
+        "D19:F19",
+        "C34:C35",
+        "D31:F31",
+        "D22:F22",
+        "D40:F40",
+        "D36:F36",
+        "C37:C40",
+        "D21:F21",
+        "C18:C19",
+        "D6:F6",
+        "D37:F38"
+      ],
+      "rows_preview": [
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 4,
+              "value": "EXPORT - OPERATION SURCHARGES GERMANY"
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 3,
+              "value": "Description"
+            },
+            {
+              "row": 6,
+              "col": 4,
+              "value": "RATE"
+            },
+            {
+              "row": 6,
+              "col": 7,
+              "value": "REMARKS"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "row": 7,
+              "col": 3,
+              "value": "DG LABELLING AND NEUTRALIZATION"
+            },
+            {
+              "row": 7,
+              "col": 4,
+              "value": "85 EUR* per Cntr (4 LABELS INCL)"
+            },
+            {
+              "row": 7,
+              "col": 7,
+              "value": "AT GATE"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 4,
+              "value": "250 EUR* per Cntr (4 LABELS INCL)"
+            },
+            {
+              "row": 8,
+              "col": 7,
+              "value": "AT YARD"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 3,
+              "value": "*ADD LABELS TO BE CHARGED AT COSTS + EUR 75 ADMIN FEE"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 3,
+              "value": "GATE MOVES"
+            },
+            {
+              "row": 10,
+              "col": 4,
+              "value": "200 EUR per Move"
+            },
+            {
+              "row": 10,
+              "col": 7,
+              "value": "EUROGATE & NTB"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 4,
+              "value": "100 EUR per Move"
+            },
+            {
+              "row": 11,
+              "col": 7,
+              "value": "HHLA"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 3,
+              "value": "EXTRA HANDLING"
+            },
+            {
+              "row": 12,
+              "col": 4,
+              "value": "80 EUR per Move"
+            },
+            {
+              "row": 12,
+              "col": 7,
+              "value": "INLAND AND OFFDOCK DEPOTS"
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "row": 13,
+              "col": 3,
+              "value": "STATUS CHANGE PENALTY"
+            },
+            {
+              "row": 13,
+              "col": 4,
+              "value": "100 EUR per Cntr"
+            },
+            {
+              "row": 13,
+              "col": 7,
+              "value": "CHANGE OF VESSEL, DESTINATION, WEIGHT"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 3,
+              "value": "WATERPOLICE INSPECTION"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "300 EUR per Cntr**"
+            },
+            {
+              "row": 14,
+              "col": 7,
+              "value": "HANDLING, STEVEDORAGE, HS SEALING"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 3,
+              "value": "** INITIAL INSPECTION ONLY / IN CASE DEFFICIENCIES FOUND: ADD EXTRA HADLING TO BE CHARGED AT COSTS (SEE VA: EXTRA HANDLING)"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 3,
+              "value": "HS SEALING"
+            },
+            {
+              "row": 16,
+              "col": 4,
+              "value": "85 EUR per Cntr"
+            },
+            {
+              "row": 16,
+              "col": 7,
+              "value": "AT GATE"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 4,
+              "value": "250 EUR PER Cntr"
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": "AT YARD"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 3,
+              "value": "PICTURE SUPPLY"
+            },
+            {
+              "row": 18,
+              "col": 4,
+              "value": "130 EUR per order"
+            },
+            {
+              "row": 18,
+              "col": 7,
+              "value": "BREAKBULK (PROVIDED BY SURVEYOR)"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 4,
+              "value": "330 EUR per Cntr"
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": "CONTAINER (MOVE, STEVEDORE & PICTURES)"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 3,
+              "value": "XRAY SCREENING"
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": "300 EUR per Cntr"
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": "AT YARD (ALL TYPES)"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 4,
+              "value": "500 EUR per Cntr"
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": "OUT OF YARD (STANDARD  CTR)"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 4,
+              "value": "575 EUR per Cntr"
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": "OUT OF YARD (REEFER)"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 4,
+              "value": "650 EUR per Cntr"
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": "OUT OF  YARD (DG + OOG)"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 3,
+              "value": "*** INCL 30 MIN WAITING TIME / ADD 30 EURO PER COMMENCTED 30 MINS"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 3,
+              "value": "VGM"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": "400 EUR per Cntr"
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": "VGM WEIGHING AT YARD"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 4,
+              "value": "100 EUR per Cntr"
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": "MANUAL VGM INPUT BY HMM GER"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 4,
+              "value": "100 USD per Cntr"
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": "WRONG VGM SUBMISSION"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 4,
+              "value": "75 EUR per Cntr"
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": "LATE VGM CALL"
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 3,
+              "value": "BOOKING AMENDMENT FEE"
+            },
+            {
+              "row": 29,
+              "col": 4,
+              "value": "75 EUR per BKG"
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": "FROM SECOND BOOKING AMENDMENT"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 3,
+              "value": "LATE BOOKING CANCELLATION"
+            },
+            {
+              "row": 30,
+              "col": 4,
+              "value": "75 EUR per TEU"
+            },
+            {
+              "row": 30,
+              "col": 7,
+              "value": "IF BOOKING CANCELLED LESS THAN 5 CALENDAR DAYS PRIOR VGM CLOSING (COUNTING INCL VGM CLOSING DAY)"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 3,
+              "value": "LOST SLOT PENALTY"
+            },
+            {
+              "row": 31,
+              "col": 4,
+              "value": "225 EUR per Cntr"
+            },
+            {
+              "row": 31,
+              "col": 7,
+              "value": "WHEN LOADING IS CANCELED BY TERMINAL DUE TO SHIPPERS REASON SUCH AS: CUSTOMS HOLD, CONTAINER IS DAMAGED OR COMMODITY ISSUE FOUND, CONTAINER MISSES TERMINAL CUT OFF, ROLL OVER REQUESTED (refer to www.hmm21.com)"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 3,
+              "value": "ITT TRANSFER IN DEBRV (NTB <> MSC/HLG)"
+            },
+            {
+              "row": 32,
+              "col": 4,
+              "value": "130 EUR per Cntr "
+            },
+            {
+              "row": 32,
+              "col": 7,
+              "value": "STANDARD AND REEFER CNTR"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 4,
+              "value": "260 EUR per Cntr"
+            },
+            {
+              "row": 33,
+              "col": 7,
+              "value": "OOG CONTAINER"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 3,
+              "value": "VARIOUS EXTRA HANDLING"
+            },
+            {
+              "row": 34,
+              "col": 4,
+              "value": "AT COSTS"
+            },
+            {
+              "row": 34,
+              "col": 7,
+              "value": "RELASHING, RESTUFFING, INSPECTIONS, ETC."
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 4,
+              "value": "+ 75 EUR ADMIN FEE per Order"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 3,
+              "value": "REEFER TEMPERATURE MODIFICATION CHARGE"
+            },
+            {
+              "row": 36,
+              "col": 4,
+              "value": "175 USD"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 3,
+              "value": "STORAGE"
+            },
+            {
+              "row": 37,
+              "col": 4,
+              "value": "As per Lines Tariff"
+            },
+            {
+              "row": 37,
+              "col": 7,
+              "value": "EUROGATE & NTB"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 4,
+              "value": "100 EUR per TEU and Day (Standard Container)"
+            },
+            {
+              "row": 39,
+              "col": 7,
+              "value": "HHLA"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 4,
+              "value": "150 EUR per TEU and Day (Reefer, OOG, DG)"
+            },
+            {
+              "row": 40,
+              "col": 7,
+              "value": "HHLA"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 6
+    }
+  ]
+}

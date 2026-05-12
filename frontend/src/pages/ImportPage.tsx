@@ -10,7 +10,8 @@ import {
 } from 'antd';
 import { InboxOutlined } from '@ant-design/icons';
 import type { UploadProps } from 'antd';
-import { ratesheetApi, ImportResult } from '../api/ratesheetApi';
+import { ratesheetApi } from '../api/ratesheetApi';
+import type { ImportResult } from '../api/ratesheetApi';
 
 const { Dragger } = Upload;
 const { Text } = Typography;

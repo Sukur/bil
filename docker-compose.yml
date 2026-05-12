@@ -1,0 +1,17 @@
+services:
+  app:
+    build: .
+    image: bil:latest
+    container_name: bil
+    ports:
+      - "${PORT:-8080}:8080"
+    environment:
+      - PORT=8080
+    volumes:
+      - bil_data:/app/data
+    restart: unless-stopped
+
+volumes:
+  bil_data:
+    driver: local
+

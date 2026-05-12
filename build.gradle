@@ -1,12 +1,12 @@
 plugins {
     id 'java'
-    id 'org.springframework.boot' version '4.0.3'
-    id 'io.spring.dependency-management' version '1.1.7'
+    id 'org.springframework.boot' version '3.3.5'
+    id 'io.spring.dependency-management' version '1.1.6'
 }
 
 group = 'com.bil'
 version = '0.0.1-SNAPSHOT'
-description = 'bil'
+description = 'BIL — Digital Freight Forwarder Platform'
 
 java {
     toolchain {
@@ -14,16 +14,83 @@ java {
     }
 }
 
+configurations {
+    compileOnly {
+        extendsFrom annotationProcessor
+    }
+}
+
 repositories {
     mavenCentral()
 }
 
+ext {
+    poiVersion = '5.3.0'
+    mapstructVersion = '1.6.2'
+    testcontainersVersion = '1.20.3'
+}
+
 dependencies {
-    implementation 'org.springframework.boot:spring-boot-starter'
+    // Spring Boot core
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-validation'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    implementation 'org.springframework.boot:spring-boot-starter-actuator'
+
+    // OpenAPI / Swagger UI
+    implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.6.0'
+
+    // Liquibase
+    implementation 'org.liquibase:liquibase-core'
+
+    // Database drivers
+    runtimeOnly 'org.postgresql:postgresql'
+    runtimeOnly 'com.h2database:h2'
+
+    // Excel ingestion
+    implementation "org.apache.poi:poi:${poiVersion}"
+    implementation "org.apache.poi:poi-ooxml:${poiVersion}"
+    implementation 'org.apache.tika:tika-core:2.9.2'
+
+    // Mapping
+    implementation "org.mapstruct:mapstruct:${mapstructVersion}"
+    annotationProcessor "org.mapstruct:mapstruct-processor:${mapstructVersion}"
+
+    // Lombok
+    compileOnly 'org.projectlombok:lombok'
+    annotationProcessor 'org.projectlombok:lombok'
+    testCompileOnly 'org.projectlombok:lombok'
+    testAnnotationProcessor 'org.projectlombok:lombok'
+
+    // Test
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testImplementation 'org.springframework.boot:spring-boot-testcontainers'
+    testImplementation "org.testcontainers:junit-jupiter:${testcontainersVersion}"
+    testImplementation "org.testcontainers:postgresql:${testcontainersVersion}"
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 }
 
 tasks.named('test') {
     useJUnitPlatform()
 }
+
+// ── Frontend build integration ──────────────────────────────────────────────
+def frontendDir = "$projectDir/frontend"
+
+task installFrontend(type: Exec) {
+    workingDir frontendDir
+    commandLine 'npm', 'install'
+    inputs.file  "$frontendDir/package.json"
+    outputs.dir  "$frontendDir/node_modules"
+}
+
+task buildFrontend(type: Exec, dependsOn: installFrontend) {
+    workingDir frontendDir
+    commandLine 'npm', 'run', 'build'
+    inputs.dir   "$frontendDir/src"
+    inputs.files "$frontendDir/vite.config.ts", "$frontendDir/package.json"
+    outputs.dir  "$projectDir/src/main/resources/static"
+}
+
+processResources.dependsOn buildFrontend
+

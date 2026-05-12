@@ -101,7 +101,10 @@ public class CoscoReeferParser implements RatesheetParser {
                 String pol = nameToLocode(polRaw.trim());
                 if (pol == null) continue;
                 String podCode = nameToLocode(pod.trim());
-                String finalPod = podCode != null ? podCode : pod.toUpperCase().replaceAll("[^A-Z0-9].*", "").substring(0, Math.min(5, pod.length()));
+                String cleaned = pod.toUpperCase().replaceAll("[^A-Z0-9].*", "");
+                String finalPod = podCode != null ? podCode
+                        : (cleaned.length() >= 2 ? cleaned.substring(0, Math.min(5, cleaned.length())) : null);
+                if (finalPod == null) continue;
 
                 if (rf20 != null) out.add(line(pol, finalPod, pod, Equipment.RF20, rf20, currency));
                 if (rq40 != null) out.add(line(pol, finalPod, pod, Equipment.HR40, rq40, currency));
@@ -126,16 +129,24 @@ public class CoscoReeferParser implements RatesheetParser {
             case "ROTTERDAM"         -> "NLRTM";
             case "ANTWERP"           -> "BEANR";
             case "BREMERHAVEN"       -> "DEBRV";
+            case "WILHELMSHAVEN"     -> "DEWVN";
             case "DALIAN"            -> "CNDLC";
             case "SHANGHAI"          -> "CNSHA";
             case "QINGDAO"           -> "CNTAO";
             case "NINGBO"            -> "CNNGB";
-            case "XINGANG", "TIANJIN"-> "CNTXG";
+            case "TIANJIN", "XINGANG", "TIANJINXINGANG" -> "CNTXG";
+            case "XIAMEN"            -> "CNXMN";
+            case "YANTIAN"           -> "CNYTN";
+            case "NANSHA"            -> "CNNSA";
+            case "HONGKONG"          -> "HKHKG";
+            case "BUSAN", "PUSAN"    -> "KRBSN";
+            case "KAOHSIUNG"         -> "TWKHH";
+            case "SINGAPORE"         -> "SGSIN";
+            case "PORTKELANG", "PORTKLANG" -> "MYPKG";
             case "NHAVASHEVA"        -> "INNSA";
             case "MUNDRA"            -> "INMUN";
             case "COLOMBO"           -> "LKCMB";
             case "KARACHI"           -> "PKKAR";
-            case "SINGAPORE"         -> "SGSIN";
             case "PARANAGUA"         -> "BRPNZ";
             case "SANTOS"            -> "BRSSZ";
             case "RIODEJANEIRO"      -> "BRRJO";

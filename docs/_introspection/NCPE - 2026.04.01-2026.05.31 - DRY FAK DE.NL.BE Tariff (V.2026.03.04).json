@@ -1,0 +1,1959 @@
+{
+  "file": "NCPE - 2026.04.01-2026.05.31 - DRY FAK DE.NL.BE Tariff (V.2026.03.04).xlsx",
+  "sheets": [
+    {
+      "name": "FAK",
+      "dimensions": "A1:AD478",
+      "max_row": 478,
+      "max_col": 30,
+      "merged_regions": [
+        "G6:I6",
+        "D6:F6",
+        "A6:C6"
+      ],
+      "rows_preview": [
+        {
+          "row": 1,
+          "cells": [
+            {
+              "row": 1,
+              "col": 1,
+              "value": "NCP Tariff"
+            },
+            {
+              "row": 1,
+              "col": 4,
+              "value": "Update: 04.03.2026"
+            }
+          ]
+        },
+        {
+          "row": 2,
+          "cells": [
+            {
+              "row": 2,
+              "col": 1,
+              "value": "Pay Term: Prepaid Only, CY to CY."
+            }
+          ]
+        },
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 1,
+              "value": "Freight incl BF/CF/AG/SZ/TA/BK/LR/OW/OTHC/PF/CG/CO/EU, plus DTHC/DF/EN/AH/CM/CL and other local charges if any."
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 1,
+              "value": "Validity: 2026.04.01-2026.05.31 (Based on LTS)"
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 1,
+              "value": "POL"
+            },
+            {
+              "row": 6,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 6,
+              "col": 7,
+              "value": "Freight"
+            },
+            {
+              "row": 6,
+              "col": 10,
+              "value": "Note"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "row": 7,
+              "col": 1,
+              "value": "Country"
+            },
+            {
+              "row": 7,
+              "col": 2,
+              "value": "Port"
+            },
+            {
+              "row": 7,
+              "col": 3,
+              "value": "Code"
+            },
+            {
+              "row": 7,
+              "col": 4,
+              "value": "Country"
+            },
+            {
+              "row": 7,
+              "col": 5,
+              "value": "Port"
+            },
+            {
+              "row": 7,
+              "col": 6,
+              "value": "Code"
+            },
+            {
+              "row": 7,
+              "col": 7,
+              "value": "20'DC"
+            },
+            {
+              "row": 7,
+              "col": 8,
+              "value": "40'DC"
+            },
+            {
+              "row": 7,
+              "col": 9,
+              "value": "40'HQ"
+            },
+            {
+              "row": 7,
+              "col": 10,
+              "value": "TS Port"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 1,
+              "value": "Belgium"
+            },
+            {
+              "row": 8,
+              "col": 2,
+              "value": "ANTWERPEN"
+            },
+            {
+              "row": 8,
+              "col": 3,
+              "value": "BEANR"
+            },
+            {
+              "row": 8,
+              "col": 4,
+              "value": "Australia"
+            },
+            {
+              "row": 8,
+              "col": 5,
+              "value": "BRISBANE"
+            },
+            {
+              "row": 8,
+              "col": 6,
+              "value": "AUBNE"
+            },
+            {
+              "row": 8,
+              "col": 7,
+              "value": 1600
+            },
+            {
+              "row": 8,
+              "col": 8,
+              "value": 2800
+            },
+            {
+              "row": 8,
+              "col": 9,
+              "value": 2800
+            },
+            {
+              "row": 8,
+              "col": 10,
+              "value": "SGSIN+TWKHH"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 1,
+              "value": "Germany"
+            },
+            {
+              "row": 9,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 9,
+              "col": 3,
+              "value": "DEHAM"
+            },
+            {
+              "row": 9,
+              "col": 4,
+              "value": "Australia"
+            },
+            {
+              "row": 9,
+              "col": 5,
+              "value": "BRISBANE"
+            },
+            {
+              "row": 9,
+              "col": 6,
+              "value": "AUBNE"
+            },
+            {
+              "row": 9,
+              "col": 7,
+              "value": 1600
+            },
+            {
+              "row": 9,
+              "col": 8,
+              "value": 2800
+            },
+            {
+              "row": 9,
+              "col": 9,
+              "value": 2800
+            },
+            {
+              "row": 9,
+              "col": 10,
+              "value": "SGSIN+TWKHH"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 1,
+              "value": "Netherlands"
+            },
+            {
+              "row": 10,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 10,
+              "col": 3,
+              "value": "NLRTM"
+            },
+            {
+              "row": 10,
+              "col": 4,
+              "value": "Australia"
+            },
+            {
+              "row": 10,
+              "col": 5,
+              "value": "BRISBANE"
+            },
+            {
+              "row": 10,
+              "col": 6,
+              "value": "AUBNE"
+            },
+            {
+              "row": 10,
+              "col": 7,
+              "value": 1600
+            },
+            {
+              "row": 10,
+              "col": 8,
+              "value": 2800
+            },
+            {
+              "row": 10,
+              "col": 9,
+              "value": 2800
+            },
+            {
+              "row": 10,
+              "col": 10,
+              "value": "SGSIN+TWKHH"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 1,
+              "value": "Belgium"
+            },
+            {
+              "row": 11,
+              "col": 2,
+              "value": "ANTWERPEN"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "BEANR"
+            },
+            {
+              "row": 11,
+              "col": 4,
+              "value": "Australia"
+            },
+            {
+              "row": 11,
+              "col": 5,
+              "value": "MELBOURNE"
+            },
+            {
+              "row": 11,
+              "col": 6,
+              "value": "AUMEL"
+            },
+            {
+              "row": 11,
+              "col": 7,
+              "value": 1600
+            },
+            {
+              "row": 11,
+              "col": 8,
+              "value": 2800
+            },
+            {
+              "row": 11,
+              "col": 9,
+              "value": 2800
+            },
+            {
+              "row": 11,
+              "col": 10,
+              "value": "SGSIN+TWKHH"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 1,
+              "value": "Germany"
+            },
+            {
+              "row": 12,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "DEHAM"
+            },
+            {
+              "row": 12,
+              "col": 4,
+              "value": "Australia"
+            },
+            {
+              "row": 12,
+              "col": 5,
+              "value": "MELBOURNE"
+            },
+            {
+              "row": 12,
+              "col": 6,
+              "value": "AUMEL"
+            },
+            {
+              "row": 12,
+              "col": 7,
+              "value": 1600
+            },
+            {
+              "row": 12,
+              "col": 8,
+              "value": 2800
+            },
+            {
+              "row": 12,
+              "col": 9,
+              "value": 2800
+            },
+            {
+              "row": 12,
+              "col": 10,
+              "value": "SGSIN+TWKHH"
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "row": 13,
+              "col": 1,
+              "value": "Netherlands"
+            },
+            {
+              "row": 13,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 13,
+              "col": 3,
+              "value": "NLRTM"
+            },
+            {
+              "row": 13,
+              "col": 4,
+              "value": "Australia"
+            },
+            {
+              "row": 13,
+              "col": 5,
+              "value": "MELBOURNE"
+            },
+            {
+              "row": 13,
+              "col": 6,
+              "value": "AUMEL"
+            },
+            {
+              "row": 13,
+              "col": 7,
+              "value": 1600
+            },
+            {
+              "row": 13,
+              "col": 8,
+              "value": 2800
+            },
+            {
+              "row": 13,
+              "col": 9,
+              "value": 2800
+            },
+            {
+              "row": 13,
+              "col": 10,
+              "value": "SGSIN+TWKHH"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 1,
+              "value": "Belgium"
+            },
+            {
+              "row": 14,
+              "col": 2,
+              "value": "ANTWERPEN"
+            },
+            {
+              "row": 14,
+              "col": 3,
+              "value": "BEANR"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "Australia"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": "SYDNEY"
+            },
+            {
+              "row": 14,
+              "col": 6,
+              "value": "AUSYD"
+            },
+            {
+              "row": 14,
+              "col": 7,
+              "value": 1600
+            },
+            {
+              "row": 14,
+              "col": 8,
+              "value": 2800
+            },
+            {
+              "row": 14,
+              "col": 9,
+              "value": 2800
+            },
+            {
+              "row": 14,
+              "col": 10,
+              "value": "SGSIN+TWKHH"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 1,
+              "value": "Germany"
+            },
+            {
+              "row": 15,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 15,
+              "col": 3,
+              "value": "DEHAM"
+            },
+            {
+              "row": 15,
+              "col": 4,
+              "value": "Australia"
+            },
+            {
+              "row": 15,
+              "col": 5,
+              "value": "SYDNEY"
+            },
+            {
+              "row": 15,
+              "col": 6,
+              "value": "AUSYD"
+            },
+            {
+              "row": 15,
+              "col": 7,
+              "value": 1600
+            },
+            {
+              "row": 15,
+              "col": 8,
+              "value": 2800
+            },
+            {
+              "row": 15,
+              "col": 9,
+              "value": 2800
+            },
+            {
+              "row": 15,
+              "col": 10,
+              "value": "SGSIN+TWKHH"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 1,
+              "value": "Netherlands"
+            },
+            {
+              "row": 16,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 16,
+              "col": 3,
+              "value": "NLRTM"
+            },
+            {
+              "row": 16,
+              "col": 4,
+              "value": "Australia"
+            },
+            {
+              "row": 16,
+              "col": 5,
+              "value": "SYDNEY"
+            },
+            {
+              "row": 16,
+              "col": 6,
+              "value": "AUSYD"
+            },
+            {
+              "row": 16,
+              "col": 7,
+              "value": 1600
+            },
+            {
+              "row": 16,
+              "col": 8,
+              "value": 2800
+            },
+            {
+              "row": 16,
+              "col": 9,
+              "value": 2800
+            },
+            {
+              "row": 16,
+              "col": 10,
+              "value": "SGSIN+TWKHH"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 1,
+              "value": "Belgium"
+            },
+            {
+              "row": 17,
+              "col": 2,
+              "value": "ANTWERPEN"
+            },
+            {
+              "row": 17,
+              "col": 3,
+              "value": "BEANR"
+            },
+            {
+              "row": 17,
+              "col": 4,
+              "value": "Bangladesh"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": "CHATTOGRAM"
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": "BDCGX"
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": 900
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": 980
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": 780
+            },
+            {
+              "row": 17,
+              "col": 10,
+              "value": "SGSIN"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 1,
+              "value": "Germany"
+            },
+            {
+              "row": 18,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 18,
+              "col": 3,
+              "value": "DEHAM"
+            },
+            {
+              "row": 18,
+              "col": 4,
+              "value": "Bangladesh"
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": "CHATTOGRAM"
+            },
+            {
+              "row": 18,
+              "col": 6,
+              "value": "BDCGX"
+            },
+            {
+              "row": 18,
+              "col": 7,
+              "value": 900
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": 980
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": 780
+            },
+            {
+              "row": 18,
+              "col": 10,
+              "value": "SGSIN"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 1,
+              "value": "Netherlands"
+            },
+            {
+              "row": 19,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 19,
+              "col": 3,
+              "value": "NLRTM"
+            },
+            {
+              "row": 19,
+              "col": 4,
+              "value": "Bangladesh"
+            },
+            {
+              "row": 19,
+              "col": 5,
+              "value": "CHATTOGRAM"
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": "BDCGX"
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": 900
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": 980
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": 780
+            },
+            {
+              "row": 19,
+              "col": 10,
+              "value": "SGSIN"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 1,
+              "value": "Belgium"
+            },
+            {
+              "row": 20,
+              "col": 2,
+              "value": "ANTWERPEN"
+            },
+            {
+              "row": 20,
+              "col": 3,
+              "value": "BEANR"
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": "ANJI"
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": "CNANJ"
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": 100
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": 60
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": 40
+            },
+            {
+              "row": 20,
+              "col": 10,
+              "value": "CNSHA"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 1,
+              "value": "Germany"
+            },
+            {
+              "row": 21,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 21,
+              "col": 3,
+              "value": "DEHAM"
+            },
+            {
+              "row": 21,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": "ANJI"
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": "CNANJ"
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": 100
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": 60
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": 40
+            },
+            {
+              "row": 21,
+              "col": 10,
+              "value": "CNSHA"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 1,
+              "value": "Netherlands"
+            },
+            {
+              "row": 22,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 22,
+              "col": 3,
+              "value": "NLRTM"
+            },
+            {
+              "row": 22,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": "ANJI"
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": "CNANJ"
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": 100
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": 60
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": 40
+            },
+            {
+              "row": 22,
+              "col": 10,
+              "value": "CNSHA"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 1,
+              "value": "Belgium"
+            },
+            {
+              "row": 23,
+              "col": 2,
+              "value": "ANTWERPEN"
+            },
+            {
+              "row": 23,
+              "col": 3,
+              "value": "BEANR"
+            },
+            {
+              "row": 23,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": "ANQING"
+            },
+            {
+              "row": 23,
+              "col": 6,
+              "value": "CNAQG"
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": 140
+            },
+            {
+              "row": 23,
+              "col": 8,
+              "value": 205
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": 205
+            },
+            {
+              "row": 23,
+              "col": 10,
+              "value": "CNSHA"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 1,
+              "value": "Germany"
+            },
+            {
+              "row": 24,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 24,
+              "col": 3,
+              "value": "DEHAM"
+            },
+            {
+              "row": 24,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": "ANQING"
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": "CNAQG"
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": 140
+            },
+            {
+              "row": 24,
+              "col": 8,
+              "value": 205
+            },
+            {
+              "row": 24,
+              "col": 9,
+              "value": 205
+            },
+            {
+              "row": 24,
+              "col": 10,
+              "value": "CNSHA"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 1,
+              "value": "Netherlands"
+            },
+            {
+              "row": 25,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 25,
+              "col": 3,
+              "value": "NLRTM"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": "ANQING"
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": "CNAQG"
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": 140
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": 205
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": 205
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": "CNSHA"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 1,
+              "value": "Belgium"
+            },
+            {
+              "row": 26,
+              "col": 2,
+              "value": "ANTWERPEN"
+            },
+            {
+              "row": 26,
+              "col": 3,
+              "value": "BEANR"
+            },
+            {
+              "row": 26,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": "BEIJIAO,SHUNDE"
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": "CNBJO"
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": 215
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": 255
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": 255
+            },
+            {
+              "row": 26,
+              "col": 10,
+              "value": "SGSIN+CNYTN/CNYTN"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 1,
+              "value": "Germany"
+            },
+            {
+              "row": 27,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 27,
+              "col": 3,
+              "value": "DEHAM"
+            },
+            {
+              "row": 27,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": "BEIJIAO,SHUNDE"
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": "CNBJO"
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": 215
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": 255
+            },
+            {
+              "row": 27,
+              "col": 9,
+              "value": 255
+            },
+            {
+              "row": 27,
+              "col": 10,
+              "value": "CNYTN"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 1,
+              "value": "Netherlands"
+            },
+            {
+              "row": 28,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 28,
+              "col": 3,
+              "value": "NLRTM"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": "BEIJIAO,SHUNDE"
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": "CNBJO"
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": 215
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": 255
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": 255
+            },
+            {
+              "row": 28,
+              "col": 10,
+              "value": "CNYTN"
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 1,
+              "value": "Belgium"
+            },
+            {
+              "row": 29,
+              "col": 2,
+              "value": "ANTWERPEN"
+            },
+            {
+              "row": 29,
+              "col": 3,
+              "value": "BEANR"
+            },
+            {
+              "row": 29,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": "CHANGSHU"
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": "CNCHS"
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": 340
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": 430
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": 430
+            },
+            {
+              "row": 29,
+              "col": 10,
+              "value": "CNSHA"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 1,
+              "value": "Germany"
+            },
+            {
+              "row": 30,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 30,
+              "col": 3,
+              "value": "DEHAM"
+            },
+            {
+              "row": 30,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": "CHANGSHU"
+            },
+            {
+              "row": 30,
+              "col": 6,
+              "value": "CNCHS"
+            },
+            {
+              "row": 30,
+              "col": 7,
+              "value": 340
+            },
+            {
+              "row": 30,
+              "col": 8,
+              "value": 430
+            },
+            {
+              "row": 30,
+              "col": 9,
+              "value": 430
+            },
+            {
+              "row": 30,
+              "col": 10,
+              "value": "CNSHA"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 1,
+              "value": "Netherlands"
+            },
+            {
+              "row": 31,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 31,
+              "col": 3,
+              "value": "NLRTM"
+            },
+            {
+              "row": 31,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": "CHANGSHU"
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": "CNCHS"
+            },
+            {
+              "row": 31,
+              "col": 7,
+              "value": 340
+            },
+            {
+              "row": 31,
+              "col": 8,
+              "value": 430
+            },
+            {
+              "row": 31,
+              "col": 9,
+              "value": 430
+            },
+            {
+              "row": 31,
+              "col": 10,
+              "value": "CNSHA"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 1,
+              "value": "Belgium"
+            },
+            {
+              "row": 32,
+              "col": 2,
+              "value": "ANTWERPEN"
+            },
+            {
+              "row": 32,
+              "col": 3,
+              "value": "BEANR"
+            },
+            {
+              "row": 32,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": "CIVET,ZHUHAI"
+            },
+            {
+              "row": 32,
+              "col": 6,
+              "value": "CNCIV"
+            },
+            {
+              "row": 32,
+              "col": 7,
+              "value": 215
+            },
+            {
+              "row": 32,
+              "col": 8,
+              "value": 205
+            },
+            {
+              "row": 32,
+              "col": 9,
+              "value": 205
+            },
+            {
+              "row": 32,
+              "col": 10,
+              "value": "SGSIN+CNYTN/CNYTN"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 1,
+              "value": "Germany"
+            },
+            {
+              "row": 33,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 33,
+              "col": 3,
+              "value": "DEHAM"
+            },
+            {
+              "row": 33,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 33,
+              "col": 5,
+              "value": "CIVET,ZHUHAI"
+            },
+            {
+              "row": 33,
+              "col": 6,
+              "value": "CNCIV"
+            },
+            {
+              "row": 33,
+              "col": 7,
+              "value": 215
+            },
+            {
+              "row": 33,
+              "col": 8,
+              "value": 205
+            },
+            {
+              "row": 33,
+              "col": 9,
+              "value": 205
+            },
+            {
+              "row": 33,
+              "col": 10,
+              "value": "CNYTN"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 1,
+              "value": "Netherlands"
+            },
+            {
+              "row": 34,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 34,
+              "col": 3,
+              "value": "NLRTM"
+            },
+            {
+              "row": 34,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 34,
+              "col": 5,
+              "value": "CIVET,ZHUHAI"
+            },
+            {
+              "row": 34,
+              "col": 6,
+              "value": "CNCIV"
+            },
+            {
+              "row": 34,
+              "col": 7,
+              "value": 215
+            },
+            {
+              "row": 34,
+              "col": 8,
+              "value": 205
+            },
+            {
+              "row": 34,
+              "col": 9,
+              "value": 205
+            },
+            {
+              "row": 34,
+              "col": 10,
+              "value": "CNYTN"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 1,
+              "value": "Belgium"
+            },
+            {
+              "row": 35,
+              "col": 2,
+              "value": "ANTWERPEN"
+            },
+            {
+              "row": 35,
+              "col": 3,
+              "value": "BEANR"
+            },
+            {
+              "row": 35,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 35,
+              "col": 5,
+              "value": "CHONGQING"
+            },
+            {
+              "row": 35,
+              "col": 6,
+              "value": "CNCKG"
+            },
+            {
+              "row": 35,
+              "col": 7,
+              "value": 505
+            },
+            {
+              "row": 35,
+              "col": 8,
+              "value": 455
+            },
+            {
+              "row": 35,
+              "col": 9,
+              "value": 455
+            },
+            {
+              "row": 35,
+              "col": 10,
+              "value": "CNSHA"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 1,
+              "value": "Germany"
+            },
+            {
+              "row": 36,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 36,
+              "col": 3,
+              "value": "DEHAM"
+            },
+            {
+              "row": 36,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 36,
+              "col": 5,
+              "value": "CHONGQING"
+            },
+            {
+              "row": 36,
+              "col": 6,
+              "value": "CNCKG"
+            },
+            {
+              "row": 36,
+              "col": 7,
+              "value": 465
+            },
+            {
+              "row": 36,
+              "col": 8,
+              "value": 455
+            },
+            {
+              "row": 36,
+              "col": 9,
+              "value": 455
+            },
+            {
+              "row": 36,
+              "col": 10,
+              "value": "CNSHA"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 1,
+              "value": "Netherlands"
+            },
+            {
+              "row": 37,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 37,
+              "col": 3,
+              "value": "NLRTM"
+            },
+            {
+              "row": 37,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 37,
+              "col": 5,
+              "value": "CHONGQING"
+            },
+            {
+              "row": 37,
+              "col": 6,
+              "value": "CNCKG"
+            },
+            {
+              "row": 37,
+              "col": 7,
+              "value": 465
+            },
+            {
+              "row": 37,
+              "col": 8,
+              "value": 455
+            },
+            {
+              "row": 37,
+              "col": 9,
+              "value": 455
+            },
+            {
+              "row": 37,
+              "col": 10,
+              "value": "CNSHA"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 1,
+              "value": "Belgium"
+            },
+            {
+              "row": 38,
+              "col": 2,
+              "value": "ANTWERPEN"
+            },
+            {
+              "row": 38,
+              "col": 3,
+              "value": "BEANR"
+            },
+            {
+              "row": 38,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 38,
+              "col": 5,
+              "value": "CHANGSHA"
+            },
+            {
+              "row": 38,
+              "col": 6,
+              "value": "CNCSX"
+            },
+            {
+              "row": 38,
+              "col": 7,
+              "value": 415
+            },
+            {
+              "row": 38,
+              "col": 8,
+              "value": 580
+            },
+            {
+              "row": 38,
+              "col": 9,
+              "value": 580
+            },
+            {
+              "row": 38,
+              "col": 10,
+              "value": "CNSHA"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 1,
+              "value": "Germany"
+            },
+            {
+              "row": 39,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 39,
+              "col": 3,
+              "value": "DEHAM"
+            },
+            {
+              "row": 39,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 39,
+              "col": 5,
+              "value": "CHANGSHA"
+            },
+            {
+              "row": 39,
+              "col": 6,
+              "value": "CNCSX"
+            },
+            {
+              "row": 39,
+              "col": 7,
+              "value": 415
+            },
+            {
+              "row": 39,
+              "col": 8,
+              "value": 580
+            },
+            {
+              "row": 39,
+              "col": 9,
+              "value": 580
+            },
+            {
+              "row": 39,
+              "col": 10,
+              "value": "CNSHA"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 1,
+              "value": "Netherlands"
+            },
+            {
+              "row": 40,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 40,
+              "col": 3,
+              "value": "NLRTM"
+            },
+            {
+              "row": 40,
+              "col": 4,
+              "value": "China"
+            },
+            {
+              "row": 40,
+              "col": 5,
+              "value": "CHANGSHA"
+            },
+            {
+              "row": 40,
+              "col": 6,
+              "value": "CNCSX"
+            },
+            {
+              "row": 40,
+              "col": 7,
+              "value": 415
+            },
+            {
+              "row": 40,
+              "col": 8,
+              "value": 580
+            },
+            {
+              "row": 40,
+              "col": 9,
+              "value": 580
+            },
+            {
+              "row": 40,
+              "col": 10,
+              "value": "CNSHA"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 6
+    }
+  ]
+}

@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react';
-import { Table, Tag, Space, Button, Spin, Input, Modal } from 'antd';
+import { Table, Tag, Space, Button, Input, Modal } from 'antd';
 import { EyeOutlined, ReloadOutlined } from '@ant-design/icons';
 import type { ColumnsType } from 'antd/es/table';
-import { ratesheetApi, RatesheetSummary, RateLine, Page } from '../api/ratesheetApi';
+import { ratesheetApi } from '../api/ratesheetApi';
+import type { RatesheetSummary, RateLine, Page } from '../api/ratesheetApi';
 
 const { Search } = Input;
 
@@ -64,7 +65,7 @@ const RatesheetsPage: React.FC = () => {
   const columns: ColumnsType<RatesheetSummary> = [
     { title: 'ID', dataIndex: 'id', width: 60 },
     { title: 'Carrier', dataIndex: 'carrierScac', width: 80,
-      render: (v, r) => <Tag color="blue">{v}</Tag> },
+      render: (v: string) => <Tag color="blue">{v}</Tag> },
     { title: 'Source', dataIndex: 'source', ellipsis: true },
     { title: 'Type', dataIndex: 'type', width: 80,
       render: v => <Tag color={typeColor[v] || 'default'}>{v}</Tag> },

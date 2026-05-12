@@ -92,7 +92,10 @@ public class CoscoOogParser implements RatesheetParser {
 
             String pod = CellReader.string(row, 3);
             if (pod == null || pod.isBlank() || pod.length() > 50) continue;
-            if (pod.toUpperCase().contains("POD") || pod.toUpperCase().contains("FILING")) continue;
+            String podUp = pod.toUpperCase();
+            if (podUp.contains("POD") || podUp.contains("FILING") || podUp.contains("CARGO")
+                    || podUp.contains("LENGTH") || podUp.contains("BASIS")) continue;
+            if (pod.trim().matches("[0-9.]+")) continue; // skip numeric cargo-dimension rows
 
             // Columns 4,5 = in-gauge (OT20, OT40); 8,9 = OW; 10,11 = OW+OH
             BigDecimal ot20 = CellReader.number(row, 4);
@@ -106,7 +109,10 @@ public class CoscoOogParser implements RatesheetParser {
                 String pol = nameToLocode(polRaw.trim());
                 if (pol == null) continue;
                 String podCode = nameToLocode(pod.trim());
-                String finalPod = podCode != null ? podCode : pod.toUpperCase().replaceAll("\\s.*", "").substring(0, Math.min(5, pod.length()));
+                String cleaned = pod.toUpperCase().replaceAll("\\s.*", "");
+                String finalPod = podCode != null ? podCode
+                        : (cleaned.length() >= 2 ? cleaned.substring(0, Math.min(5, cleaned.length())) : null);
+                if (finalPod == null) continue;
 
                 if (ot20 != null) out.add(line(pol, finalPod, pod, Equipment.OT20, ot20, currency));
                 if (ot40 != null) out.add(line(pol, finalPod, pod, Equipment.OT40, ot40, currency));
@@ -143,11 +149,35 @@ public class CoscoOogParser implements RatesheetParser {
             case "XINGANG", "TIANJIN"-> "CNTXG";
             case "SHEKOU"            -> "CNSHK";
             case "YANTIAN"           -> "CNYTN";
-            case "SINGAPORE"         -> "SGSIN";
-            case "NHAVASHEVA"        -> "INNSA";
-            case "MUNDRA"            -> "INMUN";
-            case "KARACHI"           -> "PKKAR";
-            case "COLOMBO"           -> "LKCMB";
+            case "PORTKELANG", "PORTKLANG"  -> "MYPKG";
+            case "LAEMCHABANG"              -> "THLCH";
+            case "HOCHIMINH", "HCM"        -> "VNSGN";
+            case "HAIPHONG"                -> "VNHPH";
+            case "BANGKOK"                 -> "THBKK";
+            case "JAKARTA"                 -> "IDJKT";
+            case "SURABAYA"                -> "IDSBY";
+            case "MANILA"                  -> "PHMNL";
+            case "HONGKONG"                -> "HKHKG";
+            case "KAOHSIUNG"               -> "TWKHH";
+            case "PUSAN", "BUSAN"          -> "KRBSN";
+            case "PENANG"                  -> "MYPGU";
+            case "PASIRGUDANG"              -> "MYPGN";
+            case "TAIPEI", "TAIWANPORT"    -> "TWTPE";
+            case "JEBELALI"                -> "AEJEA";
+            case "ABUDHABI"                -> "AEAUH";
+            case "DAMMAM"                  -> "SADMM";
+            case "BAHRAIN"                 -> "BHBAH";
+            case "SHUAIBA"                 -> "KWSHU";
+            case "SHUWAIKH"                -> "KWKWI";
+            case "SOHAR"                   -> "OMSOQ";
+            case "SHARJAH"                 -> "AESHJ";
+            case "VISAKHAPATNAM"           -> "INVTZ";
+            case "CHENNAI"                 -> "INMAA";
+            case "KATTUPALLI"              -> "INKTP";
+            case "NHAVASHEVA"              -> "INNSA";
+            case "MUNDRA"                  -> "INMUN";
+            case "KARACHI"                 -> "PKKAR";
+            case "COLOMBO"                 -> "LKCMB";
             case "SANTOS"            -> "BRSSZ";
             case "PARANAGUA"         -> "BRPNZ";
             case "CALLAO"            -> "PECLL";

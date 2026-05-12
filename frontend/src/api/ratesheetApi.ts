@@ -1,11 +1,11 @@
 import api from './config';
 
 export interface DashboardStats {
-  carriers: number;
+  carrierCount: number;
   activeRatesheets: number;
   totalRatesheets: number;
   totalRateLines: number;
-  ports: number;
+  portCount: number;
 }
 
 export interface RatesheetSummary {
@@ -68,4 +68,5 @@ export const ratesheetApi = {
     });
   },
 };
+
 

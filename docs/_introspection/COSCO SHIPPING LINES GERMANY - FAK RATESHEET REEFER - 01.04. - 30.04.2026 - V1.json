@@ -1,0 +1,5982 @@
+{
+  "file": "COSCO SHIPPING LINES GERMANY - FAK RATESHEET REEFER - 01.04. - 30.04.2026 - V1.xlsx",
+  "sheets": [
+    {
+      "name": "Reefer FE",
+      "dimensions": "A1:BB611",
+      "max_row": 611,
+      "max_col": 54,
+      "merged_regions": [
+        "J137:M137",
+        "J113:M113",
+        "J124:M124",
+        "J118:M118",
+        "J114:M114",
+        "D9:F12",
+        "J134:M134",
+        "J125:M125",
+        "G9:I12",
+        "J133:M133",
+        "E14:F14",
+        "H4:I4",
+        "J130:M130",
+        "J121:M121",
+        "J115:M115",
+        "B42:B54",
+        "C29:C32",
+        "B14:B15",
+        "J11:L11",
+        "J129:M129",
+        "C16:C24",
+        "J135:M135",
+        "J126:M126",
+        "J120:M120",
+        "J122:M122",
+        "B29:B41",
+        "C86:I86",
+        "J116:M116",
+        "D8:F8",
+        "J112:M112",
+        "G14:G15",
+        "I14:I15",
+        "J131:M131",
+        "J136:M136",
+        "J127:M127",
+        "B69:I69",
+        "J117:M117",
+        "J123:M123",
+        "D14:D15",
+        "H3:I3",
+        "C61:C66",
+        "H14:H15",
+        "B55:B67",
+        "J119:M119",
+        "J132:M132",
+        "B6:I6",
+        "C42:C50",
+        "C14:C15",
+        "G8:I8",
+        "B16:B28"
+      ],
+      "rows_preview": [
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 8,
+              "value": "COSCO Shipping Lines ( Germany ) GmbH"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 8,
+              "value": "As agent only, for and on behalf of COSCO Shipping Lines CO.,LTD."
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 2,
+              "value": "REEFER CARGO - NORTH WEST CONTINENT / FAR EAST EASTBOUND"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 2,
+              "value": "VALIDITY"
+            },
+            {
+              "row": 8,
+              "col": 3,
+              "value": "01.04.2026 - 30.04.2026"
+            },
+            {
+              "row": 8,
+              "col": 4,
+              "value": "BASIS OF CALCULATION"
+            },
+            {
+              "row": 8,
+              "col": 7,
+              "value": "REMARKS / TRADE NEWS"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 2,
+              "value": "COMMODITY"
+            },
+            {
+              "row": 9,
+              "col": 3,
+              "value": "Freight All Kind (FAK), Non Hazardous"
+            },
+            {
+              "row": 9,
+              "col": 4,
+              "value": "CARGO RECEIVE DATE"
+            },
+            {
+              "row": 9,
+              "col": 7,
+              "value": "• EFS for Shipments towards FE – Effective 20 March 2026\t\t"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 2,
+              "value": "CURRENCY"
+            },
+            {
+              "row": 10,
+              "col": 3,
+              "value": "USD"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "TERMS & CONDITONS"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 2,
+              "value": "FILING REF"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 2,
+              "value": "POL"
+            },
+            {
+              "row": 14,
+              "col": 3,
+              "value": "AREA"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": "CARRIER EQUIPMENT"
+            },
+            {
+              "row": 14,
+              "col": 7,
+              "value": "TERM"
+            },
+            {
+              "row": 14,
+              "col": 8,
+              "value": "REMARK"
+            },
+            {
+              "row": 14,
+              "col": 9,
+              "value": "FILING AGREEMENT "
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 5,
+              "value": "20´RF"
+            },
+            {
+              "row": 15,
+              "col": 6,
+              "value": "40´RQ"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 16,
+              "col": 3,
+              "value": "CHINA"
+            },
+            {
+              "row": 16,
+              "col": 4,
+              "value": "DALIAN"
+            },
+            {
+              "row": 16,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 16,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 16,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 16,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 16,
+              "col": 9,
+              "value": "00047282-00042"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 4,
+              "value": "TIANJIN/XINGANG"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": "00047282-00042"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 4,
+              "value": "QINGDAO"
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 18,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 18,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": "00047282-00042"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 4,
+              "value": "SHANGHAI"
+            },
+            {
+              "row": 19,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": "00047282-00042"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 4,
+              "value": "NINGBO"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": "00047282-00042"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 4,
+              "value": "XIAMEN"
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": "00047282-00042"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 4,
+              "value": "YANTIAN"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": "00047282-00042"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 4,
+              "value": "NANSHA"
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 23,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 23,
+              "col": 8,
+              "value": "T/S"
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": "00047282-00128"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 4,
+              "value": "HONG KONG"
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 24,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 24,
+              "col": 9,
+              "value": "00047282-00042"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 3,
+              "value": "KOREA"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": "BUSAN"
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": "T/S"
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": "00047282-00128"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 3,
+              "value": "TAIWAN"
+            },
+            {
+              "row": 26,
+              "col": 4,
+              "value": "KAOHSIUNG"
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": "00047282-00042"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 3,
+              "value": "SINGAPORE"
+            },
+            {
+              "row": 27,
+              "col": 4,
+              "value": "SINGAPORE"
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": "T/S"
+            },
+            {
+              "row": 27,
+              "col": 9,
+              "value": "00047282-00128"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 3,
+              "value": "MALAYSIA"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": "PORT KELANG"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": "00047282-00042"
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 2,
+              "value": "WILHELMSHAVEN"
+            },
+            {
+              "row": 29,
+              "col": 3,
+              "value": "CHINA"
+            },
+            {
+              "row": 29,
+              "col": 4,
+              "value": "SHANGHAI"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": "00047282-00043"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 4,
+              "value": "YANTIAN"
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 30,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 30,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 30,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 30,
+              "col": 9,
+              "value": "00047282-00043"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 4,
+              "value": "NINGBO"
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 31,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 31,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 31,
+              "col": 9,
+              "value": "00047282-00043"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 4,
+              "value": "XIAMEN"
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 32,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 32,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 32,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 32,
+              "col": 9,
+              "value": "00047282-00043"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 3,
+              "value": "MALAYSIA"
+            },
+            {
+              "row": 33,
+              "col": 4,
+              "value": "PORT KELANG"
+            },
+            {
+              "row": 33,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 33,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 33,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 33,
+              "col": 8,
+              "value": "T/S"
+            },
+            {
+              "row": 33,
+              "col": 9,
+              "value": "00047282-00131"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 3,
+              "value": "SOUTH KOREA"
+            },
+            {
+              "row": 34,
+              "col": 4,
+              "value": "BUSAN"
+            },
+            {
+              "row": 34,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 34,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 34,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 34,
+              "col": 8,
+              "value": "T/S"
+            },
+            {
+              "row": 34,
+              "col": 9,
+              "value": "00047282-00131"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 3,
+              "value": "SINGAPORE"
+            },
+            {
+              "row": 35,
+              "col": 4,
+              "value": "SINGAPORE"
+            },
+            {
+              "row": 35,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 35,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 35,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 35,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 35,
+              "col": 9,
+              "value": "00047282-00043"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 4,
+              "value": "DALIAN"
+            },
+            {
+              "row": 36,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 36,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 36,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 36,
+              "col": 8,
+              "value": "T/S"
+            },
+            {
+              "row": 36,
+              "col": 9,
+              "value": "00047282-00131"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 4,
+              "value": "HONG KONG"
+            },
+            {
+              "row": 37,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 37,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 37,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 37,
+              "col": 8,
+              "value": "T/S"
+            },
+            {
+              "row": 37,
+              "col": 9,
+              "value": "00047282-00131"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 3,
+              "value": "CHINA"
+            },
+            {
+              "row": 38,
+              "col": 4,
+              "value": "NANSHA"
+            },
+            {
+              "row": 38,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 38,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 38,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 38,
+              "col": 8,
+              "value": "T/S"
+            },
+            {
+              "row": 38,
+              "col": 9,
+              "value": "00047282-00131"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 4,
+              "value": "QINGDAO"
+            },
+            {
+              "row": 39,
+              "col": 5,
+              "value": 1500
+            },
+            {
+              "row": 39,
+              "col": 6,
+              "value": 1200
+            },
+            {
+              "row": 39,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 39,
+              "col": 8,
+              "value": "Direct"
+            },
+            {
+              "row": 39,
+              "col": 9,
+              "value": "00047282-00043"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 4,
+              "value": "TIANJIN/XINGANG"
+            },
+            {
+              "row": 40,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 40,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 40,
+              "col": 7,
+              "value": "CYCY"
+            },
+            {
+              "row": 40,
+              "col": 8,
+              "value": "T/S"
+            },
+            {
+              "row": 40,
+              "col": 9,
+              "value": "00047282-00131"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 8
+    },
+    {
+      "name": "Reefer ME & IPBC",
+      "dimensions": "A1:CJ83",
+      "max_row": 83,
+      "max_col": 88,
+      "merged_regions": [
+        "C30:C31",
+        "C20:C21",
+        "C33:C34",
+        "D9:F12",
+        "B23:B29",
+        "G9:I12",
+        "E14:F14",
+        "H4:I4",
+        "C16:C17",
+        "B14:B15",
+        "D8:F8",
+        "B16:B22",
+        "G14:G15",
+        "I14:I15",
+        "C23:C24",
+        "C27:C28",
+        "B37:I37",
+        "D14:D15",
+        "C55:I55",
+        "H3:I3",
+        "H14:H15",
+        "B30:B35",
+        "B6:I6",
+        "G8:I8",
+        "C14:C15"
+      ],
+      "rows_preview": [
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 8,
+              "value": "COSCO Shipping Lines ( Germany ) GmbH"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 8,
+              "value": "As agent only, for and on behalf of COSCO Shipping Lines CO.,LTD."
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 2,
+              "value": "REEFER CARGO - NORTH WEST CONTINENT / ME / IPBC EASTBOUND  "
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 2,
+              "value": "VALIDITY"
+            },
+            {
+              "row": 8,
+              "col": 3,
+              "value": "01.04.2026 - 30.04.2026"
+            },
+            {
+              "row": 8,
+              "col": 4,
+              "value": "BASIS OF CALCULATION"
+            },
+            {
+              "row": 8,
+              "col": 7,
+              "value": "REMARKS / TRADE NEWS"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 2,
+              "value": "COMMODITY"
+            },
+            {
+              "row": 9,
+              "col": 3,
+              "value": "Freight All Kind (FAK), Non Hazardous"
+            },
+            {
+              "row": 9,
+              "col": 4,
+              "value": "CARGO RECEIVE DATE"
+            },
+            {
+              "row": 9,
+              "col": 7,
+              "value": "• EFS for Shipments towards ME&IPBC – Effective 20 March 2026\t\t"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 2,
+              "value": "CURRENCY"
+            },
+            {
+              "row": 10,
+              "col": 3,
+              "value": "USD"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "TERMS & CONDITONS"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 2,
+              "value": "FILING REF"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 2,
+              "value": "POL"
+            },
+            {
+              "row": 14,
+              "col": 3,
+              "value": "AREA"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": "CARRIER EQUIPMENT"
+            },
+            {
+              "row": 14,
+              "col": 7,
+              "value": "DIRECT OR T/S"
+            },
+            {
+              "row": 14,
+              "col": 8,
+              "value": "TERM"
+            },
+            {
+              "row": 14,
+              "col": 9,
+              "value": "FILING AGREEMENT "
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 5,
+              "value": "20´RF"
+            },
+            {
+              "row": 15,
+              "col": 6,
+              "value": "40´RQ"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 16,
+              "col": 3,
+              "value": "INDIA"
+            },
+            {
+              "row": 16,
+              "col": 4,
+              "value": "NHAVA SHEVA"
+            },
+            {
+              "row": 16,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 16,
+              "col": 6,
+              "value": 1600
+            },
+            {
+              "row": 16,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 16,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 16,
+              "col": 9,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 4,
+              "value": "MUNDRA"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": 1600
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 3,
+              "value": "SRI LANKA"
+            },
+            {
+              "row": 18,
+              "col": 4,
+              "value": "COLOMBO"
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 18,
+              "col": 6,
+              "value": 1600
+            },
+            {
+              "row": 18,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 3,
+              "value": "PAKISTAN"
+            },
+            {
+              "row": 19,
+              "col": 4,
+              "value": "KARACHI"
+            },
+            {
+              "row": 19,
+              "col": 5,
+              "value": 1700
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": 1600
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": "T/S"
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 3,
+              "value": "U. A. E. "
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": "ABU DHABI"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": "suspended"
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": "suspended"
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": "n/a"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 4,
+              "value": "JEBEL ALI"
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": "suspended"
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": "suspended"
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": "n/a"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 3,
+              "value": "SAUDI ARABIA"
+            },
+            {
+              "row": 22,
+              "col": 4,
+              "value": "JEDDAH"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": "suspended"
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": "suspended"
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": "n/a"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 23,
+              "col": 3,
+              "value": "INDIA"
+            },
+            {
+              "row": 23,
+              "col": 4,
+              "value": "NHAVA SHEVA"
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": 1600
+            },
+            {
+              "row": 23,
+              "col": 6,
+              "value": 1600
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 23,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 4,
+              "value": "MUNDRA"
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": 1600
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": 1600
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 24,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 24,
+              "col": 9,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 3,
+              "value": "SRI LANKA"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": "COLOMBO"
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": 1600
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": 1600
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 3,
+              "value": "PAKISTAN"
+            },
+            {
+              "row": 26,
+              "col": 4,
+              "value": "KARACHI"
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": 1600
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": 1600
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": "T/S"
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 3,
+              "value": "U. A. E. "
+            },
+            {
+              "row": 27,
+              "col": 4,
+              "value": "ABU DHABI"
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": "suspended"
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": "suspended"
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 27,
+              "col": 9,
+              "value": "n/a"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 4,
+              "value": "JEBEL ALI"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": "suspended"
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": "suspended"
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": "n/a"
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 3,
+              "value": "SAUDI ARABIA"
+            },
+            {
+              "row": 29,
+              "col": 4,
+              "value": "JEDDAH"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": "suspended"
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": "suspended"
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": "n/a"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 2,
+              "value": "ANTWERP"
+            },
+            {
+              "row": 30,
+              "col": 3,
+              "value": "INDIA"
+            },
+            {
+              "row": 30,
+              "col": 4,
+              "value": "NHAVA SHEVA"
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": 2100
+            },
+            {
+              "row": 30,
+              "col": 6,
+              "value": 2000
+            },
+            {
+              "row": 30,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 30,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 30,
+              "col": 9,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 4,
+              "value": "MUNDRA"
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": 2100
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": 2000
+            },
+            {
+              "row": 31,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 31,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 31,
+              "col": 9,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 3,
+              "value": "PAKISTAN"
+            },
+            {
+              "row": 32,
+              "col": 4,
+              "value": "KARACHI"
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": "suspended"
+            },
+            {
+              "row": 32,
+              "col": 6,
+              "value": "suspended"
+            },
+            {
+              "row": 32,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 32,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 32,
+              "col": 9,
+              "value": "n/a"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 3,
+              "value": "U. A. E. "
+            },
+            {
+              "row": 33,
+              "col": 4,
+              "value": "ABU DHABI"
+            },
+            {
+              "row": 33,
+              "col": 5,
+              "value": "suspended"
+            },
+            {
+              "row": 33,
+              "col": 6,
+              "value": "suspended"
+            },
+            {
+              "row": 33,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 33,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 33,
+              "col": 9,
+              "value": "n/a"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 4,
+              "value": "JEBEL ALI"
+            },
+            {
+              "row": 34,
+              "col": 5,
+              "value": "suspended"
+            },
+            {
+              "row": 34,
+              "col": 6,
+              "value": "suspended"
+            },
+            {
+              "row": 34,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 34,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 34,
+              "col": 9,
+              "value": "n/a"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 3,
+              "value": "SAUDI ARABIA"
+            },
+            {
+              "row": 35,
+              "col": 4,
+              "value": "JEDDAH"
+            },
+            {
+              "row": 35,
+              "col": 5,
+              "value": "suspended"
+            },
+            {
+              "row": 35,
+              "col": 6,
+              "value": "suspended"
+            },
+            {
+              "row": 35,
+              "col": 7,
+              "value": "direct"
+            },
+            {
+              "row": 35,
+              "col": 8,
+              "value": "CYCY"
+            },
+            {
+              "row": 35,
+              "col": 9,
+              "value": "n/a"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 2,
+              "value": "TERMS & GENERAL CONDITONS"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 2,
+              "value": "FREIGHT TERMS"
+            },
+            {
+              "row": 38,
+              "col": 3,
+              "value": ": Prepaid only"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 2,
+              "value": "CURRENCY "
+            },
+            {
+              "row": 39,
+              "col": 3,
+              "value": ": USD only"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 2,
+              "value": "FREIGHT BASIS"
+            },
+            {
+              "row": 40,
+              "col": 3,
+              "value": ": GATE IN - Inclusive THC, FAF, BUC, SUZ, HCS"
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 8
+    },
+    {
+      "name": "FE & ME+IPBC Outports",
+      "dimensions": "A1:AO481",
+      "max_row": 481,
+      "max_col": 41,
+      "merged_regions": [
+        "E17:E18",
+        "G17:G18",
+        "D8:F8",
+        "H17:H18",
+        "B6:I6",
+        "C17:C18",
+        "D9:F12",
+        "F17:F18",
+        "B17:B18",
+        "G8:I8",
+        "D17:D18",
+        "G9:I12",
+        "I17:I18",
+        "H4:I4",
+        "B102:I102",
+        "B101:I101",
+        "H3:I3"
+      ],
+      "rows_preview": [
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 8,
+              "value": "COSCO Shipping Lines ( Germany ) GmbH"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 8,
+              "value": "As agent only, for and on behalf of COSCO Shipping Lines CO.,LTD."
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 2,
+              "value": "REEFER CARGO - NORTH WEST CONTINENT / FAR EAST EASTBOUND + ME / IPBC EASTBOUND - OUTPORT TARIFF"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 2,
+              "value": "VALIDITY"
+            },
+            {
+              "row": 8,
+              "col": 3,
+              "value": "01.04.2026 - 30.04.2026"
+            },
+            {
+              "row": 8,
+              "col": 4,
+              "value": "BASIS OF CALCULATION"
+            },
+            {
+              "row": 8,
+              "col": 7,
+              "value": "REMARKS / TRADE NEWS"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 2,
+              "value": "COMMODITY"
+            },
+            {
+              "row": 9,
+              "col": 3,
+              "value": "Freight All Kind (FAK), Non Hazardous"
+            },
+            {
+              "row": 9,
+              "col": 4,
+              "value": "CARGO RECEIVE DATE"
+            },
+            {
+              "row": 9,
+              "col": 7,
+              "value": "• EFS for Shipments towards FE+ME&IPBC – Effective 20 March 2026\t\t"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 2,
+              "value": "CURRENCY"
+            },
+            {
+              "row": 10,
+              "col": 3,
+              "value": "USD"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "TERMS & CONDITONS"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 2,
+              "value": "FILING REF"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "on request only"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 2,
+              "value": "The FE + ME / IPBC outports arbitrary for Europe Eastbound Service to be added to FE + ME / IPBC Base Port Rate - Pls. check T/S port.  "
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 2,
+              "value": "The FE + ME / IPBC outports arbitary is VATOS and could change at any time without notice - Pls. check the final TAD amount in advance"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 2,
+              "value": "DESTINATION COUNTRY"
+            },
+            {
+              "row": 17,
+              "col": 3,
+              "value": "DESTINATION CITY"
+            },
+            {
+              "row": 17,
+              "col": 4,
+              "value": "MODE"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": "TRANSPORT MODE"
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": "TRANSSHIPMENT PORT"
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": "20'RF "
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": "40'RQ"
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": "FILING AGREEMENT"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 2,
+              "value": "United Arab Emirates"
+            },
+            {
+              "row": 19,
+              "col": 3,
+              "value": "Ajman"
+            },
+            {
+              "row": 19,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 19,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": "Jebel Ali"
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": 800
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": 800
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": "currently not available "
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 2,
+              "value": "United Arab Emirates"
+            },
+            {
+              "row": 20,
+              "col": 3,
+              "value": "Ajman"
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": "Abu Dhabi"
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": 800
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": 800
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": "currently not available "
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 2,
+              "value": "Jordan"
+            },
+            {
+              "row": 21,
+              "col": 3,
+              "value": "Aqaba"
+            },
+            {
+              "row": 21,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": "Jeddah"
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": "suspended"
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": "suspended"
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": "currently not available "
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 2,
+              "value": "Bahrain"
+            },
+            {
+              "row": 22,
+              "col": 3,
+              "value": "Bahrain"
+            },
+            {
+              "row": 22,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": "Jebel Ali"
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": 800
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": "currently not available "
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 2,
+              "value": "Bahrain"
+            },
+            {
+              "row": 23,
+              "col": 3,
+              "value": "Bahrain"
+            },
+            {
+              "row": 23,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 23,
+              "col": 6,
+              "value": "Abu Dhabi"
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 23,
+              "col": 8,
+              "value": 800
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": "currently not available "
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 2,
+              "value": "Thailand"
+            },
+            {
+              "row": 24,
+              "col": 3,
+              "value": "Bangkok"
+            },
+            {
+              "row": 24,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": "Singapore"
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": 400
+            },
+            {
+              "row": 24,
+              "col": 8,
+              "value": 500
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 2,
+              "value": "Indonesia"
+            },
+            {
+              "row": 25,
+              "col": 3,
+              "value": "Batam"
+            },
+            {
+              "row": 25,
+              "col": 4,
+              "value": "DOOR"
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": "Singapore"
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": "-"
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 2,
+              "value": "Indonesia"
+            },
+            {
+              "row": 26,
+              "col": 3,
+              "value": "Belawan"
+            },
+            {
+              "row": 26,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": "Singapore"
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": 800
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 2,
+              "value": "Indonesia"
+            },
+            {
+              "row": 27,
+              "col": 3,
+              "value": "Belawan"
+            },
+            {
+              "row": 27,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": "Port Kelang"
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": 800
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 2,
+              "value": "Malaysia"
+            },
+            {
+              "row": 28,
+              "col": 3,
+              "value": "Bintulu"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": "Singapore"
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": 1400
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": 1500
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 2,
+              "value": "Bangladesh"
+            },
+            {
+              "row": 29,
+              "col": 3,
+              "value": "Chittagong"
+            },
+            {
+              "row": 29,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": "Colombo"
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": 1700
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": 1900
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 2,
+              "value": "Vietnam"
+            },
+            {
+              "row": 30,
+              "col": 3,
+              "value": "Da Nang"
+            },
+            {
+              "row": 30,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 30,
+              "col": 6,
+              "value": "Singapore"
+            },
+            {
+              "row": 30,
+              "col": 7,
+              "value": 800
+            },
+            {
+              "row": 30,
+              "col": 8,
+              "value": 800
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 2,
+              "value": "Saudi Arabia"
+            },
+            {
+              "row": 31,
+              "col": 3,
+              "value": "Dammam"
+            },
+            {
+              "row": 31,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": "Jebel Ali"
+            },
+            {
+              "row": 31,
+              "col": 7,
+              "value": 300
+            },
+            {
+              "row": 31,
+              "col": 8,
+              "value": 400
+            },
+            {
+              "row": 31,
+              "col": 9,
+              "value": "currently not available "
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 2,
+              "value": "Saudi Arabia"
+            },
+            {
+              "row": 32,
+              "col": 3,
+              "value": "Dammam"
+            },
+            {
+              "row": 32,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 32,
+              "col": 6,
+              "value": "Jeddah"
+            },
+            {
+              "row": 32,
+              "col": 7,
+              "value": "suspended"
+            },
+            {
+              "row": 32,
+              "col": 8,
+              "value": "suspended"
+            },
+            {
+              "row": 32,
+              "col": 9,
+              "value": "currently not available "
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 2,
+              "value": "Saudi Arabia"
+            },
+            {
+              "row": 33,
+              "col": 3,
+              "value": "Dammam"
+            },
+            {
+              "row": 33,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 33,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 33,
+              "col": 6,
+              "value": "Abu Dhabi"
+            },
+            {
+              "row": 33,
+              "col": 7,
+              "value": 300
+            },
+            {
+              "row": 33,
+              "col": 8,
+              "value": 400
+            },
+            {
+              "row": 33,
+              "col": 9,
+              "value": "currently not available "
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 2,
+              "value": "Philippines"
+            },
+            {
+              "row": 34,
+              "col": 3,
+              "value": "Davao City"
+            },
+            {
+              "row": 34,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 34,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 34,
+              "col": 6,
+              "value": "Ningbo"
+            },
+            {
+              "row": 34,
+              "col": 7,
+              "value": 800
+            },
+            {
+              "row": 34,
+              "col": 8,
+              "value": 800
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 2,
+              "value": "South Korea"
+            },
+            {
+              "row": 35,
+              "col": 3,
+              "value": "Gwangyang"
+            },
+            {
+              "row": 35,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 35,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 35,
+              "col": 6,
+              "value": "Shanghai"
+            },
+            {
+              "row": 35,
+              "col": 7,
+              "value": 500
+            },
+            {
+              "row": 35,
+              "col": 8,
+              "value": 600
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 2,
+              "value": "South Korea"
+            },
+            {
+              "row": 36,
+              "col": 3,
+              "value": "Gwangyang"
+            },
+            {
+              "row": 36,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 36,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 36,
+              "col": 6,
+              "value": "Qingdao"
+            },
+            {
+              "row": 36,
+              "col": 7,
+              "value": 500
+            },
+            {
+              "row": 36,
+              "col": 8,
+              "value": 600
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 2,
+              "value": "Vietnam"
+            },
+            {
+              "row": 37,
+              "col": 3,
+              "value": "Hai Phong"
+            },
+            {
+              "row": 37,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 37,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 37,
+              "col": 6,
+              "value": "Yantian"
+            },
+            {
+              "row": 37,
+              "col": 7,
+              "value": 500
+            },
+            {
+              "row": 37,
+              "col": 8,
+              "value": 500
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 2,
+              "value": "Vietnam"
+            },
+            {
+              "row": 38,
+              "col": 3,
+              "value": "Hai Phong"
+            },
+            {
+              "row": 38,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 38,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 38,
+              "col": 6,
+              "value": "Singapore"
+            },
+            {
+              "row": 38,
+              "col": 7,
+              "value": 500
+            },
+            {
+              "row": 38,
+              "col": 8,
+              "value": 500
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 2,
+              "value": "Vietnam"
+            },
+            {
+              "row": 39,
+              "col": 3,
+              "value": "Hai Phong"
+            },
+            {
+              "row": 39,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 39,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 39,
+              "col": 6,
+              "value": "Hong kong"
+            },
+            {
+              "row": 39,
+              "col": 7,
+              "value": 500
+            },
+            {
+              "row": 39,
+              "col": 8,
+              "value": 500
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 2,
+              "value": "Vietnam"
+            },
+            {
+              "row": 40,
+              "col": 3,
+              "value": "Hai Phong "
+            },
+            {
+              "row": 40,
+              "col": 4,
+              "value": "CY"
+            },
+            {
+              "row": 40,
+              "col": 5,
+              "value": "Feeder"
+            },
+            {
+              "row": 40,
+              "col": 6,
+              "value": "Port Kelang"
+            },
+            {
+              "row": 40,
+              "col": 7,
+              "value": 500
+            },
+            {
+              "row": 40,
+              "col": 8,
+              "value": 500
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 8
+    },
+    {
+      "name": "Reefer SA East Coast",
+      "dimensions": "A1:AD234",
+      "max_row": 234,
+      "max_col": 30,
+      "merged_regions": [
+        "B22:B27",
+        "D9:F12",
+        "B16:B21",
+        "B14:B15",
+        "C22:C25",
+        "C16:C19",
+        "H3:J3",
+        "D8:F8",
+        "B6:J6",
+        "I14:I15",
+        "C56:J56",
+        "G8:J8",
+        "B41:J41",
+        "B34:B39",
+        "B28:B33",
+        "D14:D15",
+        "H14:H15",
+        "C28:C31",
+        "J14:J15",
+        "E14:G14",
+        "G9:J12",
+        "H4:J4",
+        "C34:C37",
+        "C14:C15"
+      ],
+      "rows_preview": [
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 8,
+              "value": "COSCO Shipping Lines ( Germany ) GmbH"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 8,
+              "value": "As agent only, for and on behalf of COSCO Shipping Lines CO.,LTD."
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 2,
+              "value": "REEFER CARGO - NORTH WEST CONTINENT / EAST COAST SOUTH AMERICA "
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 2,
+              "value": "VALIDITY"
+            },
+            {
+              "row": 8,
+              "col": 3,
+              "value": "01.04.2026 - 30.04.2026"
+            },
+            {
+              "row": 8,
+              "col": 4,
+              "value": "BASIS OF CALCULATION"
+            },
+            {
+              "row": 8,
+              "col": 7,
+              "value": "REMARKS / TRADE NEWS"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 2,
+              "value": "COMMODITY"
+            },
+            {
+              "row": 9,
+              "col": 3,
+              "value": "Freight All Kind (FAK), Non Hazardous"
+            },
+            {
+              "row": 9,
+              "col": 4,
+              "value": "LTS ( Long-term schedule Date) "
+            },
+            {
+              "row": 9,
+              "col": 7,
+              "value": "• no rail service to HPH Delta2 (RTM05), there are no tracks\n• no collect shipments  to Argentina accepted, all local charges at POD on basis prepaid only\n• EBS for Shipments towards SA – Effective 24 March 2026"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 2,
+              "value": "CURRENCY"
+            },
+            {
+              "row": 10,
+              "col": 3,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "TERMS & CONDITONS"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 2,
+              "value": "FILING REF"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "see below"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 2,
+              "value": "POL"
+            },
+            {
+              "row": 14,
+              "col": 3,
+              "value": "AREA"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": "CARRIER EQUIPMENT"
+            },
+            {
+              "row": 14,
+              "col": 8,
+              "value": "DIRECT OR T/S"
+            },
+            {
+              "row": 14,
+              "col": 9,
+              "value": "TERM"
+            },
+            {
+              "row": 14,
+              "col": 10,
+              "value": "FILING AGREEMENT"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 5,
+              "value": "20´RF"
+            },
+            {
+              "row": 15,
+              "col": 6,
+              "value": "40´HCRF"
+            },
+            {
+              "row": 15,
+              "col": 7,
+              "value": "40´HCRF NOR"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 16,
+              "col": 3,
+              "value": "Brazil"
+            },
+            {
+              "row": 16,
+              "col": 4,
+              "value": "PARANAGUA"
+            },
+            {
+              "row": 16,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 16,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 16,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 16,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 16,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 16,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 4,
+              "value": "SANTOS"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 17,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 4,
+              "value": "RIO DE JANEIRO"
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 18,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 18,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 18,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 4,
+              "value": "ITAJAI"
+            },
+            {
+              "row": 19,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 19,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 3,
+              "value": "URUGUAY"
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": "MONTEVIDEO"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 20,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 3,
+              "value": "ARGENTINA***"
+            },
+            {
+              "row": 21,
+              "col": 4,
+              "value": "BUENOS AIRES"
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 21,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 22,
+              "col": 3,
+              "value": "Brazil"
+            },
+            {
+              "row": 22,
+              "col": 4,
+              "value": "PARANAGUA"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 22,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 4,
+              "value": "SANTOS"
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 23,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 23,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 23,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 4,
+              "value": "RIO DE JANEIRO"
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 24,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 24,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 24,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 4,
+              "value": "ITAJAI"
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 3,
+              "value": "URUGUAY"
+            },
+            {
+              "row": 26,
+              "col": 4,
+              "value": "MONTEVIDEO"
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 26,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 3,
+              "value": "ARGENTINA***"
+            },
+            {
+              "row": 27,
+              "col": 4,
+              "value": "BUENOS AIRES"
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 27,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 27,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 2,
+              "value": "ANTWERP "
+            },
+            {
+              "row": 28,
+              "col": 3,
+              "value": "Brazil"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": "PARANAGUA"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 28,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 4,
+              "value": "SANTOS"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 29,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 4,
+              "value": "RIO DE JANEIRO"
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 30,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 30,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 30,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 30,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 30,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 4,
+              "value": "ITAJAI"
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 31,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 31,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 31,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 31,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 3,
+              "value": "URUGUAY"
+            },
+            {
+              "row": 32,
+              "col": 4,
+              "value": "MONTEVIDEO"
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 32,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 32,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 32,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 32,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 32,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 3,
+              "value": "ARGENTINA***"
+            },
+            {
+              "row": 33,
+              "col": 4,
+              "value": "BUENOS AIRES"
+            },
+            {
+              "row": 33,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 33,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 33,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 33,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 33,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 33,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 2,
+              "value": "FELIXSTOWE"
+            },
+            {
+              "row": 34,
+              "col": 3,
+              "value": "Brazil"
+            },
+            {
+              "row": 34,
+              "col": 4,
+              "value": "PARANAGUA"
+            },
+            {
+              "row": 34,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 34,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 34,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 34,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 34,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 34,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 4,
+              "value": "SANTOS"
+            },
+            {
+              "row": 35,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 35,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 35,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 35,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 35,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 35,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 4,
+              "value": "RIO DE JANEIRO"
+            },
+            {
+              "row": 36,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 36,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 36,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 36,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 36,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 36,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 4,
+              "value": "ITAJAI"
+            },
+            {
+              "row": 37,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 37,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 37,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 37,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 37,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 37,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 3,
+              "value": "URUGUAY"
+            },
+            {
+              "row": 38,
+              "col": 4,
+              "value": "MONTEVIDEO"
+            },
+            {
+              "row": 38,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 38,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 38,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 38,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 38,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 38,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 3,
+              "value": "ARGENTINA***"
+            },
+            {
+              "row": 39,
+              "col": 4,
+              "value": "BUENOS AIRES"
+            },
+            {
+              "row": 39,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 39,
+              "col": 6,
+              "value": 1400
+            },
+            {
+              "row": 39,
+              "col": 7,
+              "value": 700
+            },
+            {
+              "row": 39,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 39,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 39,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 8
+    },
+    {
+      "name": "Reefer SA Westcoast",
+      "dimensions": "A1:AS390",
+      "max_row": 390,
+      "max_col": 45,
+      "merged_regions": [
+        "B44:B50",
+        "D9:F12",
+        "B23:B29",
+        "C45:C46",
+        "B37:B43",
+        "B14:B15",
+        "B52:J52",
+        "C31:C32",
+        "H3:J3",
+        "D8:F8",
+        "B16:B22",
+        "B6:J6",
+        "B30:B36",
+        "I14:I15",
+        "G8:J8",
+        "C17:C18",
+        "D14:D15",
+        "H14:H15",
+        "J14:J15",
+        "E14:G14",
+        "C38:C39",
+        "C67:J67",
+        "G9:J12",
+        "H4:J4",
+        "C24:C25",
+        "C14:C15"
+      ],
+      "rows_preview": [
+        {
+          "row": 3,
+          "cells": [
+            {
+              "row": 3,
+              "col": 8,
+              "value": "COSCO Shipping Lines ( Germany ) GmbH"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "row": 4,
+              "col": 8,
+              "value": "As agent only, for and on behalf of COSCO Shipping Lines CO.,LTD."
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "row": 6,
+              "col": 2,
+              "value": "REEFER CARGO - NORTH WEST CONTINENT / WEST COAST SOUTH AMERICA "
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "row": 8,
+              "col": 2,
+              "value": "VALIDITY"
+            },
+            {
+              "row": 8,
+              "col": 3,
+              "value": "01.04.2026 - 30.04.2026"
+            },
+            {
+              "row": 8,
+              "col": 4,
+              "value": "BASIS OF CALCULATION"
+            },
+            {
+              "row": 8,
+              "col": 7,
+              "value": "REMARKS / TRADE NEWS"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "row": 9,
+              "col": 2,
+              "value": "COMMODITY"
+            },
+            {
+              "row": 9,
+              "col": 3,
+              "value": "please see below"
+            },
+            {
+              "row": 9,
+              "col": 4,
+              "value": "LTS ( Long-term schedule Date) "
+            },
+            {
+              "row": 9,
+              "col": 7,
+              "value": "• Restricted feeder service at Callao to Mexico - routing under construction\n• No rail service to HPH Delta2 (RTM05), there are no tracks \n• EBS for Shipments towards SA – Effective 24 March 2026"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "row": 10,
+              "col": 2,
+              "value": "CURRENCY"
+            },
+            {
+              "row": 10,
+              "col": 3,
+              "value": "EUR"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "row": 11,
+              "col": 2,
+              "value": "TERMS & CONDITONS"
+            },
+            {
+              "row": 11,
+              "col": 3,
+              "value": "please see below"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "row": 12,
+              "col": 2,
+              "value": "FILING REF"
+            },
+            {
+              "row": 12,
+              "col": 3,
+              "value": "see below"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "row": 14,
+              "col": 2,
+              "value": "POL"
+            },
+            {
+              "row": 14,
+              "col": 3,
+              "value": "AREA"
+            },
+            {
+              "row": 14,
+              "col": 4,
+              "value": "POD"
+            },
+            {
+              "row": 14,
+              "col": 5,
+              "value": "CARRIER EQUIPMENT"
+            },
+            {
+              "row": 14,
+              "col": 8,
+              "value": "DIRECT OR T/S"
+            },
+            {
+              "row": 14,
+              "col": 9,
+              "value": "TERM"
+            },
+            {
+              "row": 14,
+              "col": 10,
+              "value": "FILING AGREEMENT"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "row": 15,
+              "col": 5,
+              "value": "20´RF"
+            },
+            {
+              "row": 15,
+              "col": 6,
+              "value": "40´HCRF"
+            },
+            {
+              "row": 15,
+              "col": 7,
+              "value": "40´HCRF NOR"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "row": 16,
+              "col": 2,
+              "value": "HAMBURG"
+            },
+            {
+              "row": 16,
+              "col": 3,
+              "value": "DOMENICAN REP."
+            },
+            {
+              "row": 16,
+              "col": 4,
+              "value": "CAUCEDO"
+            },
+            {
+              "row": 16,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 16,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 16,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 16,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 16,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 16,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "row": 17,
+              "col": 3,
+              "value": "COLOMBIA"
+            },
+            {
+              "row": 17,
+              "col": 4,
+              "value": "CARTAGENA"
+            },
+            {
+              "row": 17,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 17,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 17,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 17,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 17,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 17,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "row": 18,
+              "col": 4,
+              "value": "BUENAVENTURA"
+            },
+            {
+              "row": 18,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 18,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 18,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 18,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 18,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 18,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "row": 19,
+              "col": 3,
+              "value": "PANAMA"
+            },
+            {
+              "row": 19,
+              "col": 4,
+              "value": "MANZANILLO"
+            },
+            {
+              "row": 19,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 19,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 19,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 19,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 19,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 19,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "row": 20,
+              "col": 3,
+              "value": "EQUADOR"
+            },
+            {
+              "row": 20,
+              "col": 4,
+              "value": "POSORJA"
+            },
+            {
+              "row": 20,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 20,
+              "col": 6,
+              "value": 1800
+            },
+            {
+              "row": 20,
+              "col": 7,
+              "value": 1400
+            },
+            {
+              "row": 20,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 20,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 20,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "row": 21,
+              "col": 3,
+              "value": "PERU"
+            },
+            {
+              "row": 21,
+              "col": 4,
+              "value": "CALLAO"
+            },
+            {
+              "row": 21,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 21,
+              "col": 6,
+              "value": 1800
+            },
+            {
+              "row": 21,
+              "col": 7,
+              "value": 1400
+            },
+            {
+              "row": 21,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 21,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 21,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "row": 22,
+              "col": 3,
+              "value": "CHILE"
+            },
+            {
+              "row": 22,
+              "col": 4,
+              "value": "SAN ANTONIO"
+            },
+            {
+              "row": 22,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 22,
+              "col": 6,
+              "value": 1800
+            },
+            {
+              "row": 22,
+              "col": 7,
+              "value": 1400
+            },
+            {
+              "row": 22,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 22,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 22,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "row": 23,
+              "col": 2,
+              "value": "ROTTERDAM"
+            },
+            {
+              "row": 23,
+              "col": 3,
+              "value": "DOMENICAN REP."
+            },
+            {
+              "row": 23,
+              "col": 4,
+              "value": "CAUCEDO"
+            },
+            {
+              "row": 23,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 23,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 23,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 23,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 23,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 23,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "row": 24,
+              "col": 3,
+              "value": "COLOMBIA"
+            },
+            {
+              "row": 24,
+              "col": 4,
+              "value": "CARTAGENA"
+            },
+            {
+              "row": 24,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 24,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 24,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 24,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 24,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 24,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "row": 25,
+              "col": 4,
+              "value": "BUENAVENTURA"
+            },
+            {
+              "row": 25,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 25,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 25,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 25,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 25,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 25,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "row": 26,
+              "col": 3,
+              "value": "PANAMA"
+            },
+            {
+              "row": 26,
+              "col": 4,
+              "value": "MANZANILLO"
+            },
+            {
+              "row": 26,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 26,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 26,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 26,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 26,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 26,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "row": 27,
+              "col": 3,
+              "value": "EQUADOR"
+            },
+            {
+              "row": 27,
+              "col": 4,
+              "value": "POSORJA"
+            },
+            {
+              "row": 27,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 27,
+              "col": 6,
+              "value": 1800
+            },
+            {
+              "row": 27,
+              "col": 7,
+              "value": 1400
+            },
+            {
+              "row": 27,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 27,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 27,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "row": 28,
+              "col": 3,
+              "value": "PERU"
+            },
+            {
+              "row": 28,
+              "col": 4,
+              "value": "CALLAO"
+            },
+            {
+              "row": 28,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 28,
+              "col": 6,
+              "value": 1800
+            },
+            {
+              "row": 28,
+              "col": 7,
+              "value": 1400
+            },
+            {
+              "row": 28,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 28,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 28,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "row": 29,
+              "col": 3,
+              "value": "CHILE"
+            },
+            {
+              "row": 29,
+              "col": 4,
+              "value": "SAN ANTONIO"
+            },
+            {
+              "row": 29,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 29,
+              "col": 6,
+              "value": 1800
+            },
+            {
+              "row": 29,
+              "col": 7,
+              "value": 1400
+            },
+            {
+              "row": 29,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 29,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 29,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "row": 30,
+              "col": 2,
+              "value": "ANTWERP"
+            },
+            {
+              "row": 30,
+              "col": 3,
+              "value": "DOMENICAN REP."
+            },
+            {
+              "row": 30,
+              "col": 4,
+              "value": "CAUCEDO"
+            },
+            {
+              "row": 30,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 30,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 30,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 30,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 30,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 30,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "row": 31,
+              "col": 3,
+              "value": "COLOMBIA"
+            },
+            {
+              "row": 31,
+              "col": 4,
+              "value": "CARTAGENA"
+            },
+            {
+              "row": 31,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 31,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 31,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 31,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 31,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 31,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "row": 32,
+              "col": 4,
+              "value": "BUENAVENTURA"
+            },
+            {
+              "row": 32,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 32,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 32,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 32,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 32,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 32,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "row": 33,
+              "col": 3,
+              "value": "PANAMA"
+            },
+            {
+              "row": 33,
+              "col": 4,
+              "value": "MANZANILLO"
+            },
+            {
+              "row": 33,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 33,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 33,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 33,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 33,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 33,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "row": 34,
+              "col": 3,
+              "value": "EQUADOR"
+            },
+            {
+              "row": 34,
+              "col": 4,
+              "value": "POSORJA"
+            },
+            {
+              "row": 34,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 34,
+              "col": 6,
+              "value": 1800
+            },
+            {
+              "row": 34,
+              "col": 7,
+              "value": 1400
+            },
+            {
+              "row": 34,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 34,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 34,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "row": 35,
+              "col": 3,
+              "value": "PERU"
+            },
+            {
+              "row": 35,
+              "col": 4,
+              "value": "CALLAO"
+            },
+            {
+              "row": 35,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 35,
+              "col": 6,
+              "value": 1800
+            },
+            {
+              "row": 35,
+              "col": 7,
+              "value": 1400
+            },
+            {
+              "row": 35,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 35,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 35,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "row": 36,
+              "col": 3,
+              "value": "CHILE"
+            },
+            {
+              "row": 36,
+              "col": 4,
+              "value": "SAN ANTONIO"
+            },
+            {
+              "row": 36,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 36,
+              "col": 6,
+              "value": 1800
+            },
+            {
+              "row": 36,
+              "col": 7,
+              "value": 1400
+            },
+            {
+              "row": 36,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 36,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 36,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "row": 37,
+              "col": 2,
+              "value": "LE HAVRE"
+            },
+            {
+              "row": 37,
+              "col": 3,
+              "value": "DOMENICAN REP."
+            },
+            {
+              "row": 37,
+              "col": 4,
+              "value": "CAUCEDO"
+            },
+            {
+              "row": 37,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 37,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 37,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 37,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 37,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 37,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "row": 38,
+              "col": 3,
+              "value": "COLOMBIA"
+            },
+            {
+              "row": 38,
+              "col": 4,
+              "value": "CARTAGENA"
+            },
+            {
+              "row": 38,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 38,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 38,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 38,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 38,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 38,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "row": 39,
+              "col": 4,
+              "value": "BUENAVENTURA"
+            },
+            {
+              "row": 39,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 39,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 39,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 39,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 39,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 39,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "row": 40,
+              "col": 3,
+              "value": "PANAMA"
+            },
+            {
+              "row": 40,
+              "col": 4,
+              "value": "MANZANILLO"
+            },
+            {
+              "row": 40,
+              "col": 5,
+              "value": "n/a"
+            },
+            {
+              "row": 40,
+              "col": 6,
+              "value": 1900
+            },
+            {
+              "row": 40,
+              "col": 7,
+              "value": "n/a"
+            },
+            {
+              "row": 40,
+              "col": 8,
+              "value": "direct"
+            },
+            {
+              "row": 40,
+              "col": 9,
+              "value": "CYCY"
+            },
+            {
+              "row": 40,
+              "col": 10,
+              "value": "please contact Sales Dept."
+            }
+          ]
+        }
+      ],
+      "header_row_guess": 8
+    }
+  ]
+}
