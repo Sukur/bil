@@ -1,0 +1,119 @@
+databaseChangeLog:
+  - changeSet:
+      id: 002-quote-schema
+      author: bil
+      changes:
+        - createTable:
+            tableName: quote
+            columns:
+              - column:
+                  name: id
+                  type: BIGINT
+                  autoIncrement: true
+                  constraints:
+                    primaryKey: true
+                    nullable: false
+              - column:
+                  name: tenant_id
+                  type: VARCHAR(64)
+                  defaultValue: default
+              - column:
+                  name: pol
+                  type: VARCHAR(5)
+                  constraints:
+                    nullable: false
+              - column:
+                  name: pod
+                  type: VARCHAR(5)
+                  constraints:
+                    nullable: false
+              - column:
+                  name: equipment
+                  type: VARCHAR(16)
+                  constraints:
+                    nullable: false
+              - column:
+                  name: commodity
+                  type: VARCHAR(64)
+                  defaultValue: FAK
+              - column:
+                  name: ready_date
+                  type: DATE
+              - column:
+                  name: status
+                  type: VARCHAR(16)
+                  defaultValue: OPEN
+                  constraints:
+                    nullable: false
+              - column:
+                  name: valid_until
+                  type: DATE
+              - column: { name: carrier_scac, type: VARCHAR(8) }
+              - column: { name: carrier_name, type: VARCHAR(128) }
+              - column: { name: rate_line_id,  type: BIGINT }
+              - column: { name: ratesheet_id,  type: BIGINT }
+              - column:
+                  name: ocean_freight
+                  type: "DECIMAL(12,2)"
+              - column:
+                  name: markup_amount
+                  type: "DECIMAL(12,2)"
+              - column:
+                  name: total_amount
+                  type: "DECIMAL(12,2)"
+              - column:
+                  name: currency
+                  type: VARCHAR(3)
+                  defaultValue: USD
+                  constraints:
+                    nullable: false
+              - column: { name: transit_days,    type: INT }
+              - column: { name: weight_kg,       type: INT }
+              - column: { name: candidate_count, type: INT }
+              - column:
+                  name: created_at
+                  type: TIMESTAMP
+                  constraints:
+                    nullable: false
+
+        - createIndex:
+            tableName: quote
+            indexName: ix_quote_created
+            columns:
+              - column: { name: created_at }
+
+        - createTable:
+            tableName: quote_charge
+            columns:
+              - column:
+                  name: id
+                  type: BIGINT
+                  autoIncrement: true
+                  constraints:
+                    primaryKey: true
+                    nullable: false
+              - column:
+                  name: quote_id
+                  type: BIGINT
+                  constraints:
+                    nullable: false
+                    foreignKeyName: fk_quote_charge_quote
+                    references: quote(id)
+              - column:
+                  name: code
+                  type: VARCHAR(32)
+                  constraints:
+                    nullable: false
+              - column: { name: description, type: VARCHAR(128) }
+              - column:
+                  name: amount
+                  type: "DECIMAL(12,2)"
+                  constraints:
+                    nullable: false
+              - column:
+                  name: currency
+                  type: VARCHAR(3)
+                  constraints:
+                    nullable: false
+              - column: { name: basis, type: VARCHAR(32) }
+
