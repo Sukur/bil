@@ -20,9 +20,10 @@ RUN ./gradlew bootJar -x installFrontend -x buildFrontend --no-daemon -q
 FROM eclipse-temurin:21-jre-alpine
 WORKDIR /app
 RUN addgroup -S bil && adduser -S bil -G bil
-RUN mkdir -p data
 COPY --from=builder /workspace/build/libs/bil-*.jar app.jar
-RUN chown -R bil:bil /app && chmod -R 755 /app/data
+RUN chown -R bil:bil /app
 USER bil
+# /tmp is always writable; override H2_DATA_PATH env var to use a Railway Volume
+ENV H2_DATA_PATH=/tmp/bil
 EXPOSE ${PORT:-8080}
 CMD ["sh", "-c", "java -XX:+UseContainerSupport -XX:MaxRAMPercentage=75.0 -Dserver.port=${PORT:-8080} -jar app.jar"]
