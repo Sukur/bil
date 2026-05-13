@@ -20,9 +20,9 @@ RUN ./gradlew bootJar -x installFrontend -x buildFrontend --no-daemon -q
 FROM eclipse-temurin:21-jre-alpine
 WORKDIR /app
 RUN addgroup -S bil && adduser -S bil -G bil
-RUN mkdir -p data && chown bil:bil data
+RUN mkdir -p data
 COPY --from=builder /workspace/build/libs/bil-*.jar app.jar
-RUN chown bil:bil app.jar
+RUN chown -R bil:bil /app && chmod -R 755 /app/data
 USER bil
 EXPOSE ${PORT:-8080}
 CMD ["sh", "-c", "java -XX:+UseContainerSupport -XX:MaxRAMPercentage=75.0 -Dserver.port=${PORT:-8080} -jar app.jar"]
