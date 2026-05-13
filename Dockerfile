@@ -24,7 +24,4 @@ COPY --from=builder /workspace/build/libs/bil-*.jar app.jar
 RUN chown -R bil:bil /app
 USER bil
 EXPOSE ${PORT:-8080}
-CMD ["sh", "-c", "java -XX:+UseContainerSupport -XX:MaxRAMPercentage=75.0 \
-  -Dserver.port=${PORT:-8080} \
-  -Dspring.datasource.url=jdbc:h2:file:${H2_DATA_PATH:-/tmp/bil} \
-  -jar app.jar"]
+CMD ["sh", "-c", "java -XX:+UseContainerSupport -XX:MaxRAMPercentage=75.0 -Dserver.port=${PORT:-8080} -Dspring.datasource.url=jdbc:h2:file:/tmp/bil -jar app.jar"]
